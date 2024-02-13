@@ -1,0 +1,240 @@
+
+
+@media screen and (max-width: 1400px) {
+
+  .nav-menu-div {
+    position: absolute;
+    left: 120px;
+    top: -40px;
+  }
+
+  .column-container {
+    margin-top: 32px;
+    margin-left: -20px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.8);
+    z-index: 20000;
+  }
+}
+
+
+
+@media screen and (max-width: 1200px) {
+
+  .nav-menu-div {
+    position: absolute;
+    left: 120px;
+    top: -40px;
+  }
+
+
+  .navbar {
+    background-color: #555;
+    transform: scale();
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 20000000000;
+  }
+
+  .column-container {
+    margin-top: 27px;
+    margin-left: -25px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.7);
+    z-index: 20000;
+  }
+}
+
+
+
+@media screen and (max-width: 800px) {
+
+
+  .nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Arrange items vertically in a column */
+    width: 100%;
+    height: 200px;
+    top: 145%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: relative;
+  }
+
+  .nav-container::-webkit-scrollbar {
+    display: none; /* Hide the scrollbar for WebKit browsers (Chrome, Safari) */
+  }
+
+  .nav-menu-div {
+    position: absolute;
+    left: 120px;
+    top: -40px;
+  }
+
+
+  .navbar {
+    background-color: #555;
+    transform: scale();
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 20000000000;
+  }
+
+  .column-container {
+    margin-top: 27px;
+    margin-left: -30px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.7);
+    z-index: 20000;
+  }
+  .nav-item .active {
+    color: #ffdd40;
+    border: none;
+  }
+  .nav-links {
+    padding: 1.rem;
+    width: 100%;
+    display: table;
+  }
+
+  .nav-logo .icon {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .nav-icon {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-100%, -50%);
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    color: #ffdd40;
+  }
+
+}
+
+
+@media screen and (max-width: 800px) {
+  .column-container {
+    margin-top: 15px;
+    margin-left: -30px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.7);
+    z-index: 20000;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+
+
+  .nav-menu-div {
+/*    line-height: 20px;*/
+    left: 100px;
+  }
+
+  .navbar {
+    height: 50px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -37px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.6);
+    z-index: 20000;
+  }
+
+}
+
+
+
+
+@media screen and (max-width: 450px) {
+
+  .nav-menu-div {
+/*    line-height: 20px;*/
+    left: 50px;
+  }
+
+  .navbar {
+    height: 40px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -40px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.55);
+    z-index: 20000;
+  }
+
+
+  .nav-menu-div {
+    position: absolute;
+    left: 100px;
+    top: -40px;
+  }
+
+}
+
+
+@media screen and (max-width: 400px) {
+
+  .nav-menu-div {
+/*    line-height: 20px;*/
+    left: 80px;
+  }
+
+  .navbar {
+    height: 40px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -40px;
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange items vertically in a column */
+    align-items: center; /* Center items horizontally within the container */
+    transform: scale(0.55);
+    z-index: 20000;
+  }
+
+}
+
+
+@media screen and (max-width: 300px) {
+
+  .nav-menu-div {
+/*    line-height: 20px;*/
+    left: 80px;
+  }
+
+}

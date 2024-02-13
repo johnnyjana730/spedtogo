@@ -1,0 +1,6013 @@
+{
+  "月老儿油炸串串YYDS Fried Strings": {
+    "place_name": "月老儿油炸串串YYDS Fried Strings",
+    "geometry": {
+      "location": {
+        "lat": 34.0801361,
+        "lng": -118.08300399999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 67,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "月老儿炸串& 小红袍spicy tails",
+        "google_search_matched",
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Nine Dining 拾酒": {
+    "place_name": "Nine Dining 拾酒",
+    "geometry": {
+      "location": {
+        "lat": 34.0779176,
+        "lng": -118.1283376
+      }
+    },
+    "rating": 4.1,
+    "reviews": 11,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant",
+      "Barbecue restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "拾酒nine dining",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "洞庭鲜湘菜餐厅": {
+    "place_name": "洞庭鲜湘菜餐厅",
+    "geometry": {
+      "location": {
+        "lat": 34.080669199999996,
+        "lng": -118.09149649999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 91,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "洞庭鲜",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Little Skewer": {
+    "place_name": "Little Skewer",
+    "geometry": {
+      "location": {
+        "lat": 33.991627799999996,
+        "lng": -117.9333765
+      }
+    },
+    "rating": 4.1,
+    "reviews": 213,
+    "note": [
+      "62259382000000002103de1c",
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "从前的小酒馆",
+        "google_search_matched",
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ],
+      "6507a498000000001302bf73": [
+        "从前的小酒馆little skewers",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "老街漫烤qin’s garden": {
+    "place_name": "老街漫烤qin’s garden",
+    "geometry": {
+      "location": {
+        "lat": 34.079578399999995,
+        "lng": -118.0934396
+      }
+    },
+    "rating": 3.9,
+    "reviews": 9,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      "Barbecuerestaurant",
+      "Chop bar"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "老街漫烤qin's garden",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sichuan Spicy Bay 蓉合川菜": {
+    "place_name": "Sichuan Spicy Bay 蓉合川菜",
+    "geometry": {
+      "location": {
+        "lat": 34.0800683,
+        "lng": -118.11046189999999
+      }
+    },
+    "rating": 4,
+    "reviews": 43,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinees restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "蓉合川菜",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dolan’s Uyghur Cuisine": {
+    "place_name": "Dolan’s Uyghur Cuisine",
+    "geometry": {
+      "location": {
+        "lat": 34.0778782,
+        "lng": -118.13151819999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 543,
+    "note": [
+      "6507a498000000001302bf73",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Uyghur cuisine restaurant",
+      "Asian fusion restaurant",
+      "Halal restaurant",
+      "Kazakhstani restaurant",
+      "Uzbeki restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "阿凡提维族美食",
+        false,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "6507a498000000001302bf73": [
+        "阿凡提Dolan's",
+        "google_search_matched",
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Liu Roast Fish 老刘家烤鱼烤串": {
+    "place_name": "Liu Roast Fish 老刘家烤鱼烤串",
+    "geometry": {
+      "location": {
+        "lat": 34.0673714,
+        "lng": -118.13411339999999
+      }
+    },
+    "rating": 2.4,
+    "reviews": 14,
+    "note": [
+      "63b66e0d000000001f011802",
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Grill",
+      "Fish restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "老刘家烤鱼：",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ],
+      "6507a498000000001302bf73": [
+        "老刘家烤鱼",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "二娃冷锅鱼 erwa cold pot fish": {
+    "place_name": "二娃冷锅鱼 erwa cold pot fish",
+    "geometry": {
+      "location": {
+        "lat": 34.0804488,
+        "lng": -118.0932483
+      }
+    },
+    "rating": 3.3,
+    "reviews": 11,
+    "note": [
+      "6507a498000000001302bf73"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6507a498000000001302bf73": [
+        "二娃冷锅鱼",
+        true,
+        "洛杉矶｜吃了两年总结出的9家华人区美食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dolan's Uyghur Cuisine": {
+    "place_name": "Dolan's Uyghur Cuisine",
+    "geometry": {
+      "location": {
+        "lat": 33.99566,
+        "lng": -117.88986209999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 39,
+    "note": [
+      "6497ad0a000000000800fe2a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6497ad0a000000000800fe2a": [
+        "刀郎新疆菜 - 18920 Gale Ave, Rowland Heights, CA 91748",
+        "google_search_matched",
+        "🇺🇸洛杉矶｜就着咸奶茶的烤包子带我回新疆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Capital Seafood Beverly Hills": {
+    "place_name": "Capital Seafood Beverly Hills",
+    "geometry": {
+      "location": {
+        "lat": 34.0672905,
+        "lng": -118.3760051
+      }
+    },
+    "rating": 4.3,
+    "reviews": 364,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dim sum restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Capital Seafood Beverly Hills：港式点心",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Northern Cafe": {
+    "place_name": "Northern Cafe",
+    "geometry": {
+      "location": {
+        "lat": 33.992466,
+        "lng": -117.93343399999999
+      }
+    },
+    "rating": 3.6,
+    "reviews": 116,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Northern Cafe 颐丰园：面食、烧烤和火锅",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sichuan Impression": {
+    "place_name": "Sichuan Impression",
+    "geometry": {
+      "location": {
+        "lat": 33.73516,
+        "lng": -117.8121929
+      }
+    },
+    "rating": 4.2,
+    "reviews": 708,
+    "note": [
+      "63b66e0d000000001f011802",
+      "62259382000000002103de1c",
+      "655920a6000000003200a24b",
+      "64ab545e000000002b03db9e",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655920a6000000003200a24b": [
+        "锦城里 13. 13816 Red Hill Ave, Tustin, CA 92780",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "64ab545e000000002b03db9e": [
+        "Sichuan Impression",
+        true,
+        "🇺🇸洛杉矶｜四川人认证最正宗的三家川湘菜",
+        -1
+      ],
+      "62259382000000002103de1c": [
+        "锦城里",
+        "google_search_matched",
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "锦城里",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b66e0d000000001f011802": [
+        "Sichuan Impression 锦城里：合格的四川味道",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Haidilao Hot Pot Arcadia": {
+    "place_name": "Haidilao Hot Pot Arcadia",
+    "geometry": {
+      "location": {
+        "lat": 34.1333726,
+        "lng": -118.05299679999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 909,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Asian restaurant",
+      "Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "海底捞",
+        false,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Nice 2 Meet U": {
+    "place_name": "Nice 2 Meet U",
+    "geometry": {
+      "location": {
+        "lat": 34.0801081,
+        "lng": -118.1028704
+      }
+    },
+    "rating": 4,
+    "reviews": 154,
+    "note": [
+      "63b66e0d000000001f011802",
+      "63b24827000000001b027b55",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant",
+      "Takeout Restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "那年遇见串串",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "那年遇见 Nice",
+        "google_search_matched",
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "63b66e0d000000001f011802": [
+        "那年遇见串串：室友最爱吃的串串🍢",
+        "google_search_matched",
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Chong Qing YaoMei Hotpot": {
+    "place_name": "Chong Qing YaoMei Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 34.1447402,
+        "lng": -118.15171959999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 286,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Lunch restaurant",
+      "Takeout Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "幺妹儿火锅：我最喜欢的四川火锅🍲！",
+        false,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shancheng Lameizi": {
+    "place_name": "Shancheng Lameizi",
+    "geometry": {
+      "location": {
+        "lat": 33.996044499999996,
+        "lng": -117.88882919999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 512,
+    "note": [
+      "63b66e0d000000001f011802",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "山城辣妹子",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b66e0d000000001f011802": [
+        "山城辣妹子火锅：以前爱吃",
+        "google_search_matched",
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fifty One": {
+    "place_name": "Fifty One",
+    "geometry": {
+      "location": {
+        "lat": 34.0231188,
+        "lng": -118.39472119999999
+      }
+    },
+    "rating": 4,
+    "reviews": 264,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Fifty-one 伍拾壹：北京菜广东菜和dim sum",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Qin West Noodle": {
+    "place_name": "Qin West Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.0505683,
+        "lng": -118.4382242
+      }
+    },
+    "rating": 4.5,
+    "reviews": 784,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Qin West 桂陕一家：桂林米粉和陕西凉皮肉夹馍",
+        "google_search_matched",
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "丰茂 Feng Mao Lamb Kebab Western": {
+    "place_name": "丰茂 Feng Mao Lamb Kebab Western",
+    "geometry": {
+      "location": {
+        "lat": 34.0666734,
+        "lng": -118.3089316
+      }
+    },
+    "rating": 4.3,
+    "reviews": 316,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Korean barbecue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Feng Mao BBQ Lamb Kebab Western",
+        true,
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Taiwan Popcorn Chicken": {
+    "place_name": "Taiwan Popcorn Chicken",
+    "geometry": {
+      "location": {
+        "lat": 33.6956665,
+        "lng": -117.7991996
+      }
+    },
+    "rating": 3.7,
+    "reviews": 217,
+    "note": [
+      "63b66e0d000000001f011802"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Taiwanese restaurant",
+      "Chicken restaurant",
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b66e0d000000001f011802": [
+        "Popcorn Chicken：好吃的台湾便当",
+        "google_search_matched",
+        "洛杉矶50家中餐馆强烈推荐！！赶紧去试试！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hengzhou Chilliking": {
+    "place_name": "Hengzhou Chilliking",
+    "geometry": {
+      "location": {
+        "lat": 34.0798201,
+        "lng": -118.0946082
+      }
+    },
+    "rating": 3.4,
+    "reviews": 380,
+    "note": [
+      "65512b6000000000320297bd",
+      "63c59dbb0000000018011a08",
+      "64ab545e000000002b03db9e",
+      "64c45560000000000103df0a",
+      "63a3a09700000000180127f1",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hunan restaurant",
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "辣椒王",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ],
+      "65512b6000000000320297bd": [
+        "辣椒王",
+        "google_search_matched",
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "辣椒王",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63c59dbb0000000018011a08": [
+        "湖南梅菜蒸扣肉",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ],
+      "64c45560000000000103df0a": [
+        "水煮牛肉",
+        false,
+        "洛杉矶LA探店｜洛杉矶最好吃的川菜天花板",
+        -1
+      ],
+      "64ab545e000000002b03db9e": [
+        "Hunan Chili King",
+        "google_search_matched",
+        "🇺🇸洛杉矶｜四川人认证最正宗的三家川湘菜",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Spicy Home": {
+    "place_name": "Spicy Home",
+    "geometry": {
+      "location": {
+        "lat": 33.9925,
+        "lng": -117.93329999999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 243,
+    "note": [
+      "655920a6000000003200a24b",
+      "64ab545e000000002b03db9e"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655920a6000000003200a24b": [
+        "那家川菜 17. 1635 S Azusa Ave, Hacienda Heights, CA 91745",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "64ab545e000000002b03db9e": [
+        "Spicy Home",
+        true,
+        "🇺🇸洛杉矶｜四川人认证最正宗的三家川湘菜",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "W Cafe": {
+    "place_name": "W Cafe",
+    "geometry": {
+      "location": {
+        "lat": 33.9596428,
+        "lng": -117.59577569999999
+      }
+    },
+    "rating": 3.5,
+    "reviews": 52,
+    "note": [
+      "64543f0e00000000130020a8"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64543f0e00000000130020a8": [
+        "东谷的宝藏小店",
+        false,
+        "奇诺岗｜连干5⃣️碗竹荪土🐔汤 太鲜美了吧！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Happy Kitchen": {
+    "place_name": "Happy Kitchen",
+    "geometry": {
+      "location": {
+        "lat": 34.0013185,
+        "lng": -117.7349517
+      }
+    },
+    "rating": 4.3,
+    "reviews": 218,
+    "note": [
+      "64543f0e00000000130020a8"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Chinese takeaway",
+      "Family restaurant",
+      "Lunch restaurant",
+      "Takeout Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64543f0e00000000130020a8": [
+        "Happy Kitchen",
+        true,
+        "奇诺岗｜连干5⃣️碗竹荪土🐔汤 太鲜美了吧！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shenyang Restaurant": {
+    "place_name": "Shenyang Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.1025073,
+        "lng": -118.09134359999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 239,
+    "note": [
+      "65150a5e000000001f0380f2",
+      "650a5124000000001f03c482",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65150a5e000000001f0380f2": [
+        "Get一家LA新开东北菜",
+        false,
+        "LA洛杉矶正宗锅包肉找到啦❗现压冷面封神",
+        -1
+      ],
+      "650a5124000000001f03c482": [
+        "东北酒家",
+        "google_search_matched",
+        "洛杉矶｜人均$20超好吃东北菜！糖葫芦独家🔥",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "东北酒家",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La cocina de la tia cheli - cochinita pibil.": {
+    "place_name": "La cocina de la tia cheli - cochinita pibil.",
+    "geometry": {
+      "location": {
+        "lat": 32.436990699999996,
+        "lng": -117.03012349999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 11,
+    "note": [
+      "63a525de000000001902192c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Mexican restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a525de000000001902192c": [
+        "CheLi",
+        false,
+        "在美国我最喜欢的九家中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hakkasan Restaurant Las Vegas": {
+    "place_name": "Hakkasan Restaurant Las Vegas",
+    "geometry": {
+      "location": {
+        "lat": 36.101419199999995,
+        "lng": -115.1724457
+      }
+    },
+    "rating": 4.4,
+    "reviews": 657,
+    "note": [
+      "63a525de000000001902192c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Event venue",
+      "Fine dining restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a525de000000001902192c": [
+        "Hakkasan",
+        true,
+        "在美国我最喜欢的九家中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dumpling House": {
+    "place_name": "Dumpling House",
+    "geometry": {
+      "location": {
+        "lat": 34.0693196,
+        "lng": -118.2927593
+      }
+    },
+    "rating": 4.2,
+    "reviews": 287,
+    "note": [
+      "63a525de000000001902192c"
+    ],
+    "types": [
+      "restaurant",
+      "Dumplingrestaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a525de000000001902192c": [
+        "Dumpling Home",
+        true,
+        "在美国我最喜欢的九家中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wing Lei": {
+    "place_name": "Wing Lei",
+    "geometry": {
+      "location": {
+        "lat": 36.1253604,
+        "lng": -115.1658063
+      }
+    },
+    "rating": 4.6,
+    "reviews": 845,
+    "note": [
+      "63a525de000000001902192c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Fine dining restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a525de000000001902192c": [
+        "Wing Lei",
+        true,
+        "在美国我最喜欢的九家中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Meizhou Dongpo Restaurant": {
+    "place_name": "Meizhou Dongpo Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.133461,
+        "lng": -118.0530965
+      }
+    },
+    "rating": 4,
+    "reviews": 609,
+    "note": [
+      "6513c0dc0000000020001b51",
+      "6405ba76000000001300c8e6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6513c0dc0000000020001b51": [
+        "眉州东坡",
+        "google_search_matched",
+        "毕业后也要回UCLA吃这家🦆❤️😋",
+        -1
+      ],
+      "6405ba76000000001300c8e6": [
+        "眉州东坡",
+        "google_search_matched",
+        "洛杉矶｜中餐厅测评",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "眉州东坡",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "胡一南 MASTER HU KITCHEN": {
+    "place_name": "胡一南 MASTER HU KITCHEN",
+    "geometry": {
+      "location": {
+        "lat": 34.080236299999996,
+        "lng": -118.1041983
+      }
+    },
+    "rating": 4,
+    "reviews": 20,
+    "note": [
+      "64e03646000000001700c80d",
+      "655920a6000000003200a24b",
+      "65512b6000000000320297bd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65512b6000000000320297bd": [
+        "胡一南",
+        true,
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ],
+      "655920a6000000003200a24b": [
+        "胡一南 9. 301 W Valley Blvd, San Gabriel, CA 91776",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "64e03646000000001700c80d": [
+        "胡一南 Master Hu",
+        true,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "正楠柒乌鸡米线 Noodle Now": {
+    "place_name": "正楠柒乌鸡米线 Noodle Now",
+    "geometry": {
+      "location": {
+        "lat": 34.0797363,
+        "lng": -118.0956854
+      }
+    },
+    "rating": 3.6,
+    "reviews": 32,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Chinese takeaway",
+      "Lunch restaurant",
+      "Takeout Restaurant",
+      "Noodle shop",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "小碗烧菜 The Bowl",
+        false,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yintang Spicy Hot Pot 隐烫麻辣烫": {
+    "place_name": "Yintang Spicy Hot Pot 隐烫麻辣烫",
+    "geometry": {
+      "location": {
+        "lat": 33.9949304,
+        "lng": -117.90619339999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 132,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "隐烫",
+        true,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fennel Bistro 茴香小馆": {
+    "place_name": "Fennel Bistro 茴香小馆",
+    "geometry": {
+      "location": {
+        "lat": 33.994864,
+        "lng": -117.90707259999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 55,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Noodle shop",
+      "Restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "茴香小馆 Fennel Bistro",
+        true,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Delicious Food Corner": {
+    "place_name": "Delicious Food Corner",
+    "geometry": {
+      "location": {
+        "lat": 34.1027006,
+        "lng": -118.1080866
+      }
+    },
+    "rating": 4,
+    "reviews": 384,
+    "note": [
+      "64e03646000000001700c80d",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cantonese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "原味店",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "64e03646000000001700c80d": [
+        "原味店/原汁原味",
+        false,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "E @ Cup": {
+    "place_name": "E @ Cup",
+    "geometry": {
+      "location": {
+        "lat": 34.0623132,
+        "lng": -118.0476425
+      }
+    },
+    "rating": 4.4,
+    "reviews": 27,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Chinese noodle restaurant",
+      "Chinese takeaway"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "一张嘴",
+        false,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ikka Sizzling Pot": {
+    "place_name": "Ikka Sizzling Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.1268953,
+        "lng": -118.0536412
+      }
+    },
+    "rating": 4.2,
+    "reviews": 40,
+    "note": [
+      "64e03646000000001700c80d",
+      "6405ba76000000001300c8e6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Fast food restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "壹家砂锅馆",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "64e03646000000001700c80d": [
+        "壹家黄焖鸡",
+        "google_search_matched",
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ],
+      "6405ba76000000001300c8e6": [
+        "壹家黄焖鸡",
+        "google_search_matched",
+        "洛杉矶｜中餐厅测评",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Xin Wang Food Inc 海南鸡遇上土豆粉": {
+    "place_name": "Xin Wang Food Inc 海南鸡遇上土豆粉",
+    "geometry": {
+      "location": {
+        "lat": 34.025538399999995,
+        "lng": -117.8941859
+      }
+    },
+    "rating": 4.2,
+    "reviews": 48,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "BBQ area",
+      "Chinese takeaway"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "海南鸡遇上土豆粉",
+        true,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1919 Lanzhou Beef Noodle": {
+    "place_name": "1919 Lanzhou Beef Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.129675,
+        "lng": -118.0259365
+      }
+    },
+    "rating": 4.3,
+    "reviews": 169,
+    "note": [
+      "64e03646000000001700c80d"
+    ],
+    "types": [
+      "restaurant",
+      "restaurant",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      "restaurant",
+      "Chinees noedelrestaurant",
+      "Aziatisch fusion-restaurant",
+      "Aziatisch restaurant",
+      "Chinees restaurant",
+      "Lunchrestaurant",
+      "Afhaalrestaurant",
+      "Noedelwinkel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e03646000000001700c80d": [
+        "1919兰州拉面",
+        "google_search_matched",
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Long Xing Ji Juicy Dumpling": {
+    "place_name": "Long Xing Ji Juicy Dumpling",
+    "geometry": {
+      "location": {
+        "lat": 34.078219,
+        "lng": -118.10201599999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 396,
+    "note": [
+      "649a70d2000000001303cd27",
+      "64e03646000000001700c80d",
+      "64d30bc8000000000800c4b6",
+      "63b24827000000001b027b55",
+      "63a3a09700000000180127f1",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Dumpling restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649a70d2000000001303cd27": [
+        "隆兴记 - Long Xing Ji Juicy Dumpling",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ],
+      "64d30bc8000000000800c4b6": [
+        "P9隆兴记",
+        "google_search_matched",
+        "洛杉矶LA｜吃饭特种兵中餐合集，多图预警🤩",
+        -1
+      ],
+      "64e03646000000001700c80d": [
+        "隆兴记",
+        false,
+        "洛杉矶｜吃了两年总结出的15家一人食（上）",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "隆兴记",
+        false,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "63a3a09700000000180127f1": [
+        "隆兴记",
+        false,
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "隆兴记",
+        false,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63aa97da000000001f0210f6": [
+        "140 W Valley Blvd Ste 211, San Gabriel, CA 91776",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ],
+      "63b4f163000000001f00eebb": [
+        "140 W Valley Blvd Ste 211, San Gabriel, CA 91776",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "11057 Santa Monica Blvd": {
+    "place_name": "11057 Santa Monica Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.048240799999995,
+        "lng": -118.4432389
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b4f163000000001f00eebb": [
+        "11057 Santa Monica Blvd, Los Angeles, CA 90025",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "404 S Atlantic Blvd": {
+    "place_name": "404 S Atlantic Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0585534,
+        "lng": -118.1330234
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b4f163000000001f00eebb": [
+        "404 S Atlantic Blvd, Monterey Park, CA 91754",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "710 S Western Ave": {
+    "place_name": "710 S Western Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0592616,
+        "lng": -118.3087973
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b4f163000000001f00eebb": [
+        "710 S Western Ave, Los Angeles, CA 90005",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18321 Colima Rd": {
+    "place_name": "18321 Colima Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.9893186,
+        "lng": -117.9045405
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b4f163000000001f00eebb": [
+        "18321 Colima Rd, Rowland Heights, CA 91748",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "250 W Valley Blvd UNIT J": {
+    "place_name": "250 W Valley Blvd UNIT J",
+    "geometry": {
+      "location": {
+        "lat": 34.0791432,
+        "lng": -118.1032216
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b4f163000000001f00eebb": [
+        "250 W Valley Blvd UNIT J, San Gabriel, CA 91776",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "MIAN": {
+    "place_name": "MIAN",
+    "geometry": {
+      "location": {
+        "lat": 34.0801432,
+        "lng": -118.1043411
+      }
+    },
+    "rating": 4.3,
+    "reviews": 646,
+    "note": [
+      "63b4f163000000001f00eebb",
+      "63a3a09700000000180127f1",
+      "64d30bc8000000000800c4b6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Noodle shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "滋味小面",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "滋味小面",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "64d30bc8000000000800c4b6": [
+        "P12-13 MIAN 滋味小面",
+        true,
+        "洛杉矶LA｜吃饭特种兵中餐合集，多图预警🤩",
+        -1
+      ],
+      "63b4f163000000001f00eebb": [
+        "301 W Valley Blvd -115, San Gabriel, CA 91776",
+        "google_search_matched",
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "140 W Valley Blvd Ste 211": {
+    "place_name": "140 W Valley Blvd Ste 211",
+    "geometry": {
+      "location": {
+        "lat": 34.078219,
+        "lng": -118.10201599999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63aa97da000000001f0210f6",
+      "63b4f163000000001f00eebb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa97da000000001f0210f6": [
+        "140 W Valley Blvd Ste 211, San Gabriel, CA 91776",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ],
+      "63b4f163000000001f00eebb": [
+        "140 W Valley Blvd Ste 211, San Gabriel, CA 91776",
+        true,
+        "LA吃什么｜San Gabriel周边亚洲美食合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Qian Xun Kabab Bar": {
+    "place_name": "Qian Xun Kabab Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.0629248,
+        "lng": -118.0554518
+      }
+    },
+    "rating": 3.7,
+    "reviews": 63,
+    "note": [
+      "647d5264000000002702a367",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "喝丢一只鞋",
+        "google_search_matched",
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "喝丢一只鞋",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ya Sik Na Ra": {
+    "place_name": "Ya Sik Na Ra",
+    "geometry": {
+      "location": {
+        "lat": 34.0621058,
+        "lng": -118.30859179999999
+      }
+    },
+    "rating": 3.7,
+    "reviews": 227,
+    "note": [
+      "647d5264000000002702a367"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Korean restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "Yasiknara",
+        false,
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "喜湘御湘川私房菜": {
+    "place_name": "喜湘御湘川私房菜",
+    "geometry": {
+      "location": {
+        "lat": 34.062393199999995,
+        "lng": -118.0845595
+      }
+    },
+    "rating": 3.7,
+    "reviews": 25,
+    "note": [
+      "647d5264000000002702a367",
+      "65512b6000000000320297bd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Hunan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "喜湘御",
+        true,
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ],
+      "65512b6000000000320297bd": [
+        "喜湘御",
+        true,
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Louders": {
+    "place_name": "Louders",
+    "geometry": {
+      "location": {
+        "lat": 34.0631287,
+        "lng": -118.29747119999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 188,
+    "note": [
+      "647d5264000000002702a367"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "Louders",
+        true,
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "Melo Melo",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "63a3a09700000000180127f1": [
+        "MeloMelo",
+        true,
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ],
+      "63aa97da000000001f0210f6": [
+        "3470 W 6th St , Los Angeles, CA 90020",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Crab House": {
+    "place_name": "Crab House",
+    "geometry": {
+      "location": {
+        "lat": 34.055083599999996,
+        "lng": -118.29192259999999
+      }
+    },
+    "rating": 4,
+    "reviews": 453,
+    "note": [
+      "647d5264000000002702a367",
+      "63aa97da000000001f0210f6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Crab house",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "Crab House",
+        true,
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ],
+      "63aa97da000000001f0210f6": [
+        "Crab House",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Odumak": {
+    "place_name": "Odumak",
+    "geometry": {
+      "location": {
+        "lat": 34.067819799999995,
+        "lng": -118.30879709999999
+      }
+    },
+    "rating": 4,
+    "reviews": 87,
+    "note": [
+      "647d5264000000002702a367"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647d5264000000002702a367": [
+        "Odumark 小木屋",
+        true,
+        "LA超全美食大合集吐血整理❗️亲测怒推❗️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1675 S Azusa Ave": {
+    "place_name": "1675 S Azusa Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.991631999999996,
+        "lng": -117.9334784
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62259382000000002103de1c",
+      "63899229000000002203a2e1"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "1675 S Azusa Ave, Hacienda Heights, CA 91745",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ],
+      "63899229000000002203a2e1": [
+        "1675 S Azusa Ave, Hacienda Heights, CA 91745",
+        true,
+        "我愿称为洛杉矶最好吃的中餐-小酒馆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18025 Gale Ave": {
+    "place_name": "18025 Gale Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.996029199999995,
+        "lng": -117.91082589999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65150a5e000000001f0380f2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65150a5e000000001f0380f2": [
+        "18025 Gale Ave, City of Industry, CA 91748",
+        true,
+        "LA洛杉矶正宗锅包肉找到啦❗现压冷面封神",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "东北菜馆 Sheng Yuan Restaurant": {
+    "place_name": "东北菜馆 Sheng Yuan Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.0898062,
+        "lng": -118.0906215
+      }
+    },
+    "rating": 4.2,
+    "reviews": 47,
+    "note": [
+      "65150a5e000000001f0380f2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Fusion restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65150a5e000000001f0380f2": [
+        "Get一家LA新开东北菜！老式东北锅包肉和大冷面尊滴香啊❗因为是新开的店，菜单还没上全，老板就是那种热情好客滴东北人，贼能唠！",
+        false,
+        "LA洛杉矶正宗锅包肉找到啦❗现压冷面封神",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shanghailander Palace": {
+    "place_name": "Shanghailander Palace",
+    "geometry": {
+      "location": {
+        "lat": 34.1225343,
+        "lng": -118.0548882
+      }
+    },
+    "rating": 4,
+    "reviews": 188,
+    "note": [
+      "6405ba76000000001300c8e6",
+      "6333355300000000170232fa",
+      "64b0c304000000002b03d5d1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shanghainese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6333355300000000170232fa": [
+        "上海滩 - 1440 S Baldwin Ave, Arcadia",
+        "google_search_matched",
+        "洛杉矶｜终于找到一家我愿意二刷的店",
+        -1
+      ],
+      "6405ba76000000001300c8e6": [
+        "上海滩",
+        false,
+        "洛杉矶｜中餐厅测评",
+        -1
+      ],
+      "64b0c304000000002b03d5d1": [
+        "上海滩 Shanghailander Place",
+        true,
+        "真的绝了‼️找到了LA蕞好吃的本帮菜‼️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xiang La Hui": {
+    "place_name": "Xiang La Hui",
+    "geometry": {
+      "location": {
+        "lat": 34.0921192,
+        "lng": -118.1336712
+      }
+    },
+    "rating": 4.2,
+    "reviews": 220,
+    "note": [
+      "64c45560000000000103df0a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sichuan restaurant",
+      "Chinese noodle restaurant",
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Dan Dan noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c45560000000000103df0a": [
+        "夫妻肺片",
+        false,
+        "洛杉矶LA探店｜洛杉矶最好吃的川菜天花板",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fei Xiang Gong": {
+    "place_name": "Fei Xiang Gong",
+    "geometry": {
+      "location": {
+        "lat": 34.0673969,
+        "lng": -118.3088885
+      }
+    },
+    "rating": 4.2,
+    "reviews": 95,
+    "note": [
+      "64c45560000000000103df0a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c45560000000000103df0a": [
+        "香辣鸡丁",
+        false,
+        "洛杉矶LA探店｜洛杉矶最好吃的川菜天花板",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chao Wei Ju": {
+    "place_name": "Chao Wei Ju",
+    "geometry": {
+      "location": {
+        "lat": 34.0796902,
+        "lng": -118.1054041
+      }
+    },
+    "rating": 3.7,
+    "reviews": 139,
+    "note": [
+      "63d2f5560000000002000e18",
+      "64d30bc8000000000800c4b6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63d2f5560000000002000e18": [
+        "潮厢牛肉粿条",
+        "google_search_matched",
+        "吃了这顿牛肉火锅🍲下辈子想做潮汕人🙏",
+        -1
+      ],
+      "64d30bc8000000000800c4b6": [
+        "P10-11 chao Wei ju",
+        true,
+        "洛杉矶LA｜吃饭特种兵中餐合集，多图预警🤩",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Auntie Qiu Kitchen": {
+    "place_name": "Auntie Qiu Kitchen",
+    "geometry": {
+      "location": {
+        "lat": 34.124375,
+        "lng": -118.05923729999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 126,
+    "note": [
+      "63b24827000000001b027b55",
+      "649a70d2000000001303cd27",
+      "64d30bc8000000000800c4b6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Breakfast restaurant",
+      "Dim sum restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "裘家阿姨上海菜",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "裘阿姨上海早点",
+        "google_search_matched",
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "649a70d2000000001303cd27": [
+        "裘阿姨 - Auntie Qiu Kitchen",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ],
+      "64d30bc8000000000800c4b6": [
+        "P1-5 Auntie Qiu Kitchen",
+        true,
+        "洛杉矶LA｜吃饭特种兵中餐合集，多图预警🤩",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Yi Kebab Bar": {
+    "place_name": "Yi Kebab Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.062329,
+        "lng": -118.11376369999999
+      }
+    },
+    "rating": 3.1,
+    "reviews": 84,
+    "note": [
+      "63c59dbb0000000018011a08"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Kebab shop",
+      "Barbecue restaurant",
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c59dbb0000000018011a08": [
+        "铁板鱿鱼须",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Liu Roast Fish": {
+    "place_name": "Liu Roast Fish",
+    "geometry": {
+      "location": {
+        "lat": 34.0800848,
+        "lng": -118.10290499999999
+      }
+    },
+    "rating": 3,
+    "reviews": 62,
+    "note": [
+      "63c59dbb0000000018011a08"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Asian restaurant",
+      "Grill",
+      "Chinese restaurant",
+      "Fish store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c59dbb0000000018011a08": [
+        "招牌口味鱼片",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SPICY IMPRESSION": {
+    "place_name": "SPICY IMPRESSION",
+    "geometry": {
+      "location": {
+        "lat": 33.9903535,
+        "lng": -117.9345037
+      }
+    },
+    "rating": 3.8,
+    "reviews": 56,
+    "note": [
+      "655920a6000000003200a24b",
+      "63c59dbb0000000018011a08"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655920a6000000003200a24b": [
+        "一瓢红油 5. 17110 Colima Rd B, Hacienda Heights, CA 91745",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "63c59dbb0000000018011a08": [
+        "红辣椒招牌小炒",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Red Chili Hunan Restaurant": {
+    "place_name": "Red Chili Hunan Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 33.9886841,
+        "lng": -117.8911131
+      }
+    },
+    "rating": 4,
+    "reviews": 116,
+    "note": [
+      "655920a6000000003200a24b",
+      "63c59dbb0000000018011a08",
+      "65512b6000000000320297bd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Hunan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65512b6000000000320297bd": [
+        "红辣椒",
+        false,
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ],
+      "655920a6000000003200a24b": [
+        "红辣椒 15. 18977 Colima Rd, Rowland Heights, CA 91748",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "63c59dbb0000000018011a08": [
+        "湖南口味蛤蜊",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xiang Wei Xuan & 湘味轩（湘菜遇上桂林米粉）": {
+    "place_name": "Xiang Wei Xuan & 湘味轩（湘菜遇上桂林米粉）",
+    "geometry": {
+      "location": {
+        "lat": 36.1260859,
+        "lng": -115.22353059999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 110,
+    "note": [
+      "63c59dbb0000000018011a08"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c59dbb0000000018011a08": [
+        "野山椒牛肉丝",
+        false,
+        "LA的湖南菜我只吃这一家丨一次能干三碗饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1919 Noodle Express": {
+    "place_name": "1919 Noodle Express",
+    "geometry": {
+      "location": {
+        "lat": 34.068115899999995,
+        "lng": -118.1336602
+      }
+    },
+    "rating": 4.5,
+    "reviews": 30,
+    "note": [
+      "649a70d2000000001303cd27"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649a70d2000000001303cd27": [
+        "1919兰州牛肉面 (1919 Noodle Express)",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "FORTUNE NO 1": {
+    "place_name": "FORTUNE NO 1",
+    "geometry": {
+      "location": {
+        "lat": 34.0621979,
+        "lng": -118.12184429999999
+      }
+    },
+    "rating": 3.8,
+    "reviews": 531,
+    "note": [
+      "649a70d2000000001303cd27",
+      "63a3a09700000000180127f1",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "金海餐厅",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "金海餐厅",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "649a70d2000000001303cd27": [
+        "金海餐厅 - Fortune No. 1",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Atlantic Seafood and Dim Sum": {
+    "place_name": "Atlantic Seafood and Dim Sum",
+    "geometry": {
+      "location": {
+        "lat": 34.0694168,
+        "lng": -118.13365719999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 149,
+    "note": [
+      "649a70d2000000001303cd27"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cantonese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649a70d2000000001303cd27": [
+        "黄金阁海鲜酒楼 - Atlantic Seafood and Dim Sum",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beijing Tasty House": {
+    "place_name": "Beijing Tasty House",
+    "geometry": {
+      "location": {
+        "lat": 34.0795822,
+        "lng": -118.0981549
+      }
+    },
+    "rating": 4.1,
+    "reviews": 501,
+    "note": [
+      "649a70d2000000001303cd27",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "北京缘",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "649a70d2000000001303cd27": [
+        "北京缘 - Beijing Tasty House",
+        true,
+        "终于～攒出一套LA美食清单",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Phoenix Dessert": {
+    "place_name": "Phoenix Dessert",
+    "geometry": {
+      "location": {
+        "lat": 34.078994,
+        "lng": -118.09185919999999
+      }
+    },
+    "rating": 4,
+    "reviews": 41,
+    "note": [
+      "63a3a09700000000180127f1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dessert shop",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "凤城甜品",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Huo Zhou Wang Porridge": {
+    "place_name": "Huo Zhou Wang Porridge",
+    "geometry": {
+      "location": {
+        "lat": 34.0801656,
+        "lng": -118.1027853
+      }
+    },
+    "rating": 3.7,
+    "reviews": 129,
+    "note": [
+      "63a3a09700000000180127f1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Porridge restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "活粥王",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Melo Melo Coconut Dessert": {
+    "place_name": "Melo Melo Coconut Dessert",
+    "geometry": {
+      "location": {
+        "lat": 34.0631287,
+        "lng": -118.29747119999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 100,
+    "note": [
+      "63b24827000000001b027b55",
+      "63a3a09700000000180127f1"
+    ],
+    "types": [
+      "Dessert shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Melo Melo",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "63a3a09700000000180127f1": [
+        "MeloMelo",
+        true,
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Sun Nong Dan": {
+    "place_name": "Sun Nong Dan",
+    "geometry": {
+      "location": {
+        "lat": 34.062999999999995,
+        "lng": -118.29748359999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1876,
+    "note": [
+      "63a3a09700000000180127f1",
+      "63aa97da000000001f0210f6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Korean restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa97da000000001f0210f6": [
+        "Sun Long Dan",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ],
+      "63a3a09700000000180127f1": [
+        "Sun Nong Dan",
+        true,
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Millet Crepe": {
+    "place_name": "Millet Crepe",
+    "geometry": {
+      "location": {
+        "lat": 34.0404914,
+        "lng": -118.44358249999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1210,
+    "note": [
+      "63a3a09700000000180127f1"
+    ],
+    "types": [
+      "Creperie",
+      "Chocolate shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "Millet Crepe",
+        true,
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Alice's Kitchen": {
+    "place_name": "Alice's Kitchen",
+    "geometry": {
+      "location": {
+        "lat": 34.062304399999995,
+        "lng": -118.11406509999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 577,
+    "note": [
+      "63b24827000000001b027b55",
+      "63a3a09700000000180127f1",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hong Kong style fast food restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "原汁原味",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "Alice",
+        false,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ],
+      "63a3a09700000000180127f1": [
+        "原汁原味Alice",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "CHICHA San Chen": {
+    "place_name": "CHICHA San Chen",
+    "geometry": {
+      "location": {
+        "lat": 34.0800614,
+        "lng": -118.104356
+      }
+    },
+    "rating": 4.2,
+    "reviews": 300,
+    "note": [
+      "63a3a09700000000180127f1"
+    ],
+    "types": [
+      "snack",
+      "store",
+      [
+        "store"
+      ],
+      "Bubble tea store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3a09700000000180127f1": [
+        "吃茶三千",
+        "google_search_matched",
+        "LA洛杉矶五天打卡餐厅合集，无踩雷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mountain House Rowland Heights 川山甲": {
+    "place_name": "Mountain House Rowland Heights 川山甲",
+    "geometry": {
+      "location": {
+        "lat": 33.9925812,
+        "lng": -117.8911509
+      }
+    },
+    "rating": 4.4,
+    "reviews": 214,
+    "note": [
+      "655920a6000000003200a24b",
+      "64c943ca00000000170187a9",
+      "648249ea0000000012031746"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655920a6000000003200a24b": [
+        "川山甲 11. 18888 Labin Ct C101, Rowland Heights, CA 91748",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ],
+      "648249ea0000000012031746": [
+        "川山甲",
+        true,
+        "川山甲洛杉矶店",
+        -1
+      ],
+      "64c943ca00000000170187a9": [
+        "川山甲",
+        true,
+        "洛杉矶｜氛围中餐川山甲🪭真实测评✅",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "18888 Labin Ct C101": {
+    "place_name": "18888 Labin Ct C101",
+    "geometry": {
+      "location": {
+        "lat": 33.9930661,
+        "lng": -117.8911517
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64c943ca00000000170187a9"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c943ca00000000170187a9": [
+        "18888 Labin Ct C101, Rowland Heights, CA 91748",
+        true,
+        "洛杉矶｜氛围中餐川山甲🪭真实测评✅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LAN NOODLE West Covina": {
+    "place_name": "LAN NOODLE West Covina",
+    "geometry": {
+      "location": {
+        "lat": 34.047571399999995,
+        "lng": -117.90763679999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 146,
+    "note": [
+      "647ccdaa000000001300422d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant",
+      "Chinese takeaway",
+      "Noodle shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647ccdaa000000001300422d": [
+        "LAN NOODLE West Covina",
+        true,
+        "在LA吃到了最好吃的兰州牛肉面😭梦回兰州了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lanzhou Beef Noodle": {
+    "place_name": "Lanzhou Beef Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.1405599,
+        "lng": -118.0213033
+      }
+    },
+    "rating": 4.2,
+    "reviews": 327,
+    "note": [
+      "647ccdaa000000001300422d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant",
+      "Traditional restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647ccdaa000000001300422d": [
+        "Lan Noodle兰州牛肉拉面",
+        "google_search_matched",
+        "在LA吃到了最好吃的兰州牛肉面😭梦回兰州了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "411 E Huntington Dr Suite 102": {
+    "place_name": "411 E Huntington Dr Suite 102",
+    "geometry": {
+      "location": {
+        "lat": 34.1405599,
+        "lng": -118.0213033
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "647ccdaa000000001300422d"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647ccdaa000000001300422d": [
+        "411 E Huntington Dr Suite 102, Arcadia, CA 91006",
+        true,
+        "在LA吃到了最好吃的兰州牛肉面😭梦回兰州了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1428 S Azusa Ave b": {
+    "place_name": "1428 S Azusa Ave b",
+    "geometry": {
+      "location": {
+        "lat": 34.0476106,
+        "lng": -117.9076862
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "647ccdaa000000001300422d"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "647ccdaa000000001300422d": [
+        "1428 S Azusa Ave Suite B, West Covina, CA 91791",
+        true,
+        "在LA吃到了最好吃的兰州牛肉面😭梦回兰州了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Happy Valley Village/ Shanlitun": {
+    "place_name": "Happy Valley Village/ Shanlitun",
+    "geometry": {
+      "location": {
+        "lat": 33.9921005,
+        "lng": -117.9334786
+      }
+    },
+    "rating": 4.6,
+    "reviews": 876,
+    "note": [
+      "62ca197f000000000b02a61e",
+      "63b7b850000000001b016148",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Hot pot restaurant",
+      "Mandarin restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62ca197f000000000b02a61e": [
+        "山里屯（Happy valley village）",
+        true,
+        "洛杉矶东北菜丨山里屯铁锅炖诚实测评💚",
+        -1
+      ],
+      "63b7b850000000001b016148": [
+        "三里屯",
+        false,
+        "7天吃3回正宗东北菜哪家强｜洛杉矶美食",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "山里屯",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Najia Cafe": {
+    "place_name": "Najia Cafe",
+    "geometry": {
+      "location": {
+        "lat": 33.9871146,
+        "lng": -117.90299089999999
+      }
+    },
+    "rating": 4,
+    "reviews": 95,
+    "note": [
+      "63b7b850000000001b016148"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b7b850000000001b016148": [
+        "那家老菜馆",
+        "google_search_matched",
+        "7天吃3回正宗东北菜哪家强｜洛杉矶美食",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "3470 W 6th St": {
+    "place_name": "3470 W 6th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0631287,
+        "lng": -118.29747119999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63aa97da000000001f0210f6"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa97da000000001f0210f6": [
+        "3470 W 6th St , Los Angeles, CA 90020",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "923 S Vermont Ave": {
+    "place_name": "923 S Vermont Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.055083599999996,
+        "lng": -118.29192259999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63aa97da000000001f0210f6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa97da000000001f0210f6": [
+        "923 S Vermont Ave, Los Angeles, CA 90006",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18347 Colima Rd": {
+    "place_name": "18347 Colima Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.9888687,
+        "lng": -117.90466169999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63aa97da000000001f0210f6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa97da000000001f0210f6": [
+        "18347 Colima Rd, Rowland Heights, CA 91748",
+        true,
+        "来洛杉矶一定要去的餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "DX-LAB": {
+    "place_name": "DX-LAB",
+    "geometry": {
+      "location": {
+        "lat": 34.0802475,
+        "lng": -118.09332909999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 93,
+    "note": [
+      "63b24827000000001b027b55",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "东西食堂",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "63b24827000000001b027b55": [
+        "DX Lab",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xing Fu Tang": {
+    "place_name": "Xing Fu Tang",
+    "geometry": {
+      "location": {
+        "lat": 33.993626299999995,
+        "lng": -117.90434909999999
+      }
+    },
+    "rating": 4,
+    "reviews": 175,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "snack",
+      "store",
+      [
+        "store"
+      ],
+      "Bubble tea store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Xing Fu Tang",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Radna Silom": {
+    "place_name": "Radna Silom",
+    "geometry": {
+      "location": {
+        "lat": 34.1021747,
+        "lng": -118.30640079999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 33,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Thai restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Radna Silom",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sanamluang Cafe Hollywood": {
+    "place_name": "Sanamluang Cafe Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1014317,
+        "lng": -118.3029648
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1212,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Thai restaurant",
+      "Asian restaurant",
+      "Noodle shop",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Sanamluang Cafe",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sapp Coffee Shop": {
+    "place_name": "Sapp Coffee Shop",
+    "geometry": {
+      "location": {
+        "lat": 34.1020926,
+        "lng": -118.3032022
+      }
+    },
+    "rating": 4.5,
+    "reviews": 387,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Thai restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Sapp coffee shop",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Northern Chinese Cuisine": {
+    "place_name": "Northern Chinese Cuisine",
+    "geometry": {
+      "location": {
+        "lat": 34.0783195,
+        "lng": -118.1020849
+      }
+    },
+    "rating": 4.5,
+    "reviews": 54,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "豫香園",
+        "google_search_matched",
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Motto Tea Cafe - Pasadena": {
+    "place_name": "Motto Tea Cafe - Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.1443936,
+        "lng": -118.15251509999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 430,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      "snack",
+      "Tea house",
+      "Cafe"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "Motto Tea Cafe",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Love at the Curb（爱在马路边）": {
+    "place_name": "Love at the Curb（爱在马路边）",
+    "geometry": {
+      "location": {
+        "lat": 34.0802264,
+        "lng": -118.10429769999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 80,
+    "note": [
+      "63b24827000000001b027b55"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Asian restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b24827000000001b027b55": [
+        "爱在马路边",
+        true,
+        "LA美食地图 看了无数xhs却没吃明白LA😂",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8518 Valley Blvd": {
+    "place_name": "8518 Valley Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0711042,
+        "lng": -117.51878239999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "653043120000000023039f98"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653043120000000023039f98": [
+        "8518 Valley Blvd",
+        true,
+        "LA 山西百年面道 好吃到emo了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rosemead, CA 91770": {
+    "place_name": "Rosemead, CA 91770",
+    "geometry": {
+      "location": {
+        "lat": 34.061736499999995,
+        "lng": -118.08300469999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "653043120000000023039f98"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653043120000000023039f98": [
+        "Rosemead, CA 91770",
+        true,
+        "LA 山西百年面道 好吃到emo了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "noodle palace": {
+    "place_name": "noodle palace",
+    "geometry": {
+      "location": {
+        "lat": 34.0792759,
+        "lng": -118.0834881
+      }
+    },
+    "rating": 4.3,
+    "reviews": 98,
+    "note": [
+      "653043120000000023039f98",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "山西百年面道",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ],
+      "653043120000000023039f98": [
+        "noodle palace",
+        true,
+        "LA 山西百年面道 好吃到emo了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chef Fu": {
+    "place_name": "Chef Fu",
+    "geometry": {
+      "location": {
+        "lat": 34.0528361,
+        "lng": -118.1364282
+      }
+    },
+    "rating": 4.3,
+    "reviews": 232,
+    "note": [
+      "655920a6000000003200a24b"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655920a6000000003200a24b": [
+        "洞庭湖 7. 788 S Atlantic Blvd, Monterey Park, CA 91754",
+        "google_search_matched",
+        "La探店｜成都老饕推荐必吃七家川湘菜合集🍽️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "DaPaiDang": {
+    "place_name": "DaPaiDang",
+    "geometry": {
+      "location": {
+        "lat": 34.0787609,
+        "lng": -118.1032151
+      }
+    },
+    "rating": 5,
+    "reviews": 3,
+    "note": [
+      "654edadf0000000032031b94"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654edadf0000000032031b94": [
+        "DaPaiDang 5. 250 W Valley Blvd # L, San Gabriel, CA 91776",
+        true,
+        "在LA我们久违地吃到了大排档夜宵",
+        -1
+      ],
+      "654c05c3000000000f025f8d": [
+        "250 W Valley Blvd, San Gabriel CA 91776",
+        true,
+        "洛杉矶美食｜SG新开的大排挡好火爆哦🔥",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "401 W Valley Blvd": {
+    "place_name": "401 W Valley Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0796756,
+        "lng": -118.1054286
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63d2f5560000000002000e18"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63d2f5560000000002000e18": [
+        "401 W Valley Blvd, San Gabriel, CA 91776",
+        true,
+        "吃了这顿牛肉火锅🍲下辈子想做潮汕人🙏",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "East Town Hot Pot 东镇老火锅": {
+    "place_name": "East Town Hot Pot 东镇老火锅",
+    "geometry": {
+      "location": {
+        "lat": 33.9957662,
+        "lng": -117.90534989999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 23,
+    "note": [
+      "6500ddeb000000001e023185"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6500ddeb000000001e023185": [
+        "东镇火锅",
+        "google_search_matched",
+        "洛杉矶｜这家羊蝎子确实不错🥰🥰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "13051 Newport Ave": {
+    "place_name": "13051 Newport Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.7488583,
+        "lng": -117.8118808
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "13051 Newport Ave, Tustin, CA 92780",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chang'an Restaurant": {
+    "place_name": "Chang'an Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.080230799999995,
+        "lng": -118.10273769999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 213,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian fusion restaurant",
+      "Bar & grill",
+      "Barbecue restaurant",
+      "Gastropub"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "品味长安",
+        false,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18331 Colima Rd": {
+    "place_name": "18331 Colima Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.9892901,
+        "lng": -117.90460089999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "18331 Colima Rd, Rowland Heights, CA 91748",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Anjin": {
+    "place_name": "Anjin",
+    "geometry": {
+      "location": {
+        "lat": 33.6818178,
+        "lng": -117.8866274
+      }
+    },
+    "rating": 4.6,
+    "reviews": 504,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Asian restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "ANJIN",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "13816 Red Hill Ave": {
+    "place_name": "13816 Red Hill Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.7350852,
+        "lng": -117.8122298
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "13816 Red Hill Ave, Tustin, CA 92780",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chen Bing Taiji Academy USA": {
+    "place_name": "Chen Bing Taiji Academy USA",
+    "geometry": {
+      "location": {
+        "lat": 34.1077138,
+        "lng": -118.2731125
+      }
+    },
+    "rating": 5,
+    "reviews": 18,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "Tai chi school",
+      "Kung fu school"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "太极",
+        false,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Nice To Meet You AYCE Hotpot": {
+    "place_name": "Nice To Meet You AYCE Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 33.989258299999996,
+        "lng": -117.9045556
+      }
+    },
+    "rating": 3.4,
+    "reviews": 156,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Takeout Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "那年遇见",
+        "google_search_matched",
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "5414 Walnut Ave": {
+    "place_name": "5414 Walnut Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.6893266,
+        "lng": -117.77028999999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62259382000000002103de1c"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "5414 Walnut Ave, Irvine, CA 92604",
+        true,
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bistro Na's": {
+    "place_name": "Bistro Na's",
+    "geometry": {
+      "location": {
+        "lat": 34.1045605,
+        "lng": -118.0724814
+      }
+    },
+    "rating": 4.2,
+    "reviews": 916,
+    "note": [
+      "62259382000000002103de1c",
+      "6405ba76000000001300c8e6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Delivery Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62259382000000002103de1c": [
+        "那家小馆",
+        "google_search_matched",
+        "洛杉矶｜不远万里只为来吃这几家超棒的中餐",
+        -1
+      ],
+      "6405ba76000000001300c8e6": [
+        "那家小馆",
+        "google_search_matched",
+        "洛杉矶｜中餐厅测评",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "那家小馆",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Tasty Dining": {
+    "place_name": "Tasty Dining",
+    "geometry": {
+      "location": {
+        "lat": 34.0797363,
+        "lng": -118.1039423
+      }
+    },
+    "rating": 3.9,
+    "reviews": 218,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Delivery Chinese restaurant",
+      "Diner"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "一品香",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Let’s Go Kebab": {
+    "place_name": "Let’s Go Kebab",
+    "geometry": {
+      "location": {
+        "lat": 34.1272532,
+        "lng": -118.0527944
+      }
+    },
+    "rating": 4.3,
+    "reviews": 141,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Barbecue restaurant",
+      "Kebab shop",
+      "Takeout Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "一起撸串吧",
+        false,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "101 Noodle Express": {
+    "place_name": "101 Noodle Express",
+    "geometry": {
+      "location": {
+        "lat": 33.9927625,
+        "lng": -117.8907251
+      }
+    },
+    "rating": 4.3,
+    "reviews": 35,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "鲁味居",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LUYU DUMPLINGS": {
+    "place_name": "LUYU DUMPLINGS",
+    "geometry": {
+      "location": {
+        "lat": 33.9920111,
+        "lng": -117.9127254
+      }
+    },
+    "rating": 4.7,
+    "reviews": 151,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dumpling restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "鲁豫水饺",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "WeChat Cafe": {
+    "place_name": "WeChat Cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.0781123,
+        "lng": -118.0497317
+      }
+    },
+    "rating": 3.9,
+    "reviews": 310,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian fusion restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "九龙冰室",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eat Joy Food": {
+    "place_name": "Eat Joy Food",
+    "geometry": {
+      "location": {
+        "lat": 33.9930078,
+        "lng": -117.89123459999999
+      }
+    },
+    "rating": 4,
+    "reviews": 61,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "颐中福",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lao Ma Tou Hot Pot - Rowland Heights": {
+    "place_name": "Lao Ma Tou Hot Pot - Rowland Heights",
+    "geometry": {
+      "location": {
+        "lat": 33.992591,
+        "lng": -117.8907297
+      }
+    },
+    "rating": 4.1,
+    "reviews": 170,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "老码头火锅",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dong Ting Chun": {
+    "place_name": "Dong Ting Chun",
+    "geometry": {
+      "location": {
+        "lat": 34.0784839,
+        "lng": -118.1022244
+      }
+    },
+    "rating": 3.4,
+    "reviews": 176,
+    "note": [
+      "65512b6000000000320297bd",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65512b6000000000320297bd": [
+        "洞庭湖",
+        false,
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "洞庭春",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Din Tai Fung": {
+    "place_name": "Din Tai Fung",
+    "geometry": {
+      "location": {
+        "lat": 34.1350325,
+        "lng": -118.05184969999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2182,
+    "note": [
+      "6405ba76000000001300c8e6",
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Taiwanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6405ba76000000001300c8e6": [
+        "鼎泰丰",
+        "google_search_matched",
+        "洛杉矶｜中餐厅测评",
+        -1
+      ],
+      "61cf99bc000000002103ebad": [
+        "鼎泰丰",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Enlighten Bistro 168": {
+    "place_name": "Enlighten Bistro 168",
+    "geometry": {
+      "location": {
+        "lat": 34.1307112,
+        "lng": -118.0543234
+      }
+    },
+    "rating": 4.5,
+    "reviews": 33,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "一揽天",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bang Bang Noodles": {
+    "place_name": "Bang Bang Noodles",
+    "geometry": {
+      "location": {
+        "lat": 34.0250839,
+        "lng": -118.39410559999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 65,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant",
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "Bang Bang Noodles",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wei’s Cuisine Kitchen": {
+    "place_name": "Wei’s Cuisine Kitchen",
+    "geometry": {
+      "location": {
+        "lat": 34.0605076,
+        "lng": -118.091059
+      }
+    },
+    "rating": 4.6,
+    "reviews": 17,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Cantonese restaurant",
+      "Chop bar",
+      "Diner",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "伟记小厨",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kam Hong Garden": {
+    "place_name": "Kam Hong Garden",
+    "geometry": {
+      "location": {
+        "lat": 34.0623003,
+        "lng": -118.1103778
+      }
+    },
+    "rating": 4.5,
+    "reviews": 80,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "家乡面馆",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Meet Qin Noodle": {
+    "place_name": "Meet Qin Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.0947539,
+        "lng": -118.127112
+      }
+    },
+    "rating": 4.3,
+    "reviews": 87,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "Meet Qin Noodles",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tim Ho Wan": {
+    "place_name": "Tim Ho Wan",
+    "geometry": {
+      "location": {
+        "lat": 33.6882364,
+        "lng": -117.83398179999999
+      }
+    },
+    "rating": 3.6,
+    "reviews": 687,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dim sum restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "添好运",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xiang Ji BBQ & Seafood": {
+    "place_name": "Xiang Ji BBQ & Seafood",
+    "geometry": {
+      "location": {
+        "lat": 34.074967799999996,
+        "lng": -118.07347809999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 120,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "祥记私房菜",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ho Kee Cafe": {
+    "place_name": "Ho Kee Cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.0951897,
+        "lng": -118.0997797
+      }
+    },
+    "rating": 4.1,
+    "reviews": 505,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cantonese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "豪记面馆",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hsin Hsin Shau May Deli": {
+    "place_name": "Hsin Hsin Shau May Deli",
+    "geometry": {
+      "location": {
+        "lat": 33.9865397,
+        "lng": -117.9028161
+      }
+    },
+    "rating": 3.8,
+    "reviews": 56,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Deli",
+      "Delivery Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "欣欣小美",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wuming Hot Pot": {
+    "place_name": "Wuming Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.0804599,
+        "lng": -118.0928088
+      }
+    },
+    "rating": 4,
+    "reviews": 175,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Chinese restaurant",
+      "Hot pot restaurant",
+      "Mandarin restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "吴铭怀旧火锅",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sea Harbour Seafood Restaurant": {
+    "place_name": "Sea Harbour Seafood Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.079828899999995,
+        "lng": -118.07348139999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 971,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "海港大酒楼",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "避风塘": {
+    "place_name": "避风塘",
+    "geometry": {
+      "location": {
+        "lat": 34.107181499999996,
+        "lng": -118.0585327
+      }
+    },
+    "rating": 4.2,
+    "reviews": 18,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "避风塘",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Five Stars Noodles": {
+    "place_name": "Five Stars Noodles",
+    "geometry": {
+      "location": {
+        "lat": 33.9888213,
+        "lng": -117.90154299999999
+      }
+    },
+    "rating": 3.3,
+    "reviews": 46,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "五星米粉",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yummy Cuisine": {
+    "place_name": "Yummy Cuisine",
+    "geometry": {
+      "location": {
+        "lat": 34.0668834,
+        "lng": -118.1349671
+      }
+    },
+    "rating": 4,
+    "reviews": 69,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "讲饮讲食",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Haidilao Hot Pot City of Industry": {
+    "place_name": "Haidilao Hot Pot City of Industry",
+    "geometry": {
+      "location": {
+        "lat": 33.9946226,
+        "lng": -117.9262732
+      }
+    },
+    "rating": 4.7,
+    "reviews": 830,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "海底捞火锅罗兰岗店",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xi'an Kitchen": {
+    "place_name": "Xi'an Kitchen",
+    "geometry": {
+      "location": {
+        "lat": 33.9959814,
+        "lng": -117.90671429999999
+      }
+    },
+    "rating": 3.3,
+    "reviews": 157,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "西安食府",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "East Town Fried Chicken 大院炒鸡": {
+    "place_name": "East Town Fried Chicken 大院炒鸡",
+    "geometry": {
+      "location": {
+        "lat": 33.9872594,
+        "lng": -117.9030016
+      }
+    },
+    "rating": 4.2,
+    "reviews": 45,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "大院炒鸡",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Zhou Guilin's Rice Noodle": {
+    "place_name": "Zhou Guilin's Rice Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.0610947,
+        "lng": -118.12258299999999
+      }
+    },
+    "rating": 3.2,
+    "reviews": 132,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "周记桂林米粉",
+        false,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "RiceBox": {
+    "place_name": "RiceBox",
+    "geometry": {
+      "location": {
+        "lat": 34.0465768,
+        "lng": -118.2508948
+      }
+    },
+    "rating": 4.5,
+    "reviews": 143,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cantonese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "RiceBox",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LuDingJi Noodles": {
+    "place_name": "LuDingJi Noodles",
+    "geometry": {
+      "location": {
+        "lat": 34.08031,
+        "lng": -118.0932856
+      }
+    },
+    "rating": 3.9,
+    "reviews": 110,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Mandarin restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "禄鼎记",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pearl River Deli": {
+    "place_name": "Pearl River Deli",
+    "geometry": {
+      "location": {
+        "lat": 34.0651924,
+        "lng": -118.2381254
+      }
+    },
+    "rating": 4.5,
+    "reviews": 114,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "Pearl River Deli",
+        true,
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chun La Hao Chong Qing Hot Pot": {
+    "place_name": "Chun La Hao Chong Qing Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.103827599999995,
+        "lng": -118.07380169999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 164,
+    "note": [
+      "61cf99bc000000002103ebad"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "61cf99bc000000002103ebad": [
+        "唇辣号火锅",
+        "google_search_matched",
+        "💥洛杉矶终.极中餐集合宝典，建议️收藏⚠️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chili House": {
+    "place_name": "Chili House",
+    "geometry": {
+      "location": {
+        "lat": 33.992976899999995,
+        "lng": -117.8911936
+      }
+    },
+    "rating": 4.5,
+    "reviews": 93,
+    "note": [
+      "65512b6000000000320297bd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65512b6000000000320297bd": [
+        "小辣椒",
+        "google_search_matched",
+        "La探店｜吐血整理la湘菜红黑榜！看这篇就够啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "250 W Valley Blvd": {
+    "place_name": "250 W Valley Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0787609,
+        "lng": -118.1032151
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "654c05c3000000000f025f8d"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c05c3000000000f025f8d": [
+        "250 W Valley Blvd, San Gabriel CA 91776",
+        true,
+        "洛杉矶美食｜SG新开的大排挡好火爆哦🔥",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "San Gabriel": {
+    "place_name": "San Gabriel",
+    "geometry": {
+      "location": {
+        "lat": 34.0961111,
+        "lng": -118.1058333
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6405ba76000000001300c8e6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6405ba76000000001300c8e6": [
+        "圣盖博",
+        "google_search_matched",
+        "洛杉矶｜中餐厅测评",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tasty Noodle House": {
+    "place_name": "Tasty Noodle House",
+    "geometry": {
+      "location": {
+        "lat": 32.8248949,
+        "lng": -117.15591049999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 909,
+    "note": [
+      "6405ba76000000001300c8e6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shanghainese restaurant",
+      "Chinese restaurant",
+      "Taiwanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6405ba76000000001300c8e6": [
+        "Tasty Noodle House",
+        true,
+        "洛杉矶｜中餐厅测评",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18900 Gale Ave": {
+    "place_name": "18900 Gale Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.994690999999996,
+        "lng": -117.890525
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65694267000000003202e475"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65694267000000003202e475": [
+        "18900 Gale Ave, Rowland Heights, CA 91748",
+        true,
+        "洛杉矶｜新开的蒙古草原羊肉店太好吃超正！🐑",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mongolian Home Made Pie 蒙古馅饼": {
+    "place_name": "Mongolian Home Made Pie 蒙古馅饼",
+    "geometry": {
+      "location": {
+        "lat": 33.9946947,
+        "lng": -117.89048419999999
+      }
+    },
+    "rating": 5,
+    "reviews": 1,
+    "note": [
+      "65694267000000003202e475"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Mongolian barbecue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65694267000000003202e475": [
+        "Mongolian Home Made Pie蒙古馅饼",
+        true,
+        "洛杉矶｜新开的蒙古草原羊肉店太好吃超正！🐑",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lunasia Dim Sum House": {
+    "place_name": "Lunasia Dim Sum House",
+    "geometry": {
+      "location": {
+        "lat": 34.092279399999995,
+        "lng": -118.1321981
+      }
+    },
+    "rating": 4.2,
+    "reviews": 1352,
+    "note": [
+      "63790b29000000000e03afc8"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dim sum restaurant",
+      "Asian restaurant",
+      "Chinese restaurant",
+      "Southeast Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63790b29000000000e03afc8": [
+        "皇城宫廷菜",
+        false,
+        "洛杉矶美食米其林一星-那家小馆Bistro Na",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Papa Lu’s Kitchen 陆家村": {
+    "place_name": "Papa Lu’s Kitchen 陆家村",
+    "geometry": {
+      "location": {
+        "lat": 34.080534,
+        "lng": -117.9820326
+      }
+    },
+    "rating": 4.1,
+    "reviews": 19,
+    "note": [
+      "641611d10000000013005c7b"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "641611d10000000013005c7b": [
+        "Papa Lu's Kitchen 陆家村 5. 13334 Ramona Blvd k, Baldwin Park, CA 91706",
+        true,
+        "LA华人区好吃的粤菜｜虫草花蒸鸡｜腊味煲仔饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

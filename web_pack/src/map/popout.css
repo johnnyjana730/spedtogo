@@ -1,0 +1,133 @@
+.icon_nav-container-guide {
+  position: relative;
+  display: inline-block; /* Ensure it takes only the necessary space */
+}
+
+.popout-guide-text {
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  position: absolute; /* Position absolutely relative to the parent */
+  top: 20px;
+  color: #1a73e8;
+  flex-direction: column;
+  padding: 5px;
+  font-size: 16px;
+  z-index: 2000;
+  visibility: hidden;
+  width: auto;
+  border: 2px solid #000;
+  border-radius: 11px;
+  padding: 8px;
+  padding-left: 3px;
+  padding-right: 3px;
+  background: white;
+  left: -8px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  transition: width 0.1s;
+  transition: visibility 0.1s ease;
+}
+
+.icon_nav-container-guide:hover .popout-guide-text {
+  visibility: visible;
+  white-space: nowrap; /* Prevent wrapping to the next line */
+  border: 2px solid #000; /* Add your desired border style */
+  border-radius: 11px; /* Adjust the value to control the roundness of the corners */
+  padding: 8px;
+  padding-left: 3px; /* Add left padding */
+  padding-right: 3px; /* Add right padding */
+  position: absolute; /* Position the line absolutely */
+  flex-direction: column; /* Arrange items vertically in a column */
+  background: white;
+  z-index: 10000;
+  left: -8px;
+  width: auto; /* Set the width to 'auto' to fit the content size */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  transition: width 0.3s; /* Add a transition effect for width changes */
+}
+
+
+
+.keywordbox {
+    position: absolute;
+    top: 90%; /* Adjust the positioning as needed */
+    background-color: white;
+    padding: 8px; /* Specify units for padding, e.g., pixels */
+    border-radius: 10px; /* You can adjust the value to control the roundness of the box */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the values for the shadow as needed */
+}
+
+.keywordtmp {
+    visibility: hidden;
+    position: absolute;
+    top: 90%; /* Adjust the positioning as needed */
+    background-color: white;
+    padding: 8px; /* Specify units for padding, e.g., pixels */
+    border-radius: 10px; /* You can adjust the value to control the roundness of the box */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adjust the values for the shadow as needed */
+    transition: visibility 0.3s ease; /* Add a smooth transition effect */
+}
+
+
+.keywordbox:hover .keywordtmp {
+    visibility: hidden;
+    white-space: nowrap; /* Prevent wrapping to the next line */
+}
+
+
+.button_nav_key {
+  background-color: white;
+  border: 1px solid black;
+  width: 15px;
+  height: 15px;
+}
+
+
+.icon_nav_keyword_b1 {
+  position: relative;
+  margin-left: 7px; /* Changed from margin-left to margin-right */
+  background-color: white;
+  width: 22px;
+  height: 22px;
+  left: 5px;
+  font-size: 6px; /* Smaller font size */
+  top: -5px;
+  border: 2px solid black;
+  border-radius: 30%; /* This creates a circular border */
+  padding: 3px; /* Adjusted padding for a smaller size */
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+
+.icon_nav_keyword_b1:hover {
+  background-color: #d6d6d6; /* A little gray color for hover */
+}
+
+.leaflet-popup-content-wrapper {
+  padding: 0px;
+}
+
+.leaflet-popup {
+  padding: 0px;
+}
+
+@media screen and (max-width: 800px) {
+/*  .css-view-175oi2r {
+    margin-left: -2%;
+  }
+*//*
+  .leaflet-popup-content {
+    margin-left: 15%;
+    margin-right: 5%;
+  }*/
+  
+  .leaflet-popup-content-wrapper {
+    padding: 0px;
+    margin-left: 5%;
+    margin-right: 5%;
+/*    width: 90%;*/
+/*    left: 200px;*/
+  }
+  .leaflet-popup-close-button {
+    display: none;
+  }
+}

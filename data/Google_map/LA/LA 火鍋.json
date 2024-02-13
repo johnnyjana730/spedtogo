@@ -1,0 +1,2381 @@
+{
+  "Haidilao Hot Pot Arcadia": {
+    "place_name": "Haidilao Hot Pot Arcadia",
+    "geometry": {
+      "location": {
+        "lat": 34.1333726,
+        "lng": -118.05299679999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 909,
+    "note": [
+      "62e31baf000000000e028e30",
+      "63637c17000000000a00b1e7",
+      "653a1d9f000000002303a7d6",
+      "64f52694000000001e00da77",
+      "647231bb000000001300da20",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Asian restaurant",
+      "Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653a1d9f000000002303a7d6": [
+        "海底捞火锅",
+        false,
+        "LA海底捞$19/位！花碗面钱💰火锅吃到撑！",
+        -1
+      ],
+      "647231bb000000001300da20": [
+        "LA火锅店",
+        false,
+        "洛杉矶好吃的火锅店榜单",
+        -1
+      ],
+      "63637c17000000000a00b1e7": [
+        "海底捞",
+        false,
+        "洛杉矶火锅汇总, 一些真实中肯评价",
+        -1
+      ],
+      "62e31baf000000000e028e30": [
+        "海底捞",
+        false,
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "海底捞",
+        false,
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "海底捞",
+        false,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "XiangBaiLi HotPot": {
+    "place_name": "XiangBaiLi HotPot",
+    "geometry": {
+      "location": {
+        "lat": 34.077822499999996,
+        "lng": -118.1019453
+      }
+    },
+    "rating": 3.1,
+    "reviews": 33,
+    "note": [
+      "6392ddcf000000001c0059bc",
+      "63ba3b57000000001801162b"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63ba3b57000000001801162b": [
+        "香佰里 XiangBaiLi Hotpot",
+        true,
+        "圣盖博🔥LA新晋火锅打卡🍲人均30吃到撑",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "香佰里👉🏻Xiangbaili👈🏻",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yuan's Hotpot Los Angeles": {
+    "place_name": "Yuan's Hotpot Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0803977,
+        "lng": -118.07866059999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 99,
+    "note": [
+      "62e31baf000000000e028e30",
+      "63f98e3a000000000703bfb8",
+      "64f52694000000001e00da77",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62e31baf000000000e028e30": [
+        "袁老四",
+        false,
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "63f98e3a000000000703bfb8": [
+        "袁老四",
+        false,
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "袁老四",
+        false,
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "新开的袁老四",
+        false,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "禾火鲜煮 On Fire Hotpot": {
+    "place_name": "禾火鲜煮 On Fire Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 34.0693585,
+        "lng": -118.1337106
+      }
+    },
+    "rating": 3.6,
+    "reviews": 14,
+    "note": [
+      "62e31baf000000000e028e30",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62e31baf000000000e028e30": [
+        "禾火鲜煮",
+        true,
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "禾火鲜煮",
+        true,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wuming Hot Pot": {
+    "place_name": "Wuming Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.0804599,
+        "lng": -118.0928088
+      }
+    },
+    "rating": 4,
+    "reviews": 174,
+    "note": [
+      "6496573c0000000014027804",
+      "63f98e3a000000000703bfb8",
+      "63637c17000000000a00b1e7",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Asian fusion restaurant",
+      "Chinese restaurant",
+      "Hot pot restaurant",
+      "Mandarin restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "吴铭火锅",
+        "google_search_matched",
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ],
+      "63f98e3a000000000703bfb8": [
+        "吴铭火锅",
+        "google_search_matched",
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "63637c17000000000a00b1e7": [
+        "吴铭火锅",
+        "google_search_matched",
+        "洛杉矶火锅汇总, 一些真实中肯评价",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "吴铭火锅",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Chong Qing YaoMei Hotpot": {
+    "place_name": "Chong Qing YaoMei Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 34.1447402,
+        "lng": -118.15171959999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 286,
+    "note": [
+      "64bf5224000000001201bb08",
+      "64f52694000000001e00da77",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Lunch restaurant",
+      "Takeout Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64bf5224000000001201bb08": [
+        "幺妹火锅",
+        "google_search_matched",
+        "LA东区正宗的四川火锅",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "幺妹",
+        false,
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "幺妹",
+        false,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xiaolongkan Hot Pot": {
+    "place_name": "Xiaolongkan Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.0782659,
+        "lng": -118.1241089
+      }
+    },
+    "rating": 4.1,
+    "reviews": 193,
+    "note": [
+      "62e31baf000000000e028e30",
+      "64f52694000000001e00da77",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6392ddcf000000001c0059bc": [
+        "小龙坎👉🏻Xiaolongkan👈🏻",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ],
+      "62e31baf000000000e028e30": [
+        "小龙坎",
+        "google_search_matched",
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "小龙坎",
+        "google_search_matched",
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Duo-Pot": {
+    "place_name": "Duo-Pot",
+    "geometry": {
+      "location": {
+        "lat": 33.9862408,
+        "lng": -117.9031337
+      }
+    },
+    "rating": 4,
+    "reviews": 5,
+    "note": [
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant",
+      "Chinese restaurant",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6392ddcf000000001c0059bc": [
+        "一锅两吃👉🏻Duo Pot👈🏻",
+        true,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The X Pot": {
+    "place_name": "The X Pot",
+    "geometry": {
+      "location": {
+        "lat": 36.1242075,
+        "lng": -115.16765579999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 867,
+    "note": [
+      "63f98e3a000000000703bfb8",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Bar",
+      "Chinese restaurant",
+      "Cocktail bar",
+      "Event venue",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63f98e3a000000000703bfb8": [
+        "香天下The X Pot",
+        true,
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "香天下👉🏻X Pot👈🏻",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Wagyu House by The X Pot": {
+    "place_name": "Wagyu House by The X Pot",
+    "geometry": {
+      "location": {
+        "lat": 33.994952399999995,
+        "lng": -117.89986309999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 431,
+    "note": [
+      "62e31baf000000000e028e30",
+      "64c85dd4000000001201cd26",
+      "64f52694000000001e00da77",
+      "64c0b473000000001201b398",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Bar",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62e31baf000000000e028e30": [
+        "香天下Wagyu House by The X Pot",
+        true,
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "64c0b473000000001201b398": [
+        "Wagyu House by X Pot",
+        true,
+        "LA🌴｜和牛火锅🥩洛杉矶的火锅天花板？",
+        -1
+      ],
+      "64c85dd4000000001201cd26": [
+        "香天下",
+        false,
+        "LA香天下现在真的蛮便宜的哎🥹",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "香天下",
+        false,
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "香天下",
+        false,
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lao Ma Tou Hot Pot - Rowland Heights": {
+    "place_name": "Lao Ma Tou Hot Pot - Rowland Heights",
+    "geometry": {
+      "location": {
+        "lat": 33.992591,
+        "lng": -117.8907297
+      }
+    },
+    "rating": 4.1,
+    "reviews": 172,
+    "note": [
+      "62e31baf000000000e028e30",
+      "63d3298d000000001c006791",
+      "64f52694000000001e00da77",
+      "63f98e3a000000000703bfb8",
+      "650e310f000000001e028f6f",
+      "6392ddcf000000001c0059bc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e310f000000001e028f6f": [
+        "火锅店（Lao Ma Tou Hot Pot）",
+        false,
+        "LA🇺🇸我心中洛杉矶No.1正宗的成都火锅",
+        -1
+      ],
+      "63d3298d000000001c006791": [
+        "老码头",
+        "google_search_matched",
+        "这家是LA最有氛围感的火锅店吧🍲",
+        -1
+      ],
+      "62e31baf000000000e028e30": [
+        "老码头",
+        "google_search_matched",
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "老码头",
+        "google_search_matched",
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ],
+      "63f98e3a000000000703bfb8": [
+        "老码头火锅",
+        "google_search_matched",
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "老码头 👉🏻Lao Ma Tou Hot Pot👈🏻",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Chun La Hao Chong Qing Hot Pot": {
+    "place_name": "Chun La Hao Chong Qing Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.103827599999995,
+        "lng": -118.07380169999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 163,
+    "note": [
+      "63f98e3a000000000703bfb8",
+      "648fd2e6000000001303e823",
+      "6392ddcf000000001c0059bc",
+      "64361d2b0000000012031c71"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64361d2b0000000012031c71": [
+        "重庆火锅🥘",
+        false,
+        "LA丨发现一家被严重低估的地道重庆火锅‼️㊙️",
+        -1
+      ],
+      "63f98e3a000000000703bfb8": [
+        "唇辣号重庆老火锅",
+        "google_search_matched",
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "6392ddcf000000001c0059bc": [
+        "唇辣号",
+        "google_search_matched",
+        "LA🍽️｜最新火锅合集♨️洛杉矶火锅哪家强🤔",
+        -1
+      ],
+      "648fd2e6000000001303e823": [
+        "唇辣号",
+        "google_search_matched",
+        "洛杉矶Temple City九宫格重庆火锅",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Mikiya Wagyu Shabu House": {
+    "place_name": "Mikiya Wagyu Shabu House",
+    "geometry": {
+      "location": {
+        "lat": 34.1047368,
+        "lng": -118.07334329999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 132,
+    "note": [
+      "6393a268000000001b0263bb",
+      "650e2d9f000000001e02229a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2d9f000000001e02229a": [
+        "Mikiya Wagyu Shabu House",
+        true,
+        "LA味喜屋🥩超值奶香日式和牛寿喜锅吃到爽！",
+        -1
+      ],
+      "6393a268000000001b0263bb": [
+        "味喜屋MIKIYA",
+        "google_search_matched",
+        "🔥LA人均$38就能吃到饱的和牛自助！爽！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "NIKU X": {
+    "place_name": "NIKU X",
+    "geometry": {
+      "location": {
+        "lat": 34.0500335,
+        "lng": -118.2604064
+      }
+    },
+    "rating": 4.6,
+    "reviews": 141,
+    "note": [
+      "6393a268000000001b0263bb"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Yakiniku restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6393a268000000001b0263bb": [
+        "和牛自助",
+        false,
+        "🔥LA人均$38就能吃到饱的和牛自助！爽！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shancheng Lameizi": {
+    "place_name": "Shancheng Lameizi",
+    "geometry": {
+      "location": {
+        "lat": 33.996044499999996,
+        "lng": -117.88882919999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 512,
+    "note": [
+      "64bf5224000000001201bb08",
+      "62e31baf000000000e028e30",
+      "63f98e3a000000000703bfb8",
+      "64f52694000000001e00da77"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64bf5224000000001201bb08": [
+        "LA最正宗的四川火锅",
+        "google_search_matched",
+        "LA东区正宗的四川火锅",
+        -1
+      ],
+      "62e31baf000000000e028e30": [
+        "山城辣妹子",
+        "google_search_matched",
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ],
+      "63f98e3a000000000703bfb8": [
+        "山城辣妹子",
+        "google_search_matched",
+        "洛杉矶最好吃的6家火锅店😛接受反驳🌶️",
+        -1
+      ],
+      "64f52694000000001e00da77": [
+        "山城辣妹子",
+        "google_search_matched",
+        "LA洛杉矶｜热门火锅大合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "5701 Rosemead Blvd": {
+    "place_name": "5701 Rosemead Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.1038997,
+        "lng": -118.07377199999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64361d2b0000000012031c71"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64361d2b0000000012031c71": [
+        "5701 Rosemead Blvd, Temple City, CA 91780",
+        true,
+        "LA丨发现一家被严重低估的地道重庆火锅‼️㊙️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Nice To Meet You AYCE Hotpot": {
+    "place_name": "Nice To Meet You AYCE Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 33.989258299999996,
+        "lng": -117.9045556
+      }
+    },
+    "rating": 3.4,
+    "reviews": 155,
+    "note": [
+      "654301f3000000001e00eb37",
+      "653a1d9f000000002303a7d6",
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Takeout Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654301f3000000001e00eb37": [
+        "各种火锅串串 🍢",
+        false,
+        "La测评｜好吃到爆炸！这家店菜品服务没得说☝️",
+        -1
+      ],
+      "653a1d9f000000002303a7d6": [
+        "椰子鸡锅底",
+        false,
+        "LA海底捞$19/位！花碗面钱💰火锅吃到撑！",
+        -1
+      ],
+      "63742bde000000001c034862": [
+        "罗兰岗那年遇见",
+        "google_search_matched",
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "All That Shabu": {
+    "place_name": "All That Shabu",
+    "geometry": {
+      "location": {
+        "lat": 33.6972999,
+        "lng": -117.79911639999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 421,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Buffet restaurant",
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "ALL THAT SHABU",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "CHUAN POT": {
+    "place_name": "CHUAN POT",
+    "geometry": {
+      "location": {
+        "lat": 33.9748032,
+        "lng": -117.83887519999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 72,
+    "note": [
+      "62df3068000000001b029d97",
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62df3068000000001b029d97": [
+        "Chuan Pot川西坝子",
+        true,
+        "这是我在洛杉矶见过最不像自助的自助火锅🍲",
+        -1
+      ],
+      "63742bde000000001c034862": [
+        "Chuan Pot川西坝子",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mo-Mo-Paradise": {
+    "place_name": "Mo-Mo-Paradise",
+    "geometry": {
+      "location": {
+        "lat": 33.9901179,
+        "lng": -117.9219751
+      }
+    },
+    "rating": 4.3,
+    "reviews": 452,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Sukiyaki and Shabu Shabu restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "Momo Paradise",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Boiling World": {
+    "place_name": "Boiling World",
+    "geometry": {
+      "location": {
+        "lat": 34.0705643,
+        "lng": -117.55445859999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 780,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Buffet restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "Boiling World",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shabu Lin": {
+    "place_name": "Shabu Lin",
+    "geometry": {
+      "location": {
+        "lat": 34.138833999999996,
+        "lng": -118.0286264
+      }
+    },
+    "rating": 4.3,
+    "reviews": 187,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "Shabu Lin",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shabuya Los Angeles": {
+    "place_name": "Shabuya Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0513072,
+        "lng": -118.27820639999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1398,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Buffet restaurant",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "Shabuya",
+        true,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Blossom Season Hot Pot": {
+    "place_name": "Blossom Season Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 33.995371899999995,
+        "lng": -117.91111719999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 168,
+    "note": [
+      "6496345b0000000027013da8",
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Takeout Restaurant",
+      "Shabu-shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496345b0000000027013da8": [
+        "花季火锅 Blossom Season Hot Pot",
+        true,
+        "LA人均30+AYCE火锅｜肉质过关种类丰富🍲",
+        -1
+      ],
+      "63742bde000000001c034862": [
+        "花季火锅Blossom Season",
+        "google_search_matched",
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Happy AYCE Hot Pot": {
+    "place_name": "Happy AYCE Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.0803691,
+        "lng": -118.07817399999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 491,
+    "note": [
+      "63742bde000000001c034862"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63742bde000000001c034862": [
+        "快乐小羊",
+        false,
+        "人均$25‼️洛杉矶不踩雷自助火锅🍲合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "500 E Valley Blvd": {
+    "place_name": "500 E Valley Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0798023,
+        "lng": -118.0944208
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64fcc814000000001f039ff4"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fcc814000000001f039ff4": [
+        "小plaza (地址：500 E Valley Blvd Unit C&D, San Gabriel, CA 91776, United States)",
+        true,
+        "LA自助火锅&烧烤｜吃货H·P&BBQ",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "East Town Hot Pot 东镇老火锅": {
+    "place_name": "East Town Hot Pot 东镇老火锅",
+    "geometry": {
+      "location": {
+        "lat": 33.9957662,
+        "lng": -117.90534989999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 23,
+    "note": [
+      "6500ddeb000000001e023185",
+      "639ff9c2000000001f00d216"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6500ddeb000000001e023185": [
+        "东镇火锅",
+        "google_search_matched",
+        "洛杉矶｜这家羊蝎子确实不错🥰🥰",
+        -1
+      ],
+      "639ff9c2000000001f00d216": [
+        "老北京铜锅涮肉（laobeijing hotpot）",
+        false,
+        "🇺🇸洛杉矶｜找了十年的正宗老北京铜锅涮肉",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "140 W Valley Blvd Ste 213": {
+    "place_name": "140 W Valley Blvd Ste 213",
+    "geometry": {
+      "location": {
+        "lat": 34.078050499999996,
+        "lng": -118.1016377
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63ba3b57000000001801162b"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63ba3b57000000001801162b": [
+        "140 W Valley Blvd, Unit 213, San Gabriel, CA 91776",
+        true,
+        "圣盖博🔥LA新晋火锅打卡🍲人均30吃到撑",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "盐湖城 旅游 滑雪 中文客服": {
+    "place_name": "盐湖城 旅游 滑雪 中文客服",
+    "geometry": {
+      "location": {
+        "lat": 34.0424171,
+        "lng": -117.93396299999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63ba3b57000000001801162b"
+    ],
+    "types": [
+      "Ski resort"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63ba3b57000000001801162b": [
+        "盐湖城滑雪",
+        false,
+        "圣盖博🔥LA新晋火锅打卡🍲人均30吃到撑",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18938 Labin Ct": {
+    "place_name": "18938 Labin Ct",
+    "geometry": {
+      "location": {
+        "lat": 33.9928222,
+        "lng": -117.8906166
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63d3298d000000001c006791",
+      "650e310f000000001e028f6f"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e310f000000001e028f6f": [
+        "18938 Labin Ct , Rowland Heights, CA 91748",
+        true,
+        "LA🇺🇸我心中洛杉矶No.1正宗的成都火锅",
+        -1
+      ],
+      "63d3298d000000001c006791": [
+        "18938 Labin Ct",
+        true,
+        "这家是LA最有氛围感的火锅店吧🍲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18009 Gale Ave": {
+    "place_name": "18009 Gale Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.995371899999995,
+        "lng": -117.91111719999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6496345b0000000027013da8"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496345b0000000027013da8": [
+        "18009 Gale Ave, City of Industry, CA 91748",
+        true,
+        "LA人均30+AYCE火锅｜肉质过关种类丰富🍲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tea Master Matcha Cafe and Green Tea Shop": {
+    "place_name": "Tea Master Matcha Cafe and Green Tea Shop",
+    "geometry": {
+      "location": {
+        "lat": 34.0470815,
+        "lng": -118.2386049
+      }
+    },
+    "rating": 4.8,
+    "reviews": 487,
+    "note": [
+      "653a1d9f000000002303a7d6"
+    ],
+    "types": [
+      "restaurant",
+      "snack",
+      "snack",
+      "store",
+      [
+        "store"
+      ],
+      "Tea house",
+      "Ice cream shop",
+      "Tea store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653a1d9f000000002303a7d6": [
+        "抹茶生椰： 好喝香浓！可以比美三喵给我冲！",
+        false,
+        "LA海底捞$19/位！花碗面钱💰火锅吃到撑！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SweetHoney Dessert": {
+    "place_name": "SweetHoney Dessert",
+    "geometry": {
+      "location": {
+        "lat": 34.092880099999995,
+        "lng": -118.1314202
+      }
+    },
+    "rating": 3.8,
+    "reviews": 172,
+    "note": [
+      "653a1d9f000000002303a7d6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dessert restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653a1d9f000000002303a7d6": [
+        "抹茶生椰",
+        false,
+        "LA海底捞$19/位！花碗面钱💰火锅吃到撑！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Haidilao Hot Pot Century City": {
+    "place_name": "Haidilao Hot Pot Century City",
+    "geometry": {
+      "location": {
+        "lat": 34.0595943,
+        "lng": -118.4187477
+      }
+    },
+    "rating": 4.7,
+    "reviews": 870,
+    "note": [
+      "653a1d9f000000002303a7d6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653a1d9f000000002303a7d6": [
+        "LA店：10250 Santa Monica Blvd Ste 2610, Los Angeles, CA",
+        "google_search_matched",
+        "LA海底捞$19/位！花碗面钱💰火锅吃到撑！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sichuan Sizzling hotpot 叁合煮": {
+    "place_name": "Sichuan Sizzling hotpot 叁合煮",
+    "geometry": {
+      "location": {
+        "lat": 34.0801939,
+        "lng": -118.11048559999999
+      }
+    },
+    "rating": 4.9,
+    "reviews": 14,
+    "note": [
+      "652c6ea4000000002101dde5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Hot pot restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652c6ea4000000002101dde5": [
+        "Sichuan Sizzling hotpot 叁合煮",
+        true,
+        "LA新店｜适合一人食成都火锅🍲味道嘎嘎正宗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chao Wei Ju": {
+    "place_name": "Chao Wei Ju",
+    "geometry": {
+      "location": {
+        "lat": 34.0796902,
+        "lng": -118.1054041
+      }
+    },
+    "rating": 3.7,
+    "reviews": 136,
+    "note": [
+      "63b7b94e000000001c03758d",
+      "6449f903000000002702b7f1",
+      "6546d70700000000250175c6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Asian restaurant",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b7b94e000000001c03758d": [
+        "潮汕小吃拼盘",
+        false,
+        "来吧洛杉矶养生人儿们！一起打边炉🔥",
+        -1
+      ],
+      "6449f903000000002702b7f1": [
+        "洛杉矶潮汕牛肉",
+        false,
+        "洛杉矶🍲潮汕牛肉火锅先吃为敬",
+        -1
+      ],
+      "6546d70700000000250175c6": [
+        "Chao Wei Ju",
+        true,
+        "芜湖‼️在LA吃到了正宗潮汕涮牛肉🐮",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "DX-LAB": {
+    "place_name": "DX-LAB",
+    "geometry": {
+      "location": {
+        "lat": 34.0802475,
+        "lng": -118.09332909999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 93,
+    "note": [
+      "6546d70700000000250175c6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6546d70700000000250175c6": [
+        "小吃拼盘和招牌手抓骨",
+        false,
+        "芜湖‼️在LA吃到了正宗潮汕涮牛肉🐮",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "小不点串串香火锅 Little Guys Hot Pot": {
+    "place_name": "小不点串串香火锅 Little Guys Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 33.995497199999996,
+        "lng": -117.9062673
+      }
+    },
+    "rating": 5,
+    "reviews": 7,
+    "note": [
+      "654ae7d8000000000f0297d4",
+      "654aefd3000000002201cb2b"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Traditional restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654aefd3000000002201cb2b": [
+        "小不点串串香火锅 (18250 Gale Ave, City of Industry, CA 91748)",
+        "google_search_matched",
+        "洛杉矶｜又新开了家串串火锅店太新鲜好吃啦！",
+        -1
+      ],
+      "654ae7d8000000000f0297d4": [
+        "小不点串串香火锅",
+        true,
+        "终于在La找到有包间撸串串的火锅店了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "East Town Fried Chicken 大院炒鸡": {
+    "place_name": "East Town Fried Chicken 大院炒鸡",
+    "geometry": {
+      "location": {
+        "lat": 33.9872594,
+        "lng": -117.9030016
+      }
+    },
+    "rating": 4.2,
+    "reviews": 45,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "鸡脆骨$3.95",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Le Petit Paris": {
+    "place_name": "Le Petit Paris",
+    "geometry": {
+      "location": {
+        "lat": 34.0483433,
+        "lng": -118.248527
+      }
+    },
+    "rating": 4.3,
+    "reviews": 902,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "French restaurant",
+      "Bar",
+      "Event venue",
+      "Lounge",
+      "Modern French restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "dt新法餐",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shancheng Lameizi Hot Pot": {
+    "place_name": "Shancheng Lameizi Hot Pot",
+    "geometry": {
+      "location": {
+        "lat": 34.0808418,
+        "lng": -118.0903666
+      }
+    },
+    "rating": 4.2,
+    "reviews": 439,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Asian restaurant",
+      "Chinese restaurant",
+      "Fine dining restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "羊肩肉$9.95",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Phoenix Dessert": {
+    "place_name": "Phoenix Dessert",
+    "geometry": {
+      "location": {
+        "lat": 34.078994,
+        "lng": -118.09185919999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 40,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dessert shop",
+      "Restaurant"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "金丝榴莲酥",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La Hot Duck": {
+    "place_name": "La Hot Duck",
+    "geometry": {
+      "location": {
+        "lat": 33.9897561,
+        "lng": -117.90455759999999
+      }
+    },
+    "rating": 3.3,
+    "reviews": 69,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Mandarin restaurant",
+      "Asian restaurant",
+      "Takeout Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "鸭血$7.95",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Meat Togo": {
+    "place_name": "Meat Togo",
+    "geometry": {
+      "location": {
+        "lat": 34.1026283,
+        "lng": -118.10494039999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 9,
+    "note": [
+      "6496573c0000000014027804"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Meat products store",
+      "Butcher shop"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "6496573c0000000014027804": [
+        "小酥肉$7.95",
+        false,
+        "洛杉矶中餐火锅性价比💰天花板|吴铭火锅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2803 S Diamond Bar Blvd": {
+    "place_name": "2803 S Diamond Bar Blvd",
+    "geometry": {
+      "location": {
+        "lat": 33.975163,
+        "lng": -117.83816789999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "62df3068000000001b029d97"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62df3068000000001b029d97": [
+        "2803 S Diamond Bar Blvd, Diamond Bar, CA 91765",
+        true,
+        "这是我在洛杉矶见过最不像自助的自助火锅🍲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "99 Ranch Market": {
+    "place_name": "99 Ranch Market",
+    "geometry": {
+      "location": {
+        "lat": 34.0635125,
+        "lng": -118.13362289999999
+      }
+    },
+    "rating": 4,
+    "reviews": 1507,
+    "note": [
+      "62df3068000000001b029d97"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Asian grocery store",
+      "Grocery store",
+      "Supermarket"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62df3068000000001b029d97": [
+        "99/人",
+        false,
+        "这是我在洛杉矶见过最不像自助的自助火锅🍲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Xiang La Hui": {
+    "place_name": "Xiang La Hui",
+    "geometry": {
+      "location": {
+        "lat": 34.0921192,
+        "lng": -118.1336712
+      }
+    },
+    "rating": 4.2,
+    "reviews": 220,
+    "note": [
+      "64f2a2a0000000001e02b990"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sichuan restaurant",
+      "Chinese noodle restaurant",
+      "Chinese restaurant",
+      "Chinese takeaway",
+      "Dan Dan noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f2a2a0000000001e02b990": [
+        "LA香天下",
+        false,
+        "LA香天下丨$76和牛套餐丨品质太对得起价格",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Meat Lover BBQ and fried chicken kitchen (Greedy Cat 馋猫烤鱼)": {
+    "place_name": "Meat Lover BBQ and fried chicken kitchen (Greedy Cat 馋猫烤鱼)",
+    "geometry": {
+      "location": {
+        "lat": 33.9754809,
+        "lng": -117.34209999999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 64,
+    "note": [
+      "63b7b94e000000001c03758d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Barbecue restaurant",
+      "Chinese restaurant",
+      "Takeout Restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Sichuan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b7b94e000000001c03758d": [
+        "烤牛肉串",
+        false,
+        "来吧洛杉矶养生人儿们！一起打边炉🔥",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yi Kebab Bar": {
+    "place_name": "Yi Kebab Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.062329,
+        "lng": -118.11376369999999
+      }
+    },
+    "rating": 3.1,
+    "reviews": 84,
+    "note": [
+      "654ae7d8000000000f0297d4"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Kebab shop",
+      "Barbecue restaurant",
+      "Chinese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654ae7d8000000000f0297d4": [
+        "洛杉矶的吃串好去处！",
+        false,
+        "终于在La找到有包间撸串串的火锅店了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "DaLongYi Hot Pot 大龙燚火锅": {
+    "place_name": "DaLongYi Hot Pot 大龙燚火锅",
+    "geometry": {
+      "location": {
+        "lat": 34.0789603,
+        "lng": -118.10342469999999
+      }
+    },
+    "rating": 3.7,
+    "reviews": 86,
+    "note": [
+      "62e31baf000000000e028e30"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Chinese restaurant",
+      "Takeout Restaurant",
+      "Restaurant",
+      "Sichuan restaurant",
+      "Traditional restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62e31baf000000000e028e30": [
+        "大龙燚",
+        true,
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chengdu Laozao Hotpot": {
+    "place_name": "Chengdu Laozao Hotpot",
+    "geometry": {
+      "location": {
+        "lat": 33.6816722,
+        "lng": -117.80560779999999
+      }
+    },
+    "rating": 4,
+    "reviews": 153,
+    "note": [
+      "62e31baf000000000e028e30"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hot pot restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "62e31baf000000000e028e30": [
+        "老灶",
+        "google_search_matched",
+        "洛杉矶探店｜LA/OC火锅大测评",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "5728 Rosemead Blvd": {
+    "place_name": "5728 Rosemead Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.104614,
+        "lng": -118.07321879999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "650e2d9f000000001e02229a"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2d9f000000001e02229a": [
+        "5728 Rosemead Blvd, Temple City, CA 91780",
+        true,
+        "LA味喜屋🥩超值奶香日式和牛寿喜锅吃到爽！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

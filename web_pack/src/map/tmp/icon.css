@@ -1,0 +1,33 @@
+/* styles.css */
+.popup-panel {
+  background: linear-gradient(to right, #9ad9f8 0%, #0b8fe5 99%, #0b8fe5 100%);
+/*  border-radius: 10px;*/
+/*  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);*/
+/*  padding: 10px;*/
+/*  margin: 10px;*/
+}
+
+.popup-title {
+  font-family: 'Pacifico', cursive;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.popup-description {
+  padding: 10px;
+  margin: 10px;
+}
+
+.popup-rating {
+  padding: 10px;
+  margin: 10px;
+}
+
+.popup-rating i {
+  color: #0b8fe5;
+}
+
+.related-guide {
+  padding: 10px;
+  margin: 10px;
+}

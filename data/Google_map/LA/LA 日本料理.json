@@ -1,0 +1,4292 @@
+{
+  "Oji Sushi & Bar": {
+    "place_name": "Oji Sushi & Bar",
+    "geometry": {
+      "location": {
+        "lat": 33.641979,
+        "lng": -117.9184023
+      }
+    },
+    "rating": 4.1,
+    "reviews": 107,
+    "note": [
+      "63e588b50000000008025be1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e588b50000000008025be1": [
+        "Oji Sushi",
+        true,
+        "洛杉矶美食｜3家性价比超高平价日料精选",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "OOTORO LITTLE TOKYO": {
+    "place_name": "OOTORO LITTLE TOKYO",
+    "geometry": {
+      "location": {
+        "lat": 34.049037,
+        "lng": -118.242155
+      }
+    },
+    "rating": 4.7,
+    "reviews": 104,
+    "note": [
+      "650e2a22000000001f03492d",
+      "63e588b50000000008025be1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2a22000000001f03492d": [
+        "Ootoro",
+        "google_search_matched",
+        "来洛杉矶必吃日料店：Ootoro 必点菜单🥰",
+        -1
+      ],
+      "63e588b50000000008025be1": [
+        "Ootoro",
+        "google_search_matched",
+        "洛杉矶美食｜3家性价比超高平价日料精选",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Sushi Gen": {
+    "place_name": "Sushi Gen",
+    "geometry": {
+      "location": {
+        "lat": 34.0467107,
+        "lng": -118.23861699999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1370,
+    "note": [
+      "653ef950000000002202c037",
+      "63b5f9df000000001b02450a",
+      "63e588b50000000008025be1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653ef950000000002202c037": [
+        "洛杉矶日料美食omakase",
+        "google_search_matched",
+        "🍣和LA最难约的男人第六次“约会”🤭",
+        -1
+      ],
+      "63e588b50000000008025be1": [
+        "Sushi Gen🍣",
+        true,
+        "洛杉矶美食｜3家性价比超高平价日料精选",
+        -1
+      ],
+      "63b5f9df000000001b02450a": [
+        "Sushi Gen",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "OoToro Sushi Japanese Restaurant": {
+    "place_name": "OoToro Sushi Japanese Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 33.9883417,
+        "lng": -117.8705583
+      }
+    },
+    "rating": 4.5,
+    "reviews": 381,
+    "note": [
+      "63e588b50000000008025be1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e588b50000000008025be1": [
+        "Ootoro🍣",
+        true,
+        "洛杉矶美食｜3家性价比超高平价日料精选",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "IMA": {
+    "place_name": "IMA",
+    "geometry": {
+      "location": {
+        "lat": 34.069078399999995,
+        "lng": -118.40683999999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 38,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sukiyaki and Shabu Shabu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Ima (Beverly, $150-200, OpenTable)",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Echo Park": {
+    "place_name": "Echo Park",
+    "geometry": {
+      "location": {
+        "lat": 34.078159299999996,
+        "lng": -118.2605574
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Tsubaki（Echo Park, $80, Tock）: 居酒屋，没有一道踩雷，唯一停车不方便。推荐japanese latkes, 鸡 不发生又会如何",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Azay": {
+    "place_name": "Azay",
+    "geometry": {
+      "location": {
+        "lat": 34.0508303,
+        "lng": -118.24182479999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 219,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "French restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Azay (Little Tokyo, $30, walk-in)",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Izakaya Gazen": {
+    "place_name": "Izakaya Gazen",
+    "geometry": {
+      "location": {
+        "lat": 34.0490533,
+        "lng": -118.23941359999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 299,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Izakaya restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Izakaya Gazen (Little Tokyo, $60, phone or walk-in)",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Osawa": {
+    "place_name": "Osawa",
+    "geometry": {
+      "location": {
+        "lat": 34.1472699,
+        "lng": -118.1490738
+      }
+    },
+    "rating": 4.6,
+    "reviews": 760,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Osawa (Pasadena, $60, phone or walk-in)",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kinjiro": {
+    "place_name": "Kinjiro",
+    "geometry": {
+      "location": {
+        "lat": 34.047058199999995,
+        "lng": -118.23859119999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 117,
+    "note": [
+      "63dcb9210000000004004dfe",
+      "64fd50700000000020003db3",
+      "63b5f9df000000001b02450a",
+      "64bc98fc00000000100302cd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "snack",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Japanese steakhouse",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fd50700000000020003db3": [
+        "Kinjiro",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ],
+      "63b5f9df000000001b02450a": [
+        "Kinjiro",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ],
+      "64bc98fc00000000100302cd": [
+        "Kinjiro",
+        true,
+        "洛杉矶最好吃的日料",
+        -1
+      ],
+      "63dcb9210000000004004dfe": [
+        "Kinjiro (Little Tokyo, $100+, email info@kinjiro-la.com)",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Tsubaki": {
+    "place_name": "Tsubaki",
+    "geometry": {
+      "location": {
+        "lat": 34.0727806,
+        "lng": -118.251525
+      }
+    },
+    "rating": 4.5,
+    "reviews": 273,
+    "note": [
+      "63dcb9210000000004004dfe"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Authentic Japanese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63dcb9210000000004004dfe": [
+        "Tsubaki（Echo Park, $80, Tock）: 居酒屋，没有一道踩雷，唯一停车不方便。推荐japanese latkes, 鸡 是非常非常重要的",
+        true,
+        "洛杉矶最好吃的日料合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Miyabi Uni": {
+    "place_name": "Miyabi Uni",
+    "geometry": {
+      "location": {
+        "lat": 33.8358588,
+        "lng": -118.3150441
+      }
+    },
+    "rating": 4.6,
+    "reviews": 319,
+    "note": [
+      "653c7661000000001e03def0",
+      "6497971e0000000013016499",
+      "64ee7a61000000001e00f7e2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653c7661000000001e03def0": [
+        "Miyabi Uni",
+        true,
+        "LA探店🎏｜重度海胆爱好者一定要来打卡😋",
+        -1
+      ],
+      "64ee7a61000000001e00f7e2": [
+        "Miyabi Uni",
+        true,
+        "在洛杉矶实现海胆自由｜超惊喜海胆专门店🍣",
+        -1
+      ],
+      "6497971e0000000013016499": [
+        "Miyabi Uni | 海胆料理",
+        true,
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Kagura Torrance": {
+    "place_name": "Kagura Torrance",
+    "geometry": {
+      "location": {
+        "lat": 33.8315507,
+        "lng": -118.31419269999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 487,
+    "note": [
+      "6497971e0000000013016499"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Tonkatsu restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6497971e0000000013016499": [
+        "Kagura | LA爆浆猪排",
+        "google_search_matched",
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chinchikurin": {
+    "place_name": "Chinchikurin",
+    "geometry": {
+      "location": {
+        "lat": 34.0390205,
+        "lng": -118.44241459999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 490,
+    "note": [
+      "6497971e0000000013016499",
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Okonomiyaki restaurant",
+      "Japanese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Chinchikurin",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ],
+      "6497971e0000000013016499": [
+        "Chinchikurin | 大阪烧",
+        true,
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Izakaya Hachi": {
+    "place_name": "Izakaya Hachi",
+    "geometry": {
+      "location": {
+        "lat": 33.831120399999996,
+        "lng": -118.31380209999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 397,
+    "note": [
+      "64fd50700000000020003db3",
+      "6497971e0000000013016499"
+    ],
+    "types": [
+      "restaurant",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Izakaya-restaurant",
+      "Japans restaurant",
+      "Restaurant met Japanse zoetigheden",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fd50700000000020003db3": [
+        "Izakaya Hachi",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ],
+      "6497971e0000000013016499": [
+        "Izakaya Hachi | 牛舌",
+        true,
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Hokkaido Ramen Santouka": {
+    "place_name": "Hokkaido Ramen Santouka",
+    "geometry": {
+      "location": {
+        "lat": 34.005084499999995,
+        "lng": -118.4333054
+      }
+    },
+    "rating": 4.5,
+    "reviews": 490,
+    "note": [
+      "6497971e0000000013016499"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6497971e0000000013016499": [
+        "Santouka山头火拉面",
+        "google_search_matched",
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hisaya Kyoto Chestnuts": {
+    "place_name": "Hisaya Kyoto Chestnuts",
+    "geometry": {
+      "location": {
+        "lat": 33.8322029,
+        "lng": -118.3106918
+      }
+    },
+    "rating": 4.3,
+    "reviews": 118,
+    "note": [
+      "6497971e0000000013016499"
+    ],
+    "types": [
+      [
+        "tea"
+      ],
+      "Snack bar"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6497971e0000000013016499": [
+        "Hisaya | 日式京都烤栗子",
+        "google_search_matched",
+        "Torrance｜洛杉矶日料之城！必须打卡六家店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yorba Linda Public Library": {
+    "place_name": "Yorba Linda Public Library",
+    "geometry": {
+      "location": {
+        "lat": 33.8908385,
+        "lng": -117.81111639999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 189,
+    "note": [
+      "64ea3ea4000000000301f90e"
+    ],
+    "types": [
+      "Openbare bibliotheek"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ea3ea4000000000301f90e": [
+        "Yorba linda public library",
+        true,
+        "南加神仙omakase只要70刀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hama Sushi": {
+    "place_name": "Hama Sushi",
+    "geometry": {
+      "location": {
+        "lat": 34.0485791,
+        "lng": -118.2404234
+      }
+    },
+    "rating": 4.6,
+    "reviews": 585,
+    "note": [
+      "63b5f9df000000001b02450a",
+      "6466bd1c000000001203ece5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Hama Sushi",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ],
+      "6466bd1c000000001203ece5": [
+        "Hama Sushi",
+        true,
+        "便宜有好货！洛杉矶几家人均💲40以下日料店",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Kanpachi sushi and sake": {
+    "place_name": "Kanpachi sushi and sake",
+    "geometry": {
+      "location": {
+        "lat": 33.865002499999996,
+        "lng": -118.30889219999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 157,
+    "note": [
+      "6466bd1c000000001203ece5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6466bd1c000000001203ece5": [
+        "Kanpachi Sushi and Sake",
+        true,
+        "便宜有好货！洛杉矶几家人均💲40以下日料店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SUGARFISH by sushi nozawa": {
+    "place_name": "SUGARFISH by sushi nozawa",
+    "geometry": {
+      "location": {
+        "lat": 34.0473777,
+        "lng": -118.2570203
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1556,
+    "note": [
+      "6466bd1c000000001203ece5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Asian restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6466bd1c000000001203ece5": [
+        "Sugarfish by Sushi Nozawa",
+        true,
+        "便宜有好货！洛杉矶几家人均💲40以下日料店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ichijiku Sushi": {
+    "place_name": "Ichijiku Sushi",
+    "geometry": {
+      "location": {
+        "lat": 34.1095623,
+        "lng": -118.19337429999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 56,
+    "note": [
+      "6466bd1c000000001203ece5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6466bd1c000000001203ece5": [
+        "Ichijiku Sushi",
+        true,
+        "便宜有好货！洛杉矶几家人均💲40以下日料店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Tama": {
+    "place_name": "Sushi Tama",
+    "geometry": {
+      "location": {
+        "lat": 34.0759018,
+        "lng": -118.3835589
+      }
+    },
+    "rating": 4.5,
+    "reviews": 122,
+    "note": [
+      "6466bd1c000000001203ece5"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6466bd1c000000001203ece5": [
+        "Sushi Tama",
+        true,
+        "便宜有好货！洛杉矶几家人均💲40以下日料店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Opus Sushi": {
+    "place_name": "Opus Sushi",
+    "geometry": {
+      "location": {
+        "lat": 34.127865199999995,
+        "lng": -118.0553906
+      }
+    },
+    "rating": 4.4,
+    "reviews": 192,
+    "note": [
+      "63edc1e10000000012033eec"
+    ],
+    "types": [
+      "restaurant",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushirestaurant",
+      "Japans restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63edc1e10000000012033eec": [
+        "Opus Sushi $$ 1027 S Baldwin Ave, Arcadia, CA 91007",
+        true,
+        "LA直接封神的5家日料‼️不同价位💰快冲‼️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamakase": {
+    "place_name": "Yamakase",
+    "geometry": {
+      "location": {
+        "lat": 34.0421499,
+        "lng": -118.4608853
+      }
+    },
+    "rating": 4.5,
+    "reviews": 38,
+    "note": [
+      "63edc1e10000000012033eec"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japans restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63edc1e10000000012033eec": [
+        "Yamakase $$$$ 11901 Santa Monica Blvd, Los Angeles, CA 90025",
+        true,
+        "LA直接封神的5家日料‼️不同价位💰快冲‼️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kaijin sushi": {
+    "place_name": "Kaijin sushi",
+    "geometry": {
+      "location": {
+        "lat": 34.0764622,
+        "lng": -118.3606317
+      }
+    },
+    "rating": 4.7,
+    "reviews": 88,
+    "note": [
+      "64d08031000000001201f375"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d08031000000001201f375": [
+        "Kaisen Kaiten",
+        false,
+        "洛杉矶LA附近 高性价比回转寿司",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "MAMA M SUSHI": {
+    "place_name": "MAMA M SUSHI",
+    "geometry": {
+      "location": {
+        "lat": 34.1478107,
+        "lng": -118.1498034
+      }
+    },
+    "rating": 4.5,
+    "reviews": 234,
+    "note": [
+      "6505ee29000000001302c848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Lunch restaurant",
+      "Ramen restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6505ee29000000001302c848": [
+        "Mama M Sushi",
+        true,
+        "什么？😱这样的Sashimi套餐竟然只要27🔪",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "BURGERS 99": {
+    "place_name": "BURGERS 99",
+    "geometry": {
+      "location": {
+        "lat": 34.072587299999995,
+        "lng": -118.3443255
+      }
+    },
+    "rating": 4.3,
+    "reviews": 151,
+    "note": [
+      "6172df22000000000102a437"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hamburger restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6172df22000000000102a437": [
+        "99/B餐$35.99",
+        false,
+        "洛杉矶日料自助🍣性价比之王！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Aikan Sushi & Ramen": {
+    "place_name": "Aikan Sushi & Ramen",
+    "geometry": {
+      "location": {
+        "lat": 34.1447028,
+        "lng": -118.13536939999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 1191,
+    "note": [
+      "6172df22000000000102a437",
+      "651119270000000013037daa"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Asian restaurant",
+      "Ramen restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6172df22000000000102a437": [
+        "Aikan Sushi & Ramen 📍735 E Green St, Pasadena, CA 91101",
+        true,
+        "洛杉矶日料自助🍣性价比之王！",
+        -1
+      ],
+      "651119270000000013037daa": [
+        "Aikan Sushi & Ramen",
+        true,
+        "LA洛杉矶｜超性价比平价日料！寿司自由！AYCE！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Kang Kang Food Court": {
+    "place_name": "Kang Kang Food Court",
+    "geometry": {
+      "location": {
+        "lat": 34.0787893,
+        "lng": -118.1224855
+      }
+    },
+    "rating": 4,
+    "reviews": 772,
+    "note": [
+      "6172df22000000000102a437"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Dumpling restaurant",
+      "Chinese restaurant",
+      "Fast food restaurant",
+      "Food court"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6172df22000000000102a437": [
+        "LA吃货探店Q&A：",
+        false,
+        "洛杉矶日料自助🍣性价比之王！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shiki Seafood Buffet": {
+    "place_name": "Shiki Seafood Buffet",
+    "geometry": {
+      "location": {
+        "lat": 34.099830499999996,
+        "lng": -118.07485729999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 1333,
+    "note": [
+      "6172df22000000000102a437"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Buffet restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6172df22000000000102a437": [
+        "是自助餐吗？",
+        false,
+        "洛杉矶日料自助🍣性价比之王！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "18120 Brookhurst St": {
+    "place_name": "18120 Brookhurst St",
+    "geometry": {
+      "location": {
+        "lat": 33.7001567,
+        "lng": -117.9536732
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "634713830000000007021539"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "634713830000000007021539": [
+        "18120 Brookhurst St, Fountain Valley, California",
+        true,
+        "OC超高性价比日料小店😋人均$20的刺身饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Koto": {
+    "place_name": "Sushi Koto",
+    "geometry": {
+      "location": {
+        "lat": 33.700357499999996,
+        "lng": -117.95290279999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 365,
+    "note": [
+      "634713830000000007021539"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Asian restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "634713830000000007021539": [
+        "Sushi Koto",
+        true,
+        "OC超高性价比日料小店😋人均$20的刺身饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Koreatown": {
+    "place_name": "Koreatown",
+    "geometry": {
+      "location": {
+        "lat": 34.0597117,
+        "lng": -118.30089179999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65161f63000000002101df36"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65161f63000000002101df36": [
+        "韩国城",
+        "google_search_matched",
+        "洛杉矶｜寿司日料自助🍣人均50扶墙出",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "n/naka": {
+    "place_name": "n/naka",
+    "geometry": {
+      "location": {
+        "lat": 34.0251279,
+        "lng": -118.41220159999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 451,
+    "note": [
+      "64a359500000000015033918"
+    ],
+    "types": [
+      "restaurant",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Kaiseki-restaurant",
+      "Aziatisch restaurant",
+      "Japans restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a359500000000015033918": [
+        "n/naka",
+        true,
+        "洛杉矶downtown｜平价米其林一星怀石料理",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "809 S La Brea Ave": {
+    "place_name": "809 S La Brea Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0602127,
+        "lng": -118.3450876
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65179a51000000001d03a6bd"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65179a51000000001d03a6bd": [
+        "809 S La Brea Ave, Los Angeles, CA 90036",
+        true,
+        "洛杉矶🎎复古昭和年代日料居酒屋🏮",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sake House Miro": {
+    "place_name": "Sake House Miro",
+    "geometry": {
+      "location": {
+        "lat": 34.060206799999996,
+        "lng": -118.34506809999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 284,
+    "note": [
+      "65179a51000000001d03a6bd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Ramen restaurant",
+      "Restaurant",
+      "Sushi restaurant",
+      "Yakitori restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65179a51000000001d03a6bd": [
+        "Sake House Miro",
+        true,
+        "洛杉矶🎎复古昭和年代日料居酒屋🏮",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Crab House": {
+    "place_name": "Crab House",
+    "geometry": {
+      "location": {
+        "lat": 34.055083599999996,
+        "lng": -118.29192259999999
+      }
+    },
+    "rating": 4,
+    "reviews": 453,
+    "note": [
+      "650e2a22000000001f03492d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Crab house",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2a22000000001f03492d": [
+        "海胆",
+        false,
+        "来洛杉矶必吃日料店：Ootoro 必点菜单🥰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Newport Seafood Restaurant": {
+    "place_name": "Newport Seafood Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.1021765,
+        "lng": -118.10684309999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1970,
+    "note": [
+      "650e2a22000000001f03492d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese restaurant",
+      "Family restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2a22000000001f03492d": [
+        "Lobster fried rice",
+        false,
+        "来洛杉矶必吃日料店：Ootoro 必点菜单🥰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wagyu House by The X Pot": {
+    "place_name": "Wagyu House by The X Pot",
+    "geometry": {
+      "location": {
+        "lat": 33.994952399999995,
+        "lng": -117.89986309999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 431,
+    "note": [
+      "650e2a22000000001f03492d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Bar",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2a22000000001f03492d": [
+        "Miyazaki wagyu 炒饭",
+        "google_search_matched",
+        "来洛杉矶必吃日料店：Ootoro 必点菜单🥰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "HERE FISHY FISHY": {
+    "place_name": "HERE FISHY FISHY",
+    "geometry": {
+      "location": {
+        "lat": 34.0620647,
+        "lng": -118.30868369999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 191,
+    "note": [
+      "64f11e290000000020000f5a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f11e290000000020000f5a": [
+        "Here Fishy Fishy, Los Angeles, CA",
+        true,
+        "终于找到LA最好吃的AYCE寿司",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hello Fish Sushi & Izakaya": {
+    "place_name": "Hello Fish Sushi & Izakaya",
+    "geometry": {
+      "location": {
+        "lat": 34.066666999999995,
+        "lng": -118.30886579999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 195,
+    "note": [
+      "64f11e290000000020000f5a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Izakaya restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f11e290000000020000f5a": [
+        "Here Fishy Fishy",
+        "google_search_matched",
+        "终于找到LA最好吃的AYCE寿司",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "IKI RAMEN": {
+    "place_name": "IKI RAMEN",
+    "geometry": {
+      "location": {
+        "lat": 34.0583952,
+        "lng": -118.30878729999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 372,
+    "note": [
+      "642780140000000027029a37"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Ramen restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642780140000000027029a37": [
+        "IKI RAMEN: 740 S Western Ave , Los Angeles, CA 90005",
+        true,
+        "拜托所有人在洛杉矶都来吃这家日料好吗❗️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Robata JINYA - 3rd St.": {
+    "place_name": "Robata JINYA - 3rd St.",
+    "geometry": {
+      "location": {
+        "lat": 34.071899099999996,
+        "lng": -118.3655948
+      }
+    },
+    "rating": 4.5,
+    "reviews": 486,
+    "note": [
+      "64fd50700000000020003db3"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Asian restaurant",
+      "Japanese restaurant",
+      "Ramen restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fd50700000000020003db3": [
+        "Robata JINYA - 3rd St.",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Red Rock-Torrance／レッドロック トーランス": {
+    "place_name": "Red Rock-Torrance／レッドロック トーランス",
+    "geometry": {
+      "location": {
+        "lat": 33.8662917,
+        "lng": -118.317375
+      }
+    },
+    "rating": 4.6,
+    "reviews": 429,
+    "note": [
+      "64fd50700000000020003db3",
+      "654a9593000000001e03d616"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "snack",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanized western restaurant",
+      "Meat dish restaurant",
+      "Steak house",
+      "Western restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654a9593000000001e03d616": [
+        "Red Rock Torrance",
+        true,
+        "洛杉矶｜Red Rock生牛肉盖饭 & 蛋包饭",
+        -1
+      ],
+      "64fd50700000000020003db3": [
+        "Red Rock-Torrance",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "n/soto": {
+    "place_name": "n/soto",
+    "geometry": {
+      "location": {
+        "lat": 34.0396031,
+        "lng": -118.33952359999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 120,
+    "note": [
+      "64fd50700000000020003db3"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fd50700000000020003db3": [
+        "n/soto",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Gyutan Tsukasa U.S.A": {
+    "place_name": "Gyutan Tsukasa U.S.A",
+    "geometry": {
+      "location": {
+        "lat": 33.6813462,
+        "lng": -117.88432329999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 230,
+    "note": [
+      "64fd50700000000020003db3"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Tongue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fd50700000000020003db3": [
+        "Gyutan Tsukasa U.S.A",
+        true,
+        "🍱 - 今天吃牛舌 - 洛杉矶🏮日式牛舌去哪吃",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2903 Sunset Blvd": {
+    "place_name": "2903 Sunset Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0833298,
+        "lng": -118.27327179999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63bba9b5000000001e03dfb9",
+      "64164ab7000000001300d773"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63bba9b5000000001e03dfb9": [
+        "2903 Sunset Blvd, Los Angeles, CA 90026",
+        true,
+        "洛杉矶日料店，这家必须榜上有名！",
+        -1
+      ],
+      "64164ab7000000001300d773": [
+        "2903 Sunset Blvd, Los Angeles, CA 90026",
+        true,
+        "LA✨超火居酒屋🤔Izakaya Osen",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Izakaya Osen": {
+    "place_name": "Izakaya Osen",
+    "geometry": {
+      "location": {
+        "lat": 34.083304999999996,
+        "lng": -118.27321549999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 773,
+    "note": [
+      "63e712b800000000130344e1",
+      "63bba9b5000000001e03dfb9"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Izakaya restaurant",
+      "Restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e712b800000000130344e1": [
+        "Osen 5. 2903 Sunset Blvd, Los Angeles, CA 90026",
+        "google_search_matched",
+        "LA探店记｜Izakaya Osen",
+        -1
+      ],
+      "63bba9b5000000001e03dfb9": [
+        "Izakaya osen",
+        true,
+        "洛杉矶日料店，这家必须榜上有名！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "1231 Cabrillo Ave #101": {
+    "place_name": "1231 Cabrillo Ave #101",
+    "geometry": {
+      "location": {
+        "lat": 33.8358588,
+        "lng": -118.3150441
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "653c7661000000001e03def0",
+      "64ee7a61000000001e00f7e2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653c7661000000001e03def0": [
+        "1231 Cabrillo Ave, Ste 101, Torrance, CA 90501",
+        true,
+        "LA探店🎏｜重度海胆爱好者一定要来打卡😋",
+        -1
+      ],
+      "64ee7a61000000001e00f7e2": [
+        "1231 Cabrillo Ave, Ste 101, Torrance, CA 90501",
+        true,
+        "在洛杉矶实现海胆自由｜超惊喜海胆专门店🍣",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Mikiya Wagyu Shabu House": {
+    "place_name": "Mikiya Wagyu Shabu House",
+    "geometry": {
+      "location": {
+        "lat": 34.1047368,
+        "lng": -118.07334329999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 132,
+    "note": [
+      "650e2d9f000000001e02229a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2d9f000000001e02229a": [
+        "Mikiya Wagyu Shabu House",
+        true,
+        "LA味喜屋🥩超值奶香日式和牛寿喜锅吃到爽！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "5728 Rosemead Blvd": {
+    "place_name": "5728 Rosemead Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.104614,
+        "lng": -118.07321879999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "650e2d9f000000001e02229a"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "650e2d9f000000001e02229a": [
+        "5728 Rosemead Blvd, Temple City, CA 91780",
+        true,
+        "LA味喜屋🥩超值奶香日式和牛寿喜锅吃到爽！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamashiro Hollywood": {
+    "place_name": "Yamashiro Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1057604,
+        "lng": -118.3420926
+      }
+    },
+    "rating": 4.3,
+    "reviews": 4050,
+    "note": [
+      "63ea6d70000000001301541a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Bar",
+      "Californian restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Sushi restaurant",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63ea6d70000000001301541a": [
+        "山城餐厅",
+        "google_search_matched",
+        "洛杉矶山城Yamashiro探店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ishi Sushi": {
+    "place_name": "Ishi Sushi",
+    "geometry": {
+      "location": {
+        "lat": 33.9928662,
+        "lng": -117.89117809999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 123,
+    "note": [
+      "655ac1c90000000033008e2c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Authentic Japanese restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655ac1c90000000033008e2c": [
+        "ishi",
+        false,
+        "LA罗兰岗|ishi|海胆自由的一天！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Takeda": {
+    "place_name": "Sushi Takeda",
+    "geometry": {
+      "location": {
+        "lat": 34.0503074,
+        "lng": -118.2424513
+      }
+    },
+    "rating": 4.5,
+    "reviews": 146,
+    "note": [
+      "6515d48d000000001e02a02a",
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "sushi takeda",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ],
+      "6515d48d000000001e02a02a": [
+        "Sushi Takeda 5. 123 Astronaut Ellison S. Onizuka St. Ste.307, Los Angeles, 90012, USA",
+        true,
+        "LA最被低估的寿司🍣师傅把鱿鱼切出惊涛骇浪",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Torigoya": {
+    "place_name": "Torigoya",
+    "geometry": {
+      "location": {
+        "lat": 34.0500195,
+        "lng": -118.2423795
+      }
+    },
+    "rating": 4,
+    "reviews": 121,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Authentic Japanese restaurant",
+      "Chicken restaurant",
+      "Japanese restaurant",
+      "Yakitori restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Torigoya",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "JiST cafe": {
+    "place_name": "JiST cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.0507731,
+        "lng": -118.24037729999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 516,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Cafe"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Jist Cafe",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fugetsu-Do Bakery Shop": {
+    "place_name": "Fugetsu-Do Bakery Shop",
+    "geometry": {
+      "location": {
+        "lat": 34.0502779,
+        "lng": -118.2403425
+      }
+    },
+    "rating": 4.8,
+    "reviews": 637,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Bakery"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Fugetsu",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Cafe Dulce": {
+    "place_name": "Cafe Dulce",
+    "geometry": {
+      "location": {
+        "lat": 34.0488479,
+        "lng": -118.2404543
+      }
+    },
+    "rating": 4.6,
+    "reviews": 828,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Cafe",
+      "Donut shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Cafe Dulce",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tsujita LA Artisan Noodles": {
+    "place_name": "Tsujita LA Artisan Noodles",
+    "geometry": {
+      "location": {
+        "lat": 34.03957,
+        "lng": -118.44267669999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2505,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Tsujita",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shabuya Los Angeles": {
+    "place_name": "Shabuya Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0513072,
+        "lng": -118.27820639999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1407,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shabu-shabu restaurant",
+      "Buffet restaurant",
+      "Hot pot restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Shabu",
+        false,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SOMISOMI": {
+    "place_name": "SOMISOMI",
+    "geometry": {
+      "location": {
+        "lat": 34.0629323,
+        "lng": -118.3099732
+      }
+    },
+    "rating": 4.6,
+    "reviews": 665,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Dessert shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Somi Somi",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamazaki Bakery": {
+    "place_name": "Yamazaki Bakery",
+    "geometry": {
+      "location": {
+        "lat": 34.0489332,
+        "lng": -118.2401816
+      }
+    },
+    "rating": 4.6,
+    "reviews": 339,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Bakery"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Yamazaki Bakery",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tanota Takoyaki": {
+    "place_name": "Tanota Takoyaki",
+    "geometry": {
+      "location": {
+        "lat": 34.0494237,
+        "lng": -118.23977649999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 221,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Takoyaki restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Tanota Takoyaki",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Marugame Monzo": {
+    "place_name": "Marugame Monzo",
+    "geometry": {
+      "location": {
+        "lat": 34.0499426,
+        "lng": -118.240048
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1308,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Restaurant",
+      "Udon noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Marugame Monzo",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tea Master Matcha Cafe and Green Tea Shop": {
+    "place_name": "Tea Master Matcha Cafe and Green Tea Shop",
+    "geometry": {
+      "location": {
+        "lat": 34.0470815,
+        "lng": -118.2386049
+      }
+    },
+    "rating": 4.8,
+    "reviews": 491,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      "snack",
+      "snack",
+      "store",
+      [
+        "store"
+      ],
+      "Tea house",
+      "Ice cream shop",
+      "Tea store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Tea Master Matcha Cafe and Green Tea Shop",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Okayama Kobo Bakery & Cafe": {
+    "place_name": "Okayama Kobo Bakery & Cafe",
+    "geometry": {
+      "location": {
+        "lat": 33.834214599999996,
+        "lng": -117.9148278
+      }
+    },
+    "rating": 4.7,
+    "reviews": 603,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Cafe"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Okayama Kobo Bakery",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Little Tokyo": {
+    "place_name": "Little Tokyo",
+    "geometry": {
+      "location": {
+        "lat": 34.0523392,
+        "lng": -118.2395052
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Little Tokyo",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Honeymee Wilshire": {
+    "place_name": "Honeymee Wilshire",
+    "geometry": {
+      "location": {
+        "lat": 34.062277099999996,
+        "lng": -118.2975168
+      }
+    },
+    "rating": 4.3,
+    "reviews": 335,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Ice cream shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Honey Mee",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "OOmasa": {
+    "place_name": "OOmasa",
+    "geometry": {
+      "location": {
+        "lat": 34.0492444,
+        "lng": -118.23955
+      }
+    },
+    "rating": 4.4,
+    "reviews": 633,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Oomasa",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ramen Maruya": {
+    "place_name": "Ramen Maruya",
+    "geometry": {
+      "location": {
+        "lat": 34.049116399999996,
+        "lng": -118.2397439
+      }
+    },
+    "rating": 4.4,
+    "reviews": 736,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Ramen Maruya",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Daikokuya Little Tokyo": {
+    "place_name": "Daikokuya Little Tokyo",
+    "geometry": {
+      "location": {
+        "lat": 34.050002299999996,
+        "lng": -118.24005749999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 3834,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant",
+      "Asian restaurant",
+      "Japanese restaurant",
+      "Lunch restaurant",
+      "Restaurant",
+      "Rice restaurant",
+      "Soup restaurant",
+      "Sushi restaurant",
+      "Tempura restaurant",
+      "Vegan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Daikokuya大黑家",
+        "google_search_matched",
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "RAKKAN Ramen DTLA": {
+    "place_name": "RAKKAN Ramen DTLA",
+    "geometry": {
+      "location": {
+        "lat": 34.0495729,
+        "lng": -118.23942989999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 808,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Rakkan Ramen",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mitsuru Cafe": {
+    "place_name": "Mitsuru Cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.048989299999995,
+        "lng": -118.24007449999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 109,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Mitsuru Cafe",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Men Oh Tokushima Ramen": {
+    "place_name": "Men Oh Tokushima Ramen",
+    "geometry": {
+      "location": {
+        "lat": 34.047017499999995,
+        "lng": -118.2385061
+      }
+    },
+    "rating": 4.5,
+    "reviews": 573,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Men Oh Tokushi",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Millet Crepe": {
+    "place_name": "Millet Crepe",
+    "geometry": {
+      "location": {
+        "lat": 34.0404914,
+        "lng": -118.44358249999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1210,
+    "note": [
+      "63b5f9df000000001b02450a"
+    ],
+    "types": [
+      "Creperie",
+      "Chocolate shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b5f9df000000001b02450a": [
+        "Millet Crepe",
+        true,
+        "🍣洛杉矶小东京必吃美食合集！看这篇就够！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "F&Bar": {
+    "place_name": "F&Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.1178278,
+        "lng": -118.26043349999999
+      }
+    },
+    "rating": 5,
+    "reviews": 6,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "Bar"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "f &bar",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "kodo": {
+    "place_name": "kodo",
+    "geometry": {
+      "location": {
+        "lat": 34.0341404,
+        "lng": -118.22965389999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 120,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Bistro",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "kodo",
+        "google_search_matched",
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tempura Endo": {
+    "place_name": "Tempura Endo",
+    "geometry": {
+      "location": {
+        "lat": 34.0675996,
+        "lng": -118.4090648
+      }
+    },
+    "rating": 4.5,
+    "reviews": 77,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Fine dining restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "tempura endo",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Ginza Onodera": {
+    "place_name": "Sushi Ginza Onodera",
+    "geometry": {
+      "location": {
+        "lat": 34.0823216,
+        "lng": -118.3767163
+      }
+    },
+    "rating": 4.7,
+    "reviews": 124,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "sushi ginza",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Enya Pasadena": {
+    "place_name": "Sushi Enya Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.1456489,
+        "lng": -118.1478899
+      }
+    },
+    "rating": 4.5,
+    "reviews": 438,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Asian restaurant",
+      "Japanese restaurant",
+      "Raw food restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "sushi enya",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Omakase by Osen": {
+    "place_name": "Omakase by Osen",
+    "geometry": {
+      "location": {
+        "lat": 34.089061,
+        "lng": -118.27637929999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 89,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "omakase by osen",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "KOGANE": {
+    "place_name": "KOGANE",
+    "geometry": {
+      "location": {
+        "lat": 34.0807856,
+        "lng": -118.1522316
+      }
+    },
+    "rating": 4.9,
+    "reviews": 42,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "kogane",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "715": {
+    "place_name": "715",
+    "geometry": {
+      "location": {
+        "lat": 34.0454637,
+        "lng": -118.2367476
+      }
+    },
+    "rating": 4.9,
+    "reviews": 24,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "715 sushi",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "GOZEN -Japanese Sake Bistro-": {
+    "place_name": "GOZEN -Japanese Sake Bistro-",
+    "geometry": {
+      "location": {
+        "lat": 34.0807875,
+        "lng": -118.3768968
+      }
+    },
+    "rating": 4.4,
+    "reviews": 48,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "gozen",
+        false,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Yuen": {
+    "place_name": "Sushi Yuen",
+    "geometry": {
+      "location": {
+        "lat": 33.9952877,
+        "lng": -117.89988969999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 135,
+    "note": [
+      "655a6cb0000000003203bd64"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655a6cb0000000003203bd64": [
+        "sushi yuen",
+        true,
+        "近日洛杉矶日料omakase分享",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "314 1st St": {
+    "place_name": "314 1st St",
+    "geometry": {
+      "location": {
+        "lat": 34.050086799999995,
+        "lng": -118.24070549999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6533a8110000000023039ba4"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6533a8110000000023039ba4": [
+        "314 1st St, Los Angeles, CA 90012",
+        true,
+        "LA ｜130吃到撑的怀石料理新店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1757 W Carson St a": {
+    "place_name": "1757 W Carson St a",
+    "geometry": {
+      "location": {
+        "lat": 33.8324691,
+        "lng": -118.3108256
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "653f124d000000001f004518"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653f124d000000001f004518": [
+        "LA特种兵 5. 1757 W Carson St Ste A, Torrance, CA 90501",
+        true,
+        "这家烧鸟店在洛杉矶真的有对手吗🙊",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "921 S Baldwin Ave #B": {
+    "place_name": "921 S Baldwin Ave #B",
+    "geometry": {
+      "location": {
+        "lat": 34.1293676,
+        "lng": -118.0549327
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "654fb317000000000f024269"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654fb317000000000f024269": [
+        "921 S Baldwin Ave #B, Arcadia, CA 91007",
+        true,
+        "[LA美食探店]Arcadia小众宝藏日料Kiyosuzu",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kiyosuzu": {
+    "place_name": "Kiyosuzu",
+    "geometry": {
+      "location": {
+        "lat": 34.1293676,
+        "lng": -118.0549327
+      }
+    },
+    "rating": 4.4,
+    "reviews": 133,
+    "note": [
+      "654fb317000000000f024269"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654fb317000000000f024269": [
+        "Kiyosuzu",
+        true,
+        "[LA美食探店]Arcadia小众宝藏日料Kiyosuzu",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2141 W 182nd St": {
+    "place_name": "2141 W 182nd St",
+    "geometry": {
+      "location": {
+        "lat": 33.866221599999996,
+        "lng": -118.31669749999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "654a9593000000001e03d616"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654a9593000000001e03d616": [
+        "2141 W 182nd St Torrance, CA 90504",
+        true,
+        "洛杉矶｜Red Rock生牛肉盖饭 & 蛋包饭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamamoto Fish Co": {
+    "place_name": "Yamamoto Fish Co",
+    "geometry": {
+      "location": {
+        "lat": 34.0419128,
+        "lng": -118.2415357
+      }
+    },
+    "rating": 4.9,
+    "reviews": 7,
+    "note": [
+      "656bf4f2000000000801d8b6"
+    ],
+    "types": [
+      "Seafood market"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656bf4f2000000000801d8b6": [
+        "Yamamoto",
+        true,
+        "LA比弗利|Yamamoto|新晋大上分Omakase",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "HATCH": {
+    "place_name": "HATCH",
+    "geometry": {
+      "location": {
+        "lat": 34.0478083,
+        "lng": -118.25870739999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 413,
+    "note": [
+      "6525d87a000000001e00c451"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Bar",
+      "Izakaya restaurant",
+      "Modern izakaya restaurant",
+      "Tapas bar",
+      "Tapas restaurant",
+      "Yakitori restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6525d87a000000001e00c451": [
+        "HATCH",
+        true,
+        "洛杉矶｜dineLA打卡现代日式烧鸟Hatch🍢🍡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "700 W 7th St Suite G600": {
+    "place_name": "700 W 7th St Suite G600",
+    "geometry": {
+      "location": {
+        "lat": 34.048075,
+        "lng": -118.2581414
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6525d87a000000001e00c451"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6525d87a000000001e00c451": [
+        "700 W 7th St Ste G600 Los Angeles, CA 90017",
+        true,
+        "洛杉矶｜dineLA打卡现代日式烧鸟Hatch🍢🍡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Makomae Japanese Cuisine": {
+    "place_name": "Makomae Japanese Cuisine",
+    "geometry": {
+      "location": {
+        "lat": 34.0343801,
+        "lng": -117.805854
+      }
+    },
+    "rating": 4.7,
+    "reviews": 336,
+    "note": [
+      "65541ee4000000003202a6d1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Japanese restaurant",
+      "Restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65541ee4000000003202a6d1": [
+        "Makomae Japanese Cuisine 5. 868 N Diamond Bar Blvd, Diamond Bar, CA 91765",
+        true,
+        "🎏LA探店｜洛杉矶东区超高性价比日料小店",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pasta e Pasta by Allegro": {
+    "place_name": "Pasta e Pasta by Allegro",
+    "geometry": {
+      "location": {
+        "lat": 34.0465641,
+        "lng": -118.2384367
+      }
+    },
+    "rating": 4.5,
+    "reviews": 417,
+    "note": [
+      "6545a795000000002202f7dd"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Italian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6545a795000000002202f7dd": [
+        "Pasta e Pasta by Allegro 5. 432 E 2nd St, Los Angeles, CA 90012",
+        true,
+        "洛杉矶LA｜一家想尝遍菜单的日式意大利餐厅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kami Buffet & Grill": {
+    "place_name": "Kami Buffet & Grill",
+    "geometry": {
+      "location": {
+        "lat": 34.0399945,
+        "lng": -118.08175469999999
+      }
+    },
+    "rating": 3.9,
+    "reviews": 2746,
+    "note": [
+      "65713a080000000016005671"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian fusion restaurant",
+      "Buffet restaurant",
+      "Chinese restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65713a080000000016005671": [
+        "任吃壽司",
+        false,
+        "洛杉磯｜什麼❗️任吃❓生蠔🦪甜蝦🦐海膽",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sushi Ippo": {
+    "place_name": "Sushi Ippo",
+    "geometry": {
+      "location": {
+        "lat": 34.0615066,
+        "lng": -118.3095209
+      }
+    },
+    "rating": 4.1,
+    "reviews": 1166,
+    "note": [
+      "65713a080000000016005671"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65713a080000000016005671": [
+        "Sushi Ippo",
+        true,
+        "洛杉磯｜什麼❗️任吃❓生蠔🦪甜蝦🦐海膽",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Izakaya Tora": {
+    "place_name": "Izakaya Tora",
+    "geometry": {
+      "location": {
+        "lat": 34.084472999999996,
+        "lng": -118.38426249999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 211,
+    "note": [
+      "64e115d7000000000103f78a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sushi restaurant",
+      "Izakaya restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e115d7000000000103f78a": [
+        "Izakaya Tora",
+        true,
+        "洛杉矶｜居酒屋 izakaya tora",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8908 Santa Monica Blvd": {
+    "place_name": "8908 Santa Monica Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.084472999999996,
+        "lng": -118.38426249999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64e115d7000000000103f78a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64e115d7000000000103f78a": [
+        "8908 Santa Monica Blvd, West Hollywood, 90069",
+        true,
+        "洛杉矶｜居酒屋 izakaya tora",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "735 E Green St": {
+    "place_name": "735 E Green St",
+    "geometry": {
+      "location": {
+        "lat": 34.1447827,
+        "lng": -118.1354463
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "651119270000000013037daa"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651119270000000013037daa": [
+        "735 E Green St, Pasadena",
+        true,
+        "LA洛杉矶｜超性价比平价日料！寿司自由！AYCE！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chubby Cattle Monterey Park": {
+    "place_name": "Chubby Cattle Monterey Park",
+    "geometry": {
+      "location": {
+        "lat": 34.0626506,
+        "lng": -118.12975349999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 390,
+    "note": [
+      "64dfe6ed000000000800f0e2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Barbecue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64dfe6ed000000000800f0e2": [
+        "Chubby Cattle Monterey Park",
+        true,
+        "LA｜AYCE｜和牛吃腻了体验一次海鲜吃到撑🦪🦞",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Choeng Wun BBQ Buffet Restaurant": {
+    "place_name": "Choeng Wun BBQ Buffet Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 34.0875464,
+        "lng": -118.30872199999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 518,
+    "note": [
+      "64dfe6ed000000000800f0e2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Korean barbecue restaurant",
+      "Barbecue restaurant",
+      "Buffet restaurant",
+      "Chicken wings restaurant",
+      "Korean beef restaurant",
+      "Korean restaurant",
+      "Restaurant",
+      "Soup restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64dfe6ed000000000800f0e2": [
+        "All you can eat烤肉店",
+        false,
+        "LA｜AYCE｜和牛吃腻了体验一次海鲜吃到撑🦪🦞",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Manpuku Japanese BBQ Torrance": {
+    "place_name": "Manpuku Japanese BBQ Torrance",
+    "geometry": {
+      "location": {
+        "lat": 33.831066,
+        "lng": -118.313597
+      }
+    },
+    "rating": 4.5,
+    "reviews": 240,
+    "note": [
+      "6517bbc9000000001f005b33"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Yakiniku restaurant",
+      "Barbecue restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6517bbc9000000001f005b33": [
+        "Manpuku Japanese BBQ Dining 9. 1870 W Carson St Torrance, CA 90501",
+        "google_search_matched",
+        "洛杉矶｜Torrance的日式烤肉我都爱😆😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamaya Japanese Wagyu & Grill": {
+    "place_name": "Yamaya Japanese Wagyu & Grill",
+    "geometry": {
+      "location": {
+        "lat": 33.790594299999995,
+        "lng": -118.3285518
+      }
+    },
+    "rating": 4.6,
+    "reviews": 125,
+    "note": [
+      "6517bbc9000000001f005b33"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Yakiniku restaurant",
+      "Barbecue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6517bbc9000000001f005b33": [
+        "Yamaya Japanese Wagyu & Grill 7. 2529 Pacific Coast Hwy Torrance, CA 90505",
+        true,
+        "洛杉矶｜Torrance的日式烤肉我都爱😆😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Manpuku Japanese BBQ West Hollywood": {
+    "place_name": "Manpuku Japanese BBQ West Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.073116299999995,
+        "lng": -118.3759817
+      }
+    },
+    "rating": 4.6,
+    "reviews": 165,
+    "note": [
+      "649243be000000001300be0a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Yakiniku restaurant",
+      "Barbecue restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649243be000000001300be0a": [
+        "Manpuku",
+        true,
+        "洛杉矶｜我刷过最多次的烤肉🥩 香迷糊了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Irvine": {
+    "place_name": "Irvine",
+    "geometry": {
+      "location": {
+        "lat": 33.6845673,
+        "lng": -117.82650489999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "649243be000000001300be0a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649243be000000001300be0a": [
+        "irvine",
+        true,
+        "洛杉矶｜我刷过最多次的烤肉🥩 香迷糊了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "West Hollywood": {
+    "place_name": "West Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.090009099999996,
+        "lng": -118.3617443
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "649243be000000001300be0a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "649243be000000001300be0a": [
+        "west hollywood",
+        true,
+        "洛杉矶｜我刷过最多次的烤肉🥩 香迷糊了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Palms Ramen Yumeya": {
+    "place_name": "Palms Ramen Yumeya",
+    "geometry": {
+      "location": {
+        "lat": 34.019729399999996,
+        "lng": -118.42167269999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 393,
+    "note": [
+      "653ef950000000002202c037"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Ramen restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653ef950000000002202c037": [
+        "梦屋yumeya",
+        false,
+        "🍣和LA最难约的男人第六次“约会”🤭",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hakata Izakaya HERO": {
+    "place_name": "Hakata Izakaya HERO",
+    "geometry": {
+      "location": {
+        "lat": 34.0475869,
+        "lng": -118.43516299999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 101,
+    "note": [
+      "65443039000000000403bf07"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Izakaya restaurant",
+      "Japanese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65443039000000000403bf07": [
+        "Hakata Izakaya Hero",
+        true,
+        "洛杉矶｜寻找地道日料—West LA居酒屋",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

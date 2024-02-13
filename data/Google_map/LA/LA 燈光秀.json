@@ -1,0 +1,1678 @@
+{
+  "The Mission Inn Hotel & Spa": {
+    "place_name": "The Mission Inn Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.9833724,
+        "lng": -117.373307
+      }
+    },
+    "rating": 4.5,
+    "reviews": 9757,
+    "note": [
+      "65456931000000001e03d062"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Business to business service",
+      "Spa",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65456931000000001e03d062": [
+        "The Mission Inn Hotel",
+        true,
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ],
+      "63afbc35000000001f000d25": [
+        "节日灯光秀 The mission Inn Festival of Lights",
+        true,
+        "洛杉矶Riverside 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "South Coast Botanic Garden": {
+    "place_name": "South Coast Botanic Garden",
+    "geometry": {
+      "location": {
+        "lat": 33.7832241,
+        "lng": -118.3489436
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1922,
+    "note": [
+      "63d0dce3000000001e03e60a",
+      "65456931000000001e03d062",
+      "63a150b10000000018013d8e",
+      "63e9c4820000000013004487",
+      "65502383000000001701da18",
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Picnic ground",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63d0dce3000000001e03e60a": [
+        "Palos Verdes' South Coast Botanical Garden",
+        true,
+        "LA 周边灯光秀Astra Lumina 攻略",
+        -1
+      ],
+      "63a150b10000000018013d8e": [
+        "South Coast Botanical Garden",
+        true,
+        "Astra Lumina 洛杉矶夜间花园灯光秀",
+        -1
+      ],
+      "63e9c4820000000013004487": [
+        "South Coast Botanic Garden",
+        true,
+        "快去打卡‼️洛杉矶灯展",
+        -1
+      ],
+      "65502383000000001701da18": [
+        "South Coast Botanic Garden",
+        true,
+        "LA south coast植物园灯光秀✨",
+        -1
+      ],
+      "6552cfad000000003202a3cc": [
+        "South Coast Botanic Garden",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ],
+      "65456931000000001e03d062": [
+        "South Coast Botanic Garden",
+        true,
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Descanso Gardens": {
+    "place_name": "Descanso Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.200950899999995,
+        "lng": -118.2118943
+      }
+    },
+    "rating": 4.7,
+    "reviews": 8393,
+    "note": [
+      "63a3f228000000001b015d88",
+      "65456931000000001e03d062",
+      "639d761e000000001c005b80",
+      "65530ee5000000003300b394"
+    ],
+    "types": [
+      "park",
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63a3f228000000001b015d88": [
+        "Descanso Garden",
+        true,
+        "洛杉矶气氛很灵异的灯光秀",
+        -1
+      ],
+      "65530ee5000000003300b394": [
+        "Descanso Garden",
+        true,
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ],
+      "639d761e000000001c005b80": [
+        "Descanso Gardens",
+        true,
+        "洛杉矶|千万不能错过的灯光秀",
+        -1
+      ],
+      "65456931000000001e03d062": [
+        "Descanso 花园夜间灯光游",
+        "google_search_matched",
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Astra Lumina Los Angeles": {
+    "place_name": "Astra Lumina Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 33.7832886,
+        "lng": -118.3489864
+      }
+    },
+    "rating": 4.6,
+    "reviews": 573,
+    "note": [
+      "63d0dce3000000001e03e60a",
+      "65456931000000001e03d062",
+      "63a150b10000000018013d8e",
+      "6552ada9000000003203ad99",
+      "65530ee5000000003300b394",
+      "63e9c4820000000013004487"
+    ],
+    "types": [
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65530ee5000000003300b394": [
+        "Astra Lumina Light Show",
+        "google_search_matched",
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ],
+      "63e9c4820000000013004487": [
+        "Astra Lumina 灯光展",
+        true,
+        "快去打卡‼️洛杉矶灯展",
+        -1
+      ],
+      "63a150b10000000018013d8e": [
+        "Astra Lumina 灯光秀",
+        true,
+        "Astra Lumina 洛杉矶夜间花园灯光秀",
+        -1
+      ],
+      "63d0dce3000000001e03e60a": [
+        "Astra Lumina",
+        true,
+        "LA 周边灯光秀Astra Lumina 攻略",
+        -1
+      ],
+      "6552ada9000000003203ad99": [
+        "Astra Lumina",
+        true,
+        "LA看展｜💫好浪漫的冬季限定沉浸式灯光展",
+        -1
+      ],
+      "65456931000000001e03d062": [
+        "Astra Lumina夜间展览",
+        "google_search_matched",
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Los Angeles County Arboretum": {
+    "place_name": "Los Angeles County Arboretum",
+    "geometry": {
+      "location": {
+        "lat": 34.1425236,
+        "lng": -118.05341179999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4783,
+    "note": [
+      "65456931000000001e03d062",
+      "65530ee5000000003300b394"
+    ],
+    "types": [
+      "park",
+      "park",
+      "Arboretum",
+      "Garden",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65530ee5000000003300b394": [
+        "Lightscape",
+        "google_search_matched",
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ],
+      "65456931000000001e03d062": [
+        "Los Angeles County Arboretum",
+        true,
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles Zoo": {
+    "place_name": "Los Angeles Zoo",
+    "geometry": {
+      "location": {
+        "lat": 34.1482153,
+        "lng": -118.28826009999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 18395,
+    "note": [
+      "65456931000000001e03d062",
+      "63afbc35000000001f000d25",
+      "65530ee5000000003300b394"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Zoo",
+      "Botanical garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65530ee5000000003300b394": [
+        "LA Zoo Lights Show",
+        "google_search_matched",
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ],
+      "63afbc35000000001f000d25": [
+        "节假日灯光秀",
+        false,
+        "洛杉矶Riverside 灯光秀",
+        -1
+      ],
+      "65456931000000001e03d062": [
+        "洛杉矶动物园夜间灯展",
+        false,
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Biltmore Los Angeles": {
+    "place_name": "The Biltmore Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0497246,
+        "lng": -118.25415009999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 5802,
+    "note": [
+      "65456931000000001e03d062"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65456931000000001e03d062": [
+        "米什安酒店的节日灯光盛会",
+        false,
+        "洛杉矶十一月｜夜间赏灯好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La Cañada Flintridge": {
+    "place_name": "La Cañada Flintridge",
+    "geometry": {
+      "location": {
+        "lat": 34.2068182,
+        "lng": -118.20002769999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "639d761e000000001c005b80"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "639d761e000000001c005b80": [
+        "La Cañada Flintridge",
+        true,
+        "洛杉矶|千万不能错过的灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "26300 Crenshaw Blvd": {
+    "place_name": "26300 Crenshaw Blvd",
+    "geometry": {
+      "location": {
+        "lat": 33.782939899999995,
+        "lng": -118.34546429999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65502383000000001701da18",
+      "6552ada9000000003203ad99"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552ada9000000003203ad99": [
+        "26300 Crenshaw Blvd, Palos Verdes Estates, CA 90274",
+        true,
+        "LA看展｜💫好浪漫的冬季限定沉浸式灯光展",
+        -1
+      ],
+      "65502383000000001701da18": [
+        "26300 Crenshaw Blvd, Palos Verdes Estates",
+        true,
+        "LA south coast植物园灯光秀✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Field of Light": {
+    "place_name": "Field of Light",
+    "geometry": {
+      "location": {
+        "lat": 35.6542282,
+        "lng": -120.6239547
+      }
+    },
+    "rating": 4.6,
+    "reviews": 386,
+    "note": [
+      "64d44a420000000017018c4c"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "Museum"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d44a420000000017018c4c": [
+        "Field of Light",
+        true,
+        "洛杉矶|超级推荐-星光璀璨灯光展\n🔍Field of Light\n[火R]泰裤辣!LA竟然有一个这么美丽璀璨的地方～\n[星R]天色渐晚时进园，漫山遍野的小灯就像悬浮的水母和蒲公英一样闪着五颜六色的光，仿佛走进了一片五彩缤纷的花海和颜色绚丽的星空，一切都是那么安静，这种沉浸式的感受无法用语言来形容.\n[星R]周边还有一些美食店，参展出来后还可以小酌两杯，非常惬意.\n[红色心形R]Tips:38-44刀不等，官网可预订，晚上稍凉最好带个外套.\n🕐19:00-22:30\n📍4380 CA-46，Paso Rob",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "4380 CA-46": {
+    "place_name": "4380 CA-46",
+    "geometry": {
+      "location": {
+        "lat": 35.652284699999996,
+        "lng": -120.6209974
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64d44a420000000017018c4c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d44a420000000017018c4c": [
+        "4380 CA-46, Paso Robles, CA93446",
+        true,
+        "洛杉矶|超级推荐-星光璀璨灯光展\n🔍Field of Light\n[火R]泰裤辣!LA竟然有一个这么美丽璀璨的地方～\n[星R]天色渐晚时进园，漫山遍野的小灯就像悬浮的水母和蒲公英一样闪着五颜六色的光，仿佛走进了一片五彩缤纷的花海和颜色绚丽的星空，一切都是那么安静，这种沉浸式的感受无法用语言来形容.\n[星R]周边还有一些美食店，参展出来后还可以小酌两杯，非常惬意.\n[红色心形R]Tips:38-44刀不等，官网可预订，晚上稍凉最好带个外套.\n🕐19:00-22:30\n📍4380 CA-46，Paso Rob",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Palos Verdes Estates": {
+    "place_name": "Palos Verdes Estates",
+    "geometry": {
+      "location": {
+        "lat": 33.800571399999995,
+        "lng": -118.39007369999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6552ada9000000003203ad99"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552ada9000000003203ad99": [
+        "Palos Verdes Estates",
+        true,
+        "LA看展｜💫好浪漫的冬季限定沉浸式灯光展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "3649 Mission Inn Avenue": {
+    "place_name": "3649 Mission Inn Avenue",
+    "geometry": {
+      "location": {
+        "lat": 33.9832925,
+        "lng": -117.3729697
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63afbc35000000001f000d25"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63afbc35000000001f000d25": [
+        "3649 Mission Inn Avenue, Riverside, CA 92501",
+        true,
+        "洛杉矶Riverside 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mission Inn Hotel and Spa's Festival of Lights": {
+    "place_name": "Mission Inn Hotel and Spa's Festival of Lights",
+    "geometry": {
+      "location": {
+        "lat": 33.9827023,
+        "lng": -117.3731007
+      }
+    },
+    "rating": 4.6,
+    "reviews": 32,
+    "note": [
+      "63afbc35000000001f000d25",
+      "65530ee5000000003300b394"
+    ],
+    "types": [
+      "Festival"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65530ee5000000003300b394": [
+        "Mission Inn Festival of Lights",
+        "google_search_matched",
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ],
+      "63afbc35000000001f000d25": [
+        "The mission Inn Festival of Lights",
+        false,
+        "洛杉矶Riverside 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mission Inn": {
+    "place_name": "Mission Inn",
+    "geometry": {
+      "location": {
+        "lat": 33.9833724,
+        "lng": -117.373307
+      }
+    },
+    "rating": 4.5,
+    "reviews": 9757,
+    "note": [
+      "63afbc35000000001f000d25"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Business to Business-service",
+      "Wellnesscentrum",
+      "Trouwlocatie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63afbc35000000001f000d25": [
+        "节日灯光秀 The mission Inn Festival of Lights",
+        true,
+        "洛杉矶Riverside 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sparkle": {
+    "place_name": "Sparkle",
+    "geometry": {
+      "location": {
+        "lat": 34.0332601,
+        "lng": -118.2528217
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65530ee5000000003300b394",
+      "653b6abc000000001e032801",
+      "6546b6d6000000001e03fc2a",
+      "65587fe1000000001b00d146"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65587fe1000000001b00d146": [
+        "SparkleDTLA",
+        true,
+        "洛杉矶市中心🎄The Bloc灯光秀",
+        -1
+      ],
+      "653b6abc000000001e032801": [
+        "SPARKLE DTLA",
+        true,
+        "LA十一月灯光活动，超出片！",
+        -1
+      ],
+      "6546b6d6000000001e03fc2a": [
+        "Sparkle DTLA",
+        true,
+        "洛杉矶|神奇的节日灯光秀",
+        -1
+      ],
+      "65530ee5000000003300b394": [
+        "Sparkle DTLA",
+        true,
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "750 W 7th St": {
+    "place_name": "750 W 7th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0477529,
+        "lng": -118.25866669999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6546b6d6000000001e03fc2a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6546b6d6000000001e03fc2a": [
+        "750 W 7th St，Los Angeles, CA 90017",
+        true,
+        "洛杉矶|神奇的节日灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Paso Robles": {
+    "place_name": "Paso Robles",
+    "geometry": {
+      "location": {
+        "lat": 35.6368759,
+        "lng": -120.6545022
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64d1864300000000120181ae"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d1864300000000120181ae": [
+        "Paso Robles, CA",
+        true,
+        "洛杉矶周末打卡周边超美灯光展💡置身海洋",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sensorio": {
+    "place_name": "Sensorio",
+    "geometry": {
+      "location": {
+        "lat": 35.6523768,
+        "lng": -120.6212434
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2156,
+    "note": [
+      "64d1864300000000120181ae"
+    ],
+    "types": [
+      "Art center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d1864300000000120181ae": [
+        "Sensorio",
+        true,
+        "洛杉矶周末打卡周边超美灯光展💡置身海洋",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Bloc": {
+    "place_name": "The Bloc",
+    "geometry": {
+      "location": {
+        "lat": 34.0475959,
+        "lng": -118.25900259999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 6922,
+    "note": [
+      "653b6abc000000001e032801"
+    ],
+    "types": [
+      "Shopping mall",
+      "Art gallery"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653b6abc000000001e032801": [
+        "THE BLOC",
+        true,
+        "LA十一月灯光活动，超出片！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Belasco": {
+    "place_name": "The Belasco",
+    "geometry": {
+      "location": {
+        "lat": 34.0403336,
+        "lng": -118.2593883
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1503,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Event venue",
+      "Banquet hall",
+      "Concert hall",
+      "Event planner",
+      "Event ticket seller",
+      "Live music venue",
+      "Night club",
+      "Stage",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "The Belasco",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Bowl": {
+    "place_name": "Hollywood Bowl",
+    "geometry": {
+      "location": {
+        "lat": 34.112224,
+        "lng": -118.3391279
+      }
+    },
+    "rating": 4.7,
+    "reviews": 16091,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Concert hall",
+      "Amphitheater",
+      "Live music venue",
+      "Non-profit organization",
+      "Performing arts",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Hollywood Bowl",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Warner Bros. Studio Tour Hollywood": {
+    "place_name": "Warner Bros. Studio Tour Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.151323,
+        "lng": -118.33625789999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 3397,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction",
+      "Movie studio"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Warner Bros. Studio Tour Hollywood",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Fonda Theatre": {
+    "place_name": "The Fonda Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.101486,
+        "lng": -118.3232871
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2052,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Event venue",
+      "Concert hall",
+      "Performing arts theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "The Fonda Theatre",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Egyptian Theatre Hollywood": {
+    "place_name": "The Egyptian Theatre Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1009124,
+        "lng": -118.3366101
+      }
+    },
+    "rating": 4.6,
+    "reviews": 699,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Movie theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Egyptian Theatre",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Pantages Theatre": {
+    "place_name": "Hollywood Pantages Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.102009599999995,
+        "lng": -118.32578889999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6944,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Performing arts theater",
+      "Event venue",
+      "Live music venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Pantages Theatre",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Music Box": {
+    "place_name": "Music Box",
+    "geometry": {
+      "location": {
+        "lat": 32.7193819,
+        "lng": -117.1681424
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1800,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Live music venue",
+      "Bar",
+      "Cocktail bar",
+      "Concert hall",
+      "Dance club",
+      "Event venue",
+      "Live music bar",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Music Box San Diego",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "TCL Chinese Theatre": {
+    "place_name": "TCL Chinese Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.1020231,
+        "lng": -118.3409712
+      }
+    },
+    "rating": 4.4,
+    "reviews": 8591,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Movie theater",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "TCL Grauman’s Chinese Theatre",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles Convention Center": {
+    "place_name": "Los Angeles Convention Center",
+    "geometry": {
+      "location": {
+        "lat": 34.040320699999995,
+        "lng": -118.2695624
+      }
+    },
+    "rating": 4.5,
+    "reviews": 10961,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Convention center",
+      "Conference center",
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "LA Convention Center",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "88 Fair Dr": {
+    "place_name": "88 Fair Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.665951,
+        "lng": -117.90257489999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "88 Fair Drive, Costa Mesa",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Vermont Hollywood": {
+    "place_name": "The Vermont Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.0903938,
+        "lng": -118.2914773
+      }
+    },
+    "rating": 4.5,
+    "reviews": 207,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "Live music venue",
+      "Bar",
+      "Dance club",
+      "Event venue",
+      "Recording studio"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "The Vermont Hollywood",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dodger Stadium": {
+    "place_name": "Dodger Stadium",
+    "geometry": {
+      "location": {
+        "lat": 34.073851,
+        "lng": -118.2399583
+      }
+    },
+    "rating": 4.7,
+    "reviews": 42583,
+    "note": [
+      "6552cfad000000003202a3cc"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Stadium",
+      "Baseball field",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6552cfad000000003202a3cc": [
+        "Dodger Stadium",
+        true,
+        "🎡活动｜洛杉矶1⃣️1⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Irvine": {
+    "place_name": "Irvine",
+    "geometry": {
+      "location": {
+        "lat": 33.6845673,
+        "lng": -117.82650489999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6541ac3d000000002202e156"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6541ac3d000000002202e156": [
+        "Irvine",
+        true,
+        "🏔️加州救赎山｜11月天灯节温暖一日游",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Diamond Bar": {
+    "place_name": "Diamond Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.0009951,
+        "lng": -117.8112041
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6541ac3d000000002202e156"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6541ac3d000000002202e156": [
+        "Diamond Bar",
+        true,
+        "🏔️加州救赎山｜11月天灯节温暖一日游",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Universal Studios Hollywood": {
+    "place_name": "Universal Studios Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1381168,
+        "lng": -118.35337829999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 147511,
+    "note": [
+      "64c75cc3000000000c036376",
+      "64b4350b000000003102d075"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Amusement park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c75cc3000000000c036376": [
+        "Universal Studios Hollywood",
+        true,
+        "环球影城霍格沃茨城堡，夜晚太太太出片了！",
+        -1
+      ],
+      "64b4350b000000003102d075": [
+        "LA环球影城",
+        "google_search_matched",
+        "洛杉矶环球影城 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Wizarding World of Harry Potter": {
+    "place_name": "The Wizarding World of Harry Potter",
+    "geometry": {
+      "location": {
+        "lat": 34.138303799999996,
+        "lng": -118.3535725
+      }
+    },
+    "rating": 4.7,
+    "reviews": 7874,
+    "note": [
+      "64b4350b000000003102d075"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b4350b000000003102d075": [
+        "哈利波特园区",
+        false,
+        "洛杉矶环球影城 灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "100 Universal City Plaza": {
+    "place_name": "100 Universal City Plaza",
+    "geometry": {
+      "location": {
+        "lat": 34.136193,
+        "lng": -118.3552237
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64c75cc3000000000c036376"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c75cc3000000000c036376": [
+        "100 Universal City Plaza, Universal City",
+        true,
+        "环球影城霍格沃茨城堡，夜晚太太太出片了！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "West Los Angeles": {
+    "place_name": "West Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.041208499999996,
+        "lng": -118.442596
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "644349290000000014025f9a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "644349290000000014025f9a": [
+        "海西",
+        false,
+        "关于国庆假期来大理环洱海的三种方案",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "6th Street Viaduct": {
+    "place_name": "6th Street Viaduct",
+    "geometry": {
+      "location": {
+        "lat": 34.0385329,
+        "lng": -118.22812719999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 300,
+    "note": [
+      "644349290000000014025f9a"
+    ],
+    "types": [
+      "Bridge"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "644349290000000014025f9a": [
+        "兴盛大桥",
+        false,
+        "关于国庆假期来大理环洱海的三种方案",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "喜湘御湘川私房菜": {
+    "place_name": "喜湘御湘川私房菜",
+    "geometry": {
+      "location": {
+        "lat": 34.062393199999995,
+        "lng": -118.0845595
+      }
+    },
+    "rating": 3.7,
+    "reviews": 26,
+    "note": [
+      "644349290000000014025f9a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Hunan restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "644349290000000014025f9a": [
+        "喜洲",
+        false,
+        "关于国庆假期来大理环洱海的三种方案",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Griffith Observatory": {
+    "place_name": "Griffith Observatory",
+    "geometry": {
+      "location": {
+        "lat": 34.1184341,
+        "lng": -118.3003935
+      }
+    },
+    "rating": 4.7,
+    "reviews": 12223,
+    "note": [
+      "6433ef5c0000000013034d6a",
+      "644349290000000014025f9a"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Observatory",
+      "Planetarium",
+      "Science museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6433ef5c0000000013034d6a": [
+        "伞松展望台",
+        false,
+        "京都小众景点攻略🌟这些地方竟然真实存在❗️",
+        -1
+      ],
+      "644349290000000014025f9a": [
+        "双廊免费光景台",
+        false,
+        "关于国庆假期来大理环洱海的三种方案",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Venice Beach": {
+    "place_name": "Venice Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.9932584,
+        "lng": -118.480598
+      }
+    },
+    "rating": 4.5,
+    "reviews": 15083,
+    "note": [
+      "6433ef5c0000000013034d6a"
+    ],
+    "types": [
+      "natural_feature",
+      "Beach"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6433ef5c0000000013034d6a": [
+        "海滩",
+        false,
+        "京都小众景点攻略🌟这些地方竟然真实存在❗️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Vincent Thomas Bridge": {
+    "place_name": "Vincent Thomas Bridge",
+    "geometry": {
+      "location": {
+        "lat": 33.7496036,
+        "lng": -118.2716042
+      }
+    },
+    "rating": 4.5,
+    "reviews": 275,
+    "note": [
+      "6433ef5c0000000013034d6a"
+    ],
+    "types": [
+      "Bridge"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6433ef5c0000000013034d6a": [
+        "回旋桥",
+        false,
+        "京都小众景点攻略🌟这些地方竟然真实存在❗️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "YESAWAY": {
+    "place_name": "YESAWAY",
+    "geometry": {
+      "location": {
+        "lat": 33.945040399999996,
+        "lng": -118.372113
+      }
+    },
+    "rating": 4,
+    "reviews": 82,
+    "note": [
+      "6423e84600000000130344e2"
+    ],
+    "types": [
+      "Car rental agency",
+      "Car leasing service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6423e84600000000130344e2": [
+        "租车",
+        false,
+        "漳州东山岛旅游攻略‼️不要去🆚放心去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LaaLaaPan": {
+    "place_name": "LaaLaaPan",
+    "geometry": {
+      "location": {
+        "lat": 34.1713909,
+        "lng": -118.56765519999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 26,
+    "note": [
+      "6423e84600000000130344e2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Indonesian restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6423e84600000000130344e2": [
+        "恋义海蛎煎",
+        false,
+        "漳州东山岛旅游攻略‼️不要去🆚放心去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chan Kee": {
+    "place_name": "Chan Kee",
+    "geometry": {
+      "location": {
+        "lat": 33.997079899999996,
+        "lng": -117.8551389
+      }
+    },
+    "rating": 4.1,
+    "reviews": 244,
+    "note": [
+      "6423e84600000000130344e2"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Chinese noodle restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6423e84600000000130344e2": [
+        "陈记肉丸老店号",
+        false,
+        "漳州东山岛旅游攻略‼️不要去🆚放心去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "China area": {
+    "place_name": "China area",
+    "geometry": {
+      "location": {
+        "lat": 34.0798321,
+        "lng": -118.0944117
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64203428000000001300d86f"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64203428000000001300d86f": [
+        "南北线",
+        false,
+        "平潭本地人推荐的游玩路线，电动车推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "700 W 7th St": {
+    "place_name": "700 W 7th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0481945,
+        "lng": -118.2583142
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65587fe1000000001b00d146"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65587fe1000000001b00d146": [
+        "700 West 7th Street Los Angeles, California",
+        "google_search_matched",
+        "洛杉矶市中心🎄The Bloc灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Los Angeles": {
+    "place_name": "Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0487969,
+        "lng": -118.2517828
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65587fe1000000001b00d146"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65587fe1000000001b00d146": [
+        "DTLA（Downtown LA）",
+        "google_search_matched",
+        "洛杉矶市中心🎄The Bloc灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "123 Farm": {
+    "place_name": "123 Farm",
+    "geometry": {
+      "location": {
+        "lat": 33.967666799999996,
+        "lng": -116.941603
+      }
+    },
+    "rating": 4.6,
+    "reviews": 992,
+    "note": [
+      "65530ee5000000003300b394"
+    ],
+    "types": [
+      "Farm"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65530ee5000000003300b394": [
+        "123 Farm Christmas Nights",
+        true,
+        "🤩遛娃/约会｜洛杉矶年底夜间赏灯好去处✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

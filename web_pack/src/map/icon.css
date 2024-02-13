@@ -1,0 +1,158 @@
+.custom-icon {
+  background-color: #1a73e8;
+  border: 3px solid white; /* Adjust the border style and color as needed */
+  border-radius: 40%; /* Create a circle border */
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); /* Add a shadow, adjust values as needed */
+}
+
+.star-icon {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  font-size: 12px; 
+}
+
+.custom-icon-highlight {
+  background-color: yellowgreen;
+  border: 3px solid white; /* Adjust the border style and color as needed */
+  border-radius: 40%; /* Create a circle border */
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); /* Add a shadow, adjust values as needed */
+}
+
+.leaflet {
+  overflow-y: hidden;
+}
+
+/* Scale down the size of polygons */
+.leaflet-overlay-pane path {
+  transform: scale(0.1); /* Adjust the scale factor as needed */
+}
+
+.custom-icon-popular {
+  background-color: red;
+  border: 3px solid white; /* Adjust the border style and color as needed */
+  border-radius: 40%; /* Create a circle border */
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); /* Add a shadow, adjust values as needed */
+}
+
+.leaflet-tooltip {
+    margin-left: 1.5px;
+    position: absolute;
+    background-color: transparent; /* Dark background color */
+    border: 0px solid red; /* Set border to 0 to remove it */
+    border-radius: 0px;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    pointer-events: none;
+    box-shadow: none;  /* Set box-shadow to none to remove the shadow */
+/*    font-family: Roboto,Arial,sans-serif;*/
+    font-family: Arial, sans-serif;
+    line-height: 1rem;
+    letter-spacing: 0;
+    font-weight: 700;
+    font-size: 14px;
+/*    filter: invert(0.1);*/
+    /* Add text-stroke to create a border around the text */
+    color: #666;
+/*    color: #1a73e8;*/
+}
+
+
+.leaflet-tooltip::before {
+    content: none; 
+     /* Set content to none to remove the arrow */
+}
+
+.leaflet-pane {
+    background-color: transparent;
+    color: transparent;
+    border-radius: 3px;
+    white-space: nowrap;
+    outline: none;
+}
+
+.tooltip {
+  font-size: 200px;  /* Change the font size as needed */
+  color: white;     /* Change the font color to white */
+}
+
+
+
+.custom-marker-cluster{
+  background: #ffffff;
+  border: 15px solid #f00800;
+  border-radius: 50%;
+  color: #000000;
+  height: 33px;
+  line-height: 37px;
+  text-align: center;
+  width: 33px;
+}
+
+
+
+.text-left-guide {
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  position: relative; /* Position the line absolutely */
+  top: -12px;
+  color: #1a73e8;
+  flex-direction: column; /* Arrange items vertically in a column */
+  padding: 5px;
+  font-size: 16px;
+  z-index: 200000;
+  visibility: hidden; /* Initially, hide the element */
+  width: 65px;
+}
+
+.icon_nav-container-guide:hover .text-left {
+  visibility: visible;
+  z-index: 100;
+  display: inline-block; /* Make the element expand horizontally */
+  white-space: nowrap; /* Prevent wrapping to the next line */
+  border: 2px solid #000; /* Add your desired border style */
+  border-radius: 11px; /* Adjust the value to control the roundness of the corners */
+  padding: 8px;
+  padding-left: 3px; /* Add left padding */
+  padding-right: 3px; /* Add right padding */
+  position: relative; /* Position the line absolutely */
+  flex-direction: column; /* Arrange items vertically in a column */
+  background: white;
+  left: -8px;
+  width: 100%; /* Set the width to 'auto' to fit the content size */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  transition: width 0.2s; /* Add a transition effect for width changes */
+}
+
+.css-view-175oi2r {
+  z-index: 1; /* Set a higher z-index to make it appear above other elements */
+
+}
+
+.leaflet-popup-pane {
+  top: -5px;
+  position: absolute; /* or position: absolute; depending on your layout */
+}
+
+.leaflet-popup-tip-container {
+  left: 50.7%;
+  z-index: 0; /* Set a higher z-index to make it appear above other elements */
+  position: absolute; /* or position: absolute; depending on your layout */
+}
+
+
+/*
+.leaflet-control-zoom {
+  top: -50px;
+  left: -20px;
+  width: 10px; 
+  height: 10px; 
+}*/
+
+/*
+.custom-popup {
+  display: none;
+}*/

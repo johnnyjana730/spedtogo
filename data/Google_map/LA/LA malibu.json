@@ -1,0 +1,1570 @@
+{
+  "Laguna Beach": {
+    "place_name": "Laguna Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.5427189,
+        "lng": -117.78535679999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b539a0000000001f0251d6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b539a0000000001f0251d6": [
+        "Laguna Beach",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Broad Street Oyster Company": {
+    "place_name": "Broad Street Oyster Company",
+    "geometry": {
+      "location": {
+        "lat": 34.0355123,
+        "lng": -118.683917
+      }
+    },
+    "rating": 4.4,
+    "reviews": 908,
+    "note": [
+      "63b539a0000000001f0251d6",
+      "64729ada000000000800f7f6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Broad Street Oyster Company",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "63b539a0000000001f0251d6": [
+        "Broad Street Oyster Co.",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "El Matador State Beach": {
+    "place_name": "El Matador State Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0380426,
+        "lng": -118.874663
+      }
+    },
+    "rating": 4.7,
+    "reviews": 5094,
+    "note": [
+      "653595b50000000020001cad",
+      "6445df35000000002702a8e1",
+      "64729ada000000000800f7f6",
+      "64b9cf45000000001201f132",
+      "63b539a0000000001f0251d6"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Public beach",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6445df35000000002702a8e1": [
+        "El Matador Beach",
+        "google_search_matched",
+        "LA｜Malibu周末来一场说走就走的一日游叭🍷",
+        -1
+      ],
+      "64729ada000000000800f7f6": [
+        "El Matador Beach",
+        "google_search_matched",
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "653595b50000000020001cad": [
+        "El Matador State Beach",
+        true,
+        "去Malibu看浪的小狗",
+        -1
+      ],
+      "64b9cf45000000001201f132": [
+        "El Matador State Beach",
+        true,
+        "不要靠近LA这个海滩 会变得不幸🥹",
+        -1
+      ],
+      "63b539a0000000001f0251d6": [
+        "EI Matabor Beach",
+        "google_search_matched",
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Moonshadows Malibu": {
+    "place_name": "Moonshadows Malibu",
+    "geometry": {
+      "location": {
+        "lat": 34.0375286,
+        "lng": -118.6186723
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2713,
+    "note": [
+      "65347d8a000000001e02f848",
+      "6445df35000000002702a8e1",
+      "64729ada000000000800f7f6",
+      "6514f80f000000001f034744",
+      "63b539a0000000001f0251d6",
+      "654ceab7000000000f028326"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "New American restaurant",
+      "Bar",
+      "Lounge",
+      "Restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "海边餐厅Moonshadows",
+        "google_search_matched",
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ],
+      "654ceab7000000000f028326": [
+        "Moonshadows",
+        true,
+        "🌴洛杉矶氛围感💯分的海景🌊落日餐厅合集",
+        -1
+      ],
+      "64729ada000000000800f7f6": [
+        "Moonshadows",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "6445df35000000002702a8e1": [
+        "Moonshadows Malibu",
+        true,
+        "LA｜Malibu周末来一场说走就走的一日游叭🍷",
+        -1
+      ],
+      "6514f80f000000001f034744": [
+        "Malibu Moonshadows",
+        "google_search_matched",
+        "Malibu 🌊可太适合吃吃逛逛了",
+        -1
+      ],
+      "63b539a0000000001f0251d6": [
+        "Moonshadow Malibu",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "32350 Pacific Coast Hwy": {
+    "place_name": "32350 Pacific Coast Hwy",
+    "geometry": {
+      "location": {
+        "lat": 34.0393203,
+        "lng": -118.8794076
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63b539a0000000001f0251d6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b539a0000000001f0251d6": [
+        "32350 E Pacific Coast Hwy, Malibu, CA 90265",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu": {
+    "place_name": "Malibu",
+    "geometry": {
+      "location": {
+        "lat": 34.0380585,
+        "lng": -118.69234379999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "654d1893000000003202ee43",
+      "65319f81000000001f035e86",
+      "64b9cf45000000001201f132",
+      "652f8779000000001d014002",
+      "63b539a0000000001f0251d6",
+      "647e89d60000000013010ae8"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654d1893000000003202ee43": [
+        "Malibu",
+        true,
+        "🌅在LA看到了美哭了的人生日出",
+        -1
+      ],
+      "65319f81000000001f035e86": [
+        "Malibu",
+        true,
+        "LA｜Malibu的后山上 有座绝美的小众印度庙",
+        -1
+      ],
+      "64b9cf45000000001201f132": [
+        "Malibu",
+        true,
+        "不要靠近LA这个海滩 会变得不幸🥹",
+        -1
+      ],
+      "652f8779000000001d014002": [
+        "Malibu",
+        true,
+        "🇺🇸LA Malibu｜海边沙滩餐厅 Paradise Cove",
+        -1
+      ],
+      "647e89d60000000013010ae8": [
+        "Malibu",
+        true,
+        "原来Malibu的Nobu真的可以偶遇卡戴珊！",
+        -1
+      ],
+      "63b539a0000000001f0251d6": [
+        "Malibu Beach",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Blue Bottle Coffee": {
+    "place_name": "Blue Bottle Coffee",
+    "geometry": {
+      "location": {
+        "lat": 34.0390928,
+        "lng": -118.2325602
+      }
+    },
+    "rating": 4.4,
+    "reviews": 614,
+    "note": [
+      "63b539a0000000001f0251d6"
+    ],
+    "types": [
+      "Coffee shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63b539a0000000001f0251d6": [
+        "Blue Bottle Coffee",
+        true,
+        "加州旅游最美海滩Malibu🏖及美食打卡推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Canoga Park": {
+    "place_name": "Canoga Park",
+    "geometry": {
+      "location": {
+        "lat": 34.208254,
+        "lng": -118.6058609
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6514f80f000000001f034744"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6514f80f000000001f034744": [
+        "Canoga Park",
+        true,
+        "Malibu 🌊可太适合吃吃逛逛了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Westfield Century City": {
+    "place_name": "Westfield Century City",
+    "geometry": {
+      "location": {
+        "lat": 34.0586592,
+        "lng": -118.4190309
+      }
+    },
+    "rating": 4.5,
+    "reviews": 12620,
+    "note": [
+      "6514f80f000000001f034744"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Shopping mall",
+      "Clothing store",
+      "Department store",
+      "Fashion accessories store",
+      "Gift shop",
+      "Men's clothing store",
+      "Movie theater",
+      "Restaurant",
+      "Shoe store",
+      "Women's clothing store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6514f80f000000001f034744": [
+        "Westfield",
+        true,
+        "Malibu 🌊可太适合吃吃逛逛了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Stocker Corridor Trail": {
+    "place_name": "Stocker Corridor Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.003988899999996,
+        "lng": -118.34442609999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 161,
+    "note": [
+      "652053db000000001f03f2c4"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652053db000000001f03f2c4": [
+        "trail",
+        false,
+        "洛杉矶Point dume | 藏在Malibu里的浪漫",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Cafe on 27": {
+    "place_name": "Cafe on 27",
+    "geometry": {
+      "location": {
+        "lat": 34.1199438,
+        "lng": -118.5921951
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1108,
+    "note": [
+      "64fce37e000000001f03a882"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "American restaurant",
+      "Cafe",
+      "Coffee shop",
+      "Diner",
+      "Organic restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fce37e000000001f03a882": [
+        "Cafe on 27",
+        true,
+        "LA｜马里布山间brunch",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Topanga, CA 90290": {
+    "place_name": "Topanga, CA 90290",
+    "geometry": {
+      "location": {
+        "lat": 34.107698299999996,
+        "lng": -118.61480999999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64fce37e000000001f03a882"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fce37e000000001f03a882": [
+        "Topanga, CA 90290",
+        true,
+        "LA｜马里布山间brunch",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1861 N Topanga Canyon Blvd": {
+    "place_name": "1861 N Topanga Canyon Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.1199407,
+        "lng": -118.5921534
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64fce37e000000001f03a882"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fce37e000000001f03a882": [
+        "1861 N Topanga Canyon Blvd",
+        true,
+        "LA｜马里布山间brunch",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1600 Las Virgenes Canyon Rd": {
+    "place_name": "1600 Las Virgenes Canyon Rd",
+    "geometry": {
+      "location": {
+        "lat": 34.0950602,
+        "lng": -118.7096749
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65319f81000000001f035e86"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65319f81000000001f035e86": [
+        "1600 Las Virgenes Canyon Rd, Calabasas, CA 91302",
+        true,
+        "LA｜Malibu的后山上 有座绝美的小众印度庙",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Zuma Beach": {
+    "place_name": "Zuma Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0218023,
+        "lng": -118.8311897
+      }
+    },
+    "rating": 4.7,
+    "reviews": 2422,
+    "note": [
+      "653595b50000000020001cad"
+    ],
+    "types": [
+      "Strand"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653595b50000000020001cad": [
+        "Zuma Beach",
+        true,
+        "去Malibu看浪的小狗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu Country Mart": {
+    "place_name": "Malibu Country Mart",
+    "geometry": {
+      "location": {
+        "lat": 34.035595799999996,
+        "lng": -118.685654
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2135,
+    "note": [
+      "6445df35000000002702a8e1",
+      "64729ada000000000800f7f6"
+    ],
+    "types": [
+      "Shopping mall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Malibu Country Mart",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "6445df35000000002702a8e1": [
+        "Malibu Shopping Mart",
+        "google_search_matched",
+        "LA｜Malibu周末来一场说走就走的一日游叭🍷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Point Dume Natural Preserve": {
+    "place_name": "Point Dume Natural Preserve",
+    "geometry": {
+      "location": {
+        "lat": 34.0008909,
+        "lng": -118.8061115
+      }
+    },
+    "rating": 4.8,
+    "reviews": 34,
+    "note": [
+      "6531e4f4000000001e00d559"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "6531e4f4000000001e00d559": [
+        "Point Dume Nature Preserve",
+        true,
+        "Malibu日出🌅",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Escondido Falls": {
+    "place_name": "Escondido Falls",
+    "geometry": {
+      "location": {
+        "lat": 34.043180299999996,
+        "lng": -118.77948239999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 673,
+    "note": [
+      "64dacf10000000001700fa29"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64dacf10000000001700fa29": [
+        "Escondido Falls",
+        true,
+        "LA Malibu周边游｜Escondido Falls大瀑布",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Getty Villa": {
+    "place_name": "The Getty Villa",
+    "geometry": {
+      "location": {
+        "lat": 34.0458857,
+        "lng": -118.56486079999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 9476,
+    "note": [
+      "63aa9498000000001f0208f8"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63aa9498000000001f0208f8": [
+        "【Getty Villa】",
+        true,
+        "加州硅谷小情侣约会吃喝日记57｜LA篇",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu Pier": {
+    "place_name": "Malibu Pier",
+    "geometry": {
+      "location": {
+        "lat": 34.0365277,
+        "lng": -118.6761657
+      }
+    },
+    "rating": 4.5,
+    "reviews": 6612,
+    "note": [
+      "64729ada000000000800f7f6",
+      "63aa9498000000001f0208f8",
+      "654d1893000000003202ee43",
+      "646bfe4f00000000270003de"
+    ],
+    "types": [
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654d1893000000003202ee43": [
+        "Malibu Pier",
+        true,
+        "🌅在LA看到了美哭了的人生日出",
+        -1
+      ],
+      "64729ada000000000800f7f6": [
+        "Malibu Pier",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "646bfe4f00000000270003de": [
+        "Malibu Pier",
+        true,
+        "洛杉矶宝藏景点，Malibu海边豪宅免费逛",
+        -1
+      ],
+      "63aa9498000000001f0208f8": [
+        "【Malibu Pier】",
+        true,
+        "加州硅谷小情侣约会吃喝日记57｜LA篇",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Point Dume": {
+    "place_name": "Point Dume",
+    "geometry": {
+      "location": {
+        "lat": 34.001201,
+        "lng": -118.80644199999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6753,
+    "note": [
+      "64f7fb11000000001e023ee7",
+      "647008be0000000013035101",
+      "654d1893000000003202ee43",
+      "63c08edd000000001f00c491",
+      "64729ada000000000800f7f6",
+      "63aa9498000000001f0208f8"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "natural_feature",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "natural_feature",
+      "tourist_attraction",
+      "Tourist attraction",
+      "Hiking area",
+      "Park",
+      "Public beach",
+      "Scenic spot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f7fb11000000001e023ee7": [
+        "日落和Malibu的海边",
+        false,
+        "LA｜一起看海🌊",
+        -1
+      ],
+      "63c08edd000000001f00c491": [
+        "Dume",
+        "google_search_matched",
+        "LA 最美日出🌅｜malibu",
+        -1
+      ],
+      "654d1893000000003202ee43": [
+        "Point Dume National Preserve",
+        true,
+        "🌅在LA看到了美哭了的人生日出",
+        -1
+      ],
+      "647008be0000000013035101": [
+        "Point Dume",
+        true,
+        "洛杉矶马里布Point Dume",
+        -1
+      ],
+      "64729ada000000000800f7f6": [
+        "Point Dume",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "63aa9498000000001f0208f8": [
+        "【Point Dume】",
+        true,
+        "加州硅谷小情侣约会吃喝日记57｜LA篇",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Malibu Farm Pier Cafe": {
+    "place_name": "Malibu Farm Pier Cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.0356151,
+        "lng": -118.67562989999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 3821,
+    "note": [
+      "64729ada000000000800f7f6",
+      "63aa9498000000001f0208f8"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "American restaurant",
+      "Cafe",
+      "Coffee shop",
+      "Takeout Restaurant",
+      "Organic restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Malibu Farm Cafe",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "63aa9498000000001f0208f8": [
+        "【Malibu Farm Pier Cafe】",
+        true,
+        "加州硅谷小情侣约会吃喝日记57｜LA篇",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Adamson House Museum": {
+    "place_name": "Adamson House Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.034526299999996,
+        "lng": -118.68051899999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 306,
+    "note": [
+      "64729ada000000000800f7f6",
+      "646bfe4f00000000270003de"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Adamson House Museum",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ],
+      "646bfe4f00000000270003de": [
+        "Adamson House Museum",
+        true,
+        "洛杉矶宝藏景点，Malibu海边豪宅免费逛",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pepperdine University": {
+    "place_name": "Pepperdine University",
+    "geometry": {
+      "location": {
+        "lat": 34.0415037,
+        "lng": -118.70959599999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 235,
+    "note": [
+      "64729ada000000000800f7f6"
+    ],
+    "types": [
+      "Private university",
+      "College",
+      "School",
+      "University"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Pepperdine University",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Geoffrey's": {
+    "place_name": "Geoffrey's",
+    "geometry": {
+      "location": {
+        "lat": 34.0253497,
+        "lng": -118.7698216
+      }
+    },
+    "rating": 4.4,
+    "reviews": 2238,
+    "note": [
+      "654ceab7000000000f028326",
+      "64729ada000000000800f7f6"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Californian restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654ceab7000000000f028326": [
+        "Geoffrey",
+        true,
+        "🌴洛杉矶氛围感💯分的海景🌊落日餐厅合集",
+        -1
+      ],
+      "64729ada000000000800f7f6": [
+        "Geoffrey's",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu Beach Inn": {
+    "place_name": "Malibu Beach Inn",
+    "geometry": {
+      "location": {
+        "lat": 34.0380561,
+        "lng": -118.674532
+      }
+    },
+    "rating": 4.7,
+    "reviews": 455,
+    "note": [
+      "64729ada000000000800f7f6"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64729ada000000000800f7f6": [
+        "Malibu Beach Inn",
+        true,
+        "加州Malibu海边两日游🐳主打一个解压",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Gindaco Gardena": {
+    "place_name": "Gindaco Gardena",
+    "geometry": {
+      "location": {
+        "lat": 33.8720881,
+        "lng": -118.3077335
+      }
+    },
+    "rating": 4.7,
+    "reviews": 75,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Takoyaki restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "章鱼",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "20356 Pacific Coast Hwy": {
+    "place_name": "20356 Pacific Coast Hwy",
+    "geometry": {
+      "location": {
+        "lat": 34.0374915,
+        "lng": -118.6185301
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "20356 Pacific Coast Hwy , Malibu, CA 90365",
+        true,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "4:30": {
+    "place_name": "4:30",
+    "geometry": {
+      "location": {
+        "lat": 34.0791645,
+        "lng": -118.3611612
+      }
+    },
+    "rating": 4.8,
+    "reviews": 13,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Men's clothing store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "4:30",
+        "google_search_matched",
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Oyster Gourmet": {
+    "place_name": "The Oyster Gourmet",
+    "geometry": {
+      "location": {
+        "lat": 34.051113199999996,
+        "lng": -118.2494298
+      }
+    },
+    "rating": 4.2,
+    "reviews": 90,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Oyster bar restaurant",
+      "Caterer",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "生蚝",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Koi Los Angeles": {
+    "place_name": "Koi Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.084644,
+        "lng": -118.37612499999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 537,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian fusion restaurant",
+      "Asian restaurant",
+      "Japanese restaurant",
+      "Restaurant",
+      "Seafood restaurant",
+      "Sushi restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "Miso Glazed black cod🐟",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Little Swan Bakery Café": {
+    "place_name": "Little Swan Bakery Café",
+    "geometry": {
+      "location": {
+        "lat": 34.0782995,
+        "lng": -118.1127707
+      }
+    },
+    "rating": 4.2,
+    "reviews": 252,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "Chinese bakery",
+      "Cake shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "小蛋糕",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Noodle": {
+    "place_name": "Hollywood Noodle",
+    "geometry": {
+      "location": {
+        "lat": 34.107450199999995,
+        "lng": -118.02857619999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 144,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Thai restaurant",
+      "Noodle shop",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "泰式咖喱虾仁饭",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "ATM Machine at THE LEXINGTON BAR": {
+    "place_name": "ATM Machine at THE LEXINGTON BAR",
+    "geometry": {
+      "location": {
+        "lat": 34.0489489,
+        "lng": -118.24505649999999
+      }
+    },
+    "rating": 5,
+    "reviews": 1,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "ATM"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "ATM",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Plan Check Kitchen + Bar": {
+    "place_name": "Plan Check Kitchen + Bar",
+    "geometry": {
+      "location": {
+        "lat": 34.0439004,
+        "lng": -118.4459538
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1264,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "New American restaurant",
+      "American restaurant",
+      "Bar",
+      "Catering food and drink supplier",
+      "Fried chicken takeaway",
+      "Gastropub",
+      "Hamburger restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "check",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "L.A. Cash Advance": {
+    "place_name": "L.A. Cash Advance",
+    "geometry": {
+      "location": {
+        "lat": 34.0843263,
+        "lng": -117.2932295
+      }
+    },
+    "rating": 3.7,
+    "reviews": 20,
+    "note": [
+      "65347d8a000000001e02f848"
+    ],
+    "types": [
+      "Loan agency"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65347d8a000000001e02f848": [
+        "cash",
+        false,
+        "LA Malibu | 本命年生日快乐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Splashes Restaurant": {
+    "place_name": "Splashes Restaurant",
+    "geometry": {
+      "location": {
+        "lat": 33.5302778,
+        "lng": -117.77388889999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 792,
+    "note": [
+      "654ceab7000000000f028326"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "American restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654ceab7000000000f028326": [
+        "Splashes Restaurant",
+        true,
+        "🌴洛杉矶氛围感💯分的海景🌊落日餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Nobu Malibu": {
+    "place_name": "Nobu Malibu",
+    "geometry": {
+      "location": {
+        "lat": 34.0390391,
+        "lng": -118.6696477
+      }
+    },
+    "rating": 4.4,
+    "reviews": 2816,
+    "note": [
+      "654ceab7000000000f028326"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Bar"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654ceab7000000000f028326": [
+        "Nobu Malibu",
+        true,
+        "🌴洛杉矶氛围感💯分的海景🌊落日餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Élephante": {
+    "place_name": "Élephante",
+    "geometry": {
+      "location": {
+        "lat": 34.0152447,
+        "lng": -118.4979996
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1838,
+    "note": [
+      "654ceab7000000000f028326"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Italian restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654ceab7000000000f028326": [
+        "Elephante",
+        true,
+        "🌴洛杉矶氛围感💯分的海景🌊落日餐厅合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Paradise Cove Beach Café": {
+    "place_name": "Paradise Cove Beach Café",
+    "geometry": {
+      "location": {
+        "lat": 34.0202609,
+        "lng": -118.7872024
+      }
+    },
+    "rating": 4.1,
+    "reviews": 7113,
+    "note": [
+      "652f8779000000001d014002"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cafe",
+      "American restaurant",
+      "Breakfast restaurant",
+      "Family restaurant",
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f8779000000001d014002": [
+        "Paradise Cove Beach Cafe",
+        true,
+        "🇺🇸LA Malibu｜海边沙滩餐厅 Paradise Cove",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

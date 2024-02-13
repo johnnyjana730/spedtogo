@@ -1,0 +1,2991 @@
+{
+  "Griffith Park Trails": {
+    "place_name": "Griffith Park Trails",
+    "geometry": {
+      "location": {
+        "lat": 34.1218442,
+        "lng": -118.29665299999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 526,
+    "note": [
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Griffith Park Trails",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Griffith Park Trails",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Griffith Park Trails",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chino Hills State Park": {
+    "place_name": "Chino Hills State Park",
+    "geometry": {
+      "location": {
+        "lat": 33.9179635,
+        "lng": -117.72452439999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2022,
+    "note": [
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "State park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Chino hills state park",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Chino Hills State Park",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Chino Hills State Park",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Cave of Munits": {
+    "place_name": "Cave of Munits",
+    "geometry": {
+      "location": {
+        "lat": 34.1971912,
+        "lng": -118.66994469999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 223,
+    "note": [
+      "6427d8c20000000013015652",
+      "64a60578000000001c0188ca",
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Scenic spot",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "cave of munits",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "6427d8c20000000013015652": [
+        "cave of munits",
+        true,
+        "洛杉矶hiking ｜ 本来爬山洞最后变成爬山🫡",
+        -1
+      ],
+      "64a60578000000001c0188ca": [
+        "Cave of Munits",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Cave of Munits",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Cave of Munits",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Big Pine Lakes": {
+    "place_name": "Big Pine Lakes",
+    "geometry": {
+      "location": {
+        "lat": 37.130389699999995,
+        "lng": -118.5071974
+      }
+    },
+    "rating": 5,
+    "reviews": 87,
+    "note": [
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "Lake"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Big Pine Lakes",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Big Pine Lakes",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Big Pine Lakes",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Blufftop Trail": {
+    "place_name": "Blufftop Trail",
+    "geometry": {
+      "location": {
+        "lat": 33.7861889,
+        "lng": -118.41773859999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 144,
+    "note": [
+      "64a60578000000001c0188ca",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Palos Verdes Loop Trail",
+        "google_search_matched",
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Palos Verdes Loop Trail",
+        "google_search_matched",
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Palos Verdes Loop Trail",
+        "google_search_matched",
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Antelope Valley California Poppy Reserve": {
+    "place_name": "Antelope Valley California Poppy Reserve",
+    "geometry": {
+      "location": {
+        "lat": 34.7249116,
+        "lng": -118.39690619999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1766,
+    "note": [
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "State park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "645b0c32000000001203de26": [
+        "Antelope Valley California Poppy Reserve",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Antelope Valley California Poppy Reserve",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Runyon Canyon Park": {
+    "place_name": "Runyon Canyon Park",
+    "geometry": {
+      "location": {
+        "lat": 34.1125932,
+        "lng": -118.3511659
+      }
+    },
+    "rating": 4.8,
+    "reviews": 5121,
+    "note": [
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7",
+      "64d14655000000000b028551",
+      "6547db8d000000001e031e5e"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Runyon Canyon Loop",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "6547db8d000000001e031e5e": [
+        "Runyon Canyon Park",
+        true,
+        "洛杉矶Hiking Day｜徒步是陪自己好好走段路",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Runyon Canyon",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Runyon Canyon",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ],
+      "64d14655000000000b028551": [
+        "Runyon Canyon",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Mount Rubidoux Park": {
+    "place_name": "Mount Rubidoux Park",
+    "geometry": {
+      "location": {
+        "lat": 33.9843007,
+        "lng": -117.39254179999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 3796,
+    "note": [
+      "6498d8c6000000001303cdea",
+      "64a60578000000001c0188ca",
+      "6468330b0000000027011a02",
+      "645b0c32000000001203de26",
+      "63f321fa00000000120307b7"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Mount Rubidoux Park, Riverside",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ],
+      "6498d8c6000000001303cdea": [
+        "Mount Rubidoux Park, Riverside",
+        true,
+        "我宣布 这是LA周边最治愈的hiking trail⛰️!",
+        -1
+      ],
+      "645b0c32000000001203de26": [
+        "Mount Rubidoux Park",
+        true,
+        "洛杉矶周边｜周末短途旅行绝美Hiking胜地",
+        -1
+      ],
+      "63f321fa00000000120307b7": [
+        "Mount Rubidoux Park",
+        true,
+        "洛杉矶8个绝美hiking好去处！",
+        -1
+      ],
+      "6468330b0000000027011a02": [
+        "Mount Rubidoux Park",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Buckhorn Campground": {
+    "place_name": "Buckhorn Campground",
+    "geometry": {
+      "location": {
+        "lat": 34.3471542,
+        "lng": -117.9129584
+      }
+    },
+    "rating": 4.5,
+    "reviews": 126,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "Campground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Buckhorn Campground",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Millard Falls": {
+    "place_name": "Millard Falls",
+    "geometry": {
+      "location": {
+        "lat": 34.2188158,
+        "lng": -118.14185429999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 414,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Millard Canyon Falls",
+        "google_search_matched",
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Switzer Picnic Area": {
+    "place_name": "Switzer Picnic Area",
+    "geometry": {
+      "location": {
+        "lat": 34.2659595,
+        "lng": -118.14466209999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 163,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "Picnic ground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Swizer Picnic Area",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bridge to Nowhere - Trailhead": {
+    "place_name": "Bridge to Nowhere - Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.2370999,
+        "lng": -117.764899
+      }
+    },
+    "rating": 4.7,
+    "reviews": 552,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Bridge to Nowhere",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Crystal Lake Camp Grounds": {
+    "place_name": "Crystal Lake Camp Grounds",
+    "geometry": {
+      "location": {
+        "lat": 34.323879,
+        "lng": -117.8321046
+      }
+    },
+    "rating": 4.6,
+    "reviews": 466,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "Campground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Crystal Lake Campground",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lewis Falls": {
+    "place_name": "Lewis Falls",
+    "geometry": {
+      "location": {
+        "lat": 34.3070364,
+        "lng": -117.83666579999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 155,
+    "note": [
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b71d99000000001c00e7eb": [
+        "Lewis Fall Trail",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Icehouse Canyon Trailhead": {
+    "place_name": "Icehouse Canyon Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.2501815,
+        "lng": -117.6362382
+      }
+    },
+    "rating": 4.8,
+    "reviews": 974,
+    "note": [
+      "6549eed60000000004038bfb",
+      "654da4b50000000033001323",
+      "6535aa59000000002201c91b",
+      "64b71d99000000001c00e7eb"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6549eed60000000004038bfb": [
+        "Icehouse Canyon Trail",
+        true,
+        "LA Hiking 记录- Cucamonga Peak",
+        -1
+      ],
+      "654da4b50000000033001323": [
+        "Ice House Canyon Trail",
+        true,
+        "🍂沿溪踏秋好去处｜洛杉矶LA Hiking",
+        -1
+      ],
+      "6535aa59000000002201c91b": [
+        "导航地点：Icehouse Canyon Trailhead",
+        true,
+        "LA Hiking - Ice House Canyon Trail",
+        -1
+      ],
+      "64b71d99000000001c00e7eb": [
+        "Ice house Canyon Trail",
+        true,
+        "总结LA Angeles National Forest好玩的地方",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Eaton Saddle Trailhead": {
+    "place_name": "Eaton Saddle Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.239377399999995,
+        "lng": -118.0933634
+      }
+    },
+    "rating": 4.8,
+    "reviews": 161,
+    "note": [
+      "65349a50000000001e0202a6"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65349a50000000001e0202a6": [
+        "Eaton saddle trailhead parking lot.",
+        true,
+        "Pasadena的天然氧吧 | Mt. Lowe Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "6WQ4+PMF": {
+    "place_name": "6WQ4+PMF",
+    "geometry": {
+      "location": {
+        "lat": 34.2393125,
+        "lng": -118.0933281
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65349a50000000001e0202a6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65349a50000000001e0202a6": [
+        "6WQ4+PMF Mt Wilson, California.",
+        true,
+        "Pasadena的天然氧吧 | Mt. Lowe Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Angeles Crest Hwy": {
+    "place_name": "Angeles Crest Hwy",
+    "geometry": {
+      "location": {
+        "lat": 34.3436279,
+        "lng": -117.9096864
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64ec25c0000000001201c625"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ec25c0000000001201c625": [
+        "Angeles Crest Highway",
+        true,
+        "🍀LA宝藏hiking｜值得N刷的Switzer Falls",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Switzer Falls Trail": {
+    "place_name": "Switzer Falls Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.266234,
+        "lng": -118.145754
+      }
+    },
+    "rating": 4.7,
+    "reviews": 674,
+    "note": [
+      "64ec25c0000000001201c625",
+      "64ceb972000000001201a9aa",
+      "64b4f5280000000015033d96"
+    ],
+    "types": [
+      "Wandelroutes",
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ceb972000000001201a9aa": [
+        "Swizer Falls",
+        true,
+        "洛杉矶Switzer Falls Trail - 舒服的徒步",
+        -1
+      ],
+      "64b4f5280000000015033d96": [
+        "Swizer Fall Trail",
+        true,
+        "LA Hiking推薦📍Switzer Fall",
+        -1
+      ],
+      "64ec25c0000000001201c625": [
+        "Swizer Falls Trail",
+        true,
+        "🍀LA宝藏hiking｜值得N刷的Switzer Falls",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Old Pasadena": {
+    "place_name": "Old Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.1460422,
+        "lng": -118.1499439
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1306,
+    "note": [
+      "64ec25c0000000001201c625"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ec25c0000000001201c625": [
+        "Pasadena Old Town",
+        "google_search_matched",
+        "🍀LA宝藏hiking｜值得N刷的Switzer Falls",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Echo Mountain": {
+    "place_name": "Echo Mountain",
+    "geometry": {
+      "location": {
+        "lat": 34.210997299999995,
+        "lng": -118.1204144
+      }
+    },
+    "rating": 4.9,
+    "reviews": 79,
+    "note": [
+      "64d14655000000000b028551"
+    ],
+    "types": [
+      "Mountain peak"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d14655000000000b028551": [
+        "Echo Mountain",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Corral Canyon Loop Trail": {
+    "place_name": "Corral Canyon Loop Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.0386506,
+        "lng": -118.7326937
+      }
+    },
+    "rating": 5,
+    "reviews": 3,
+    "note": [
+      "64d14655000000000b028551"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d14655000000000b028551": [
+        "Corral Canyon",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Portuguese Bend Reserve": {
+    "place_name": "Portuguese Bend Reserve",
+    "geometry": {
+      "location": {
+        "lat": 33.757140899999996,
+        "lng": -118.3666701
+      }
+    },
+    "rating": 4.7,
+    "reviews": 731,
+    "note": [
+      "64d14655000000000b028551"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Nature preserve",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d14655000000000b028551": [
+        "Portuguese Bend Reserve 🚶‍♀️",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Baldwin Hills Scenic Overlook": {
+    "place_name": "Baldwin Hills Scenic Overlook",
+    "geometry": {
+      "location": {
+        "lat": 34.0182,
+        "lng": -118.3819125
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4578,
+    "note": [
+      "64d14655000000000b028551",
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Baldwon Hills Scenic Overlook",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ],
+      "64d14655000000000b028551": [
+        "Baldwin Hills Scenic Overlook",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Griffith Park": {
+    "place_name": "Griffith Park",
+    "geometry": {
+      "location": {
+        "lat": 34.1365544,
+        "lng": -118.29419999999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 64875,
+    "note": [
+      "64d14655000000000b028551"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Recreation center",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64d14655000000000b028551": [
+        "Griffith Park",
+        true,
+        "6条洛杉矶宝藏徒步路线⛰️",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Big Dalton Canyon Trail": {
+    "place_name": "Big Dalton Canyon Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.1589636,
+        "lng": -117.8285619
+      }
+    },
+    "rating": 4.7,
+    "reviews": 52,
+    "note": [
+      "6536a604000000001f03f7f2"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6536a604000000001f03f7f2": [
+        "Big Dalton Canyon Trail",
+        true,
+        "LA hiking｜好好珍惜每一次与伙伴的徒步时光",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Angeles National Forest": {
+    "place_name": "Angeles National Forest",
+    "geometry": {
+      "location": {
+        "lat": 34.3166667,
+        "lng": -118.0057966
+      }
+    },
+    "rating": 4.7,
+    "reviews": 15341,
+    "note": [
+      "64ceb972000000001201a9aa",
+      "6536a604000000001f03f7f2"
+    ],
+    "types": [
+      "National forest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ceb972000000001201a9aa": [
+        "Angeles National Park",
+        true,
+        "洛杉矶Switzer Falls Trail - 舒服的徒步",
+        -1
+      ],
+      "6536a604000000001f03f7f2": [
+        "快樂秘籍 多爬山",
+        false,
+        "LA hiking｜好好珍惜每一次与伙伴的徒步时光",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "9160 Whitewater Canyon Rd": {
+    "place_name": "9160 Whitewater Canyon Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.987775899999995,
+        "lng": -116.655673
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64a85f32000000002f025c41"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a85f32000000002f025c41": [
+        "9160 Whitewater Canyon Rd, Whitewater, CA 92282",
+        true,
+        "打卡洛杉矶小九寨沟🐶遛狗遛娃都合适的绿洲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Whitewater Preserve": {
+    "place_name": "Whitewater Preserve",
+    "geometry": {
+      "location": {
+        "lat": 33.988317699999996,
+        "lng": -116.655754
+      }
+    },
+    "rating": 4.8,
+    "reviews": 1292,
+    "note": [
+      "64a85f32000000002f025c41"
+    ],
+    "types": [
+      "natural_feature",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Nature preserve",
+      "Campground",
+      "Hiking area",
+      "Non-profit organization",
+      "Park",
+      "Picnic ground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a85f32000000002f025c41": [
+        "Whitewater Preserve",
+        true,
+        "打卡洛杉矶小九寨沟🐶遛狗遛娃都合适的绿洲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Whitewater Canyon Rd": {
+    "place_name": "Whitewater Canyon Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.9582273,
+        "lng": -116.646895
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64a85f32000000002f025c41"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a85f32000000002f025c41": [
+        "Whitewater Canyon Rd, Whitewater, CA 92282",
+        true,
+        "打卡洛杉矶小九寨沟🐶遛狗遛娃都合适的绿洲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LADOT Parking": {
+    "place_name": "LADOT Parking",
+    "geometry": {
+      "location": {
+        "lat": 34.1206327,
+        "lng": -118.2058873
+      }
+    },
+    "rating": 3.3,
+    "reviews": 8,
+    "note": [
+      "6535aa59000000002201c91b"
+    ],
+    "types": [
+      "park",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6535aa59000000002201c91b": [
+        "停车需要Pass",
+        false,
+        "LA Hiking - Ice House Canyon Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles International Airport": {
+    "place_name": "Los Angeles International Airport",
+    "geometry": {
+      "location": {
+        "lat": 33.943790199999995,
+        "lng": -118.4091036
+      }
+    },
+    "rating": 3.9,
+    "reviews": 45535,
+    "note": [
+      "6535aa59000000002201c91b"
+    ],
+    "types": [
+      "International airport",
+      "Airport"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6535aa59000000002201c91b": [
+        "环线往返",
+        false,
+        "LA Hiking - Ice House Canyon Trail",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Baldy Bowl Trailhead": {
+    "place_name": "Baldy Bowl Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.2681247,
+        "lng": -117.6295092
+      }
+    },
+    "rating": 4.9,
+    "reviews": 79,
+    "note": [
+      "6535aa59000000002201c91b"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6535aa59000000002201c91b": [
+        "Baldy",
+        false,
+        "LA Hiking - Ice House Canyon Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rancho Palos Verdes": {
+    "place_name": "Rancho Palos Verdes",
+    "geometry": {
+      "location": {
+        "lat": 33.7444613,
+        "lng": -118.3870173
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64a60578000000001c0188ca"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Palos Verdes",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pasadena": {
+    "place_name": "Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.1477849,
+        "lng": -118.1445155
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64a60578000000001c0188ca",
+      "64e7eedf000000000103c9a7",
+      "64b458190000000016027716"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Pasadena",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ],
+      "64e7eedf000000000103c9a7": [
+        "Pasadena",
+        true,
+        "LA夏季hiking圣地 | Eaton Canyon Falls",
+        -1
+      ],
+      "64b458190000000016027716": [
+        "Pasadena",
+        true,
+        "LA｜瀑布小溪hiking trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood": {
+    "place_name": "Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.0928092,
+        "lng": -118.3286614
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64a60578000000001c0188ca"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Hollywood",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mount Hollywood Trl": {
+    "place_name": "Mount Hollywood Trl",
+    "geometry": {
+      "location": {
+        "lat": 34.124557599999996,
+        "lng": -118.3019533
+      }
+    },
+    "rating": 5,
+    "reviews": 21,
+    "note": [
+      "64a60578000000001c0188ca"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Mount Hollywood",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eaton Canyon Falls Trail": {
+    "place_name": "Eaton Canyon Falls Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.194609,
+        "lng": -118.10250099999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64e7eedf000000000103c9a7",
+      "63eecdc70000000012030f02",
+      "64a60578000000001c0188ca"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63eecdc70000000012030f02": [
+        "Eaton Canyon Trail(Pasadena)",
+        "google_search_matched",
+        "最爱的短徒步线路Pasadena",
+        -1
+      ],
+      "64e7eedf000000000103c9a7": [
+        "Eaton Canyon Falls Trail",
+        true,
+        "LA夏季hiking圣地 | Eaton Canyon Falls",
+        -1
+      ],
+      "64a60578000000001c0188ca": [
+        "Eaton Canyon Hiking Trail",
+        "google_search_matched",
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eaton Canyon": {
+    "place_name": "Eaton Canyon",
+    "geometry": {
+      "location": {
+        "lat": 34.1757898,
+        "lng": -118.0961619
+      }
+    },
+    "rating": 4.7,
+    "reviews": 476,
+    "note": [
+      "64a60578000000001c0188ca"
+    ],
+    "types": [
+      "Wandelroutes",
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64a60578000000001c0188ca": [
+        "Eaton Canyon",
+        true,
+        "LA hiking| 在LA总要爬一次山看日落吧",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Aliso Summit Hiking Trail": {
+    "place_name": "Aliso Summit Hiking Trail",
+    "geometry": {
+      "location": {
+        "lat": 33.5375446,
+        "lng": -117.72366369999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 168,
+    "note": [
+      "63f961070000000011011329"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63f961070000000011011329": [
+        "Aliso Summit Hiking Trail",
+        true,
+        "Hiking一下🏃🏻‍♀️",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Millard Canyon Creek": {
+    "place_name": "Millard Canyon Creek",
+    "geometry": {
+      "location": {
+        "lat": 34.2158194,
+        "lng": -118.1482782
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64b458190000000016027716"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b458190000000016027716": [
+        "Millard Canyon",
+        true,
+        "LA｜瀑布小溪hiking trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Trail Canyon Falls": {
+    "place_name": "Trail Canyon Falls",
+    "geometry": {
+      "location": {
+        "lat": 34.3204227,
+        "lng": -118.2554931
+      }
+    },
+    "rating": 4.7,
+    "reviews": 485,
+    "note": [
+      "64b458190000000016027716",
+      "64ceb972000000001201a9aa"
+    ],
+    "types": [
+      "Wandelroutes",
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ceb972000000001201a9aa": [
+        "Canyon Falls Trail",
+        "google_search_matched",
+        "洛杉矶Switzer Falls Trail - 舒服的徒步",
+        -1
+      ],
+      "64b458190000000016027716": [
+        "Waterfall hike",
+        false,
+        "LA｜瀑布小溪hiking trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "24501 Vanowen St": {
+    "place_name": "24501 Vanowen St",
+    "geometry": {
+      "location": {
+        "lat": 34.1953582,
+        "lng": -118.6584781
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6427d8c20000000013015652",
+      "64475f1b000000000800dccc"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6427d8c20000000013015652": [
+        "24501 Vanowen St, West Hills, CA 91307",
+        true,
+        "洛杉矶hiking ｜ 本来爬山洞最后变成爬山🫡",
+        -1
+      ],
+      "64475f1b000000000800dccc": [
+        "24501 Vanowen St, West Hills, CA 91307",
+        true,
+        "洛杉矶Hiking｜Cave of munits最美封面🧗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "San Dimas": {
+    "place_name": "San Dimas",
+    "geometry": {
+      "location": {
+        "lat": 34.106675599999996,
+        "lng": -117.8067257
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64681a8f000000001303cab1"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64681a8f000000001303cab1": [
+        "San Dimas",
+        true,
+        "LA市内｜八条绝美徒步路线 小众超出片！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Los Angeles": {
+    "place_name": "Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0487969,
+        "lng": -118.2517828
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64681a8f000000001303cab1",
+      "642a5c4600000000130095e8"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642a5c4600000000130095e8": [
+        "DTLA的高楼、城市与海的连接",
+        "google_search_matched",
+        "洛杉矶Hiking⛰️坐在山头长椅看海➕Cafe 27",
+        -1
+      ],
+      "64681a8f000000001303cab1": [
+        "DTLA",
+        "google_search_matched",
+        "LA市内｜八条绝美徒步路线 小众超出片！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Baldwin Hills": {
+    "place_name": "Baldwin Hills",
+    "geometry": {
+      "location": {
+        "lat": 34.0193012,
+        "lng": -118.3666482
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64681a8f000000001303cab1"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64681a8f000000001303cab1": [
+        "Baldwin Hills",
+        true,
+        "LA市内｜八条绝美徒步路线 小众超出片！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Crystal Springs Picnic Area": {
+    "place_name": "Crystal Springs Picnic Area",
+    "geometry": {
+      "location": {
+        "lat": 34.1324659,
+        "lng": -118.2769562
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1088,
+    "note": [
+      "64ceb972000000001201a9aa"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Picnic ground",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ceb972000000001201a9aa": [
+        "Picnic Area",
+        true,
+        "洛杉矶Switzer Falls Trail - 舒服的徒步",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Angels Flight Railway": {
+    "place_name": "Angels Flight Railway",
+    "geometry": {
+      "location": {
+        "lat": 34.0516174,
+        "lng": -118.2506142
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2399,
+    "note": [
+      "64ceb972000000001201a9aa"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64ceb972000000001201a9aa": [
+        "终点",
+        false,
+        "洛杉矶Switzer Falls Trail - 舒服的徒步",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "public parking": {
+    "place_name": "public parking",
+    "geometry": {
+      "location": {
+        "lat": 34.062667,
+        "lng": -118.2868907
+      }
+    },
+    "rating": 3.5,
+    "reviews": 2,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "park",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "停车场",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La Sierra Drive Trailhead": {
+    "place_name": "La Sierra Drive Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.007773799999995,
+        "lng": -117.75997079999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 162,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "Trail开始一直沿着水泥路走",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Puente Ready Mix Inc": {
+    "place_name": "Puente Ready Mix Inc",
+    "geometry": {
+      "location": {
+        "lat": 34.033386199999995,
+        "lng": -117.9688949
+      }
+    },
+    "rating": 2.5,
+    "reviews": 19,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "Ready mix concrete supplier"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "水泥路",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Broad Street Oyster Company": {
+    "place_name": "Broad Street Oyster Company",
+    "geometry": {
+      "location": {
+        "lat": 34.0355123,
+        "lng": -118.683917
+      }
+    },
+    "rating": 4.4,
+    "reviews": 908,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "Broad Street Oyster Company",
+        true,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica Pier": {
+    "place_name": "Santa Monica Pier",
+    "geometry": {
+      "location": {
+        "lat": 34.008282099999995,
+        "lng": -118.4987585
+      }
+    },
+    "rating": 4.6,
+    "reviews": 111068,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Fishing pier",
+      "Historical landmark",
+      "Tourist attraction",
+      "Visitor center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "较宽的溪流",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Hidden Valley Nature Trail Trailhead": {
+    "place_name": "Hidden Valley Nature Trail Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.0124685,
+        "lng": -116.16805679999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 1673,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Scenic spot",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "AllTrails离线地图",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Marmalade Cafe - Sherman Oaks": {
+    "place_name": "Marmalade Cafe - Sherman Oaks",
+    "geometry": {
+      "location": {
+        "lat": 34.152103499999996,
+        "lng": -118.4578236
+      }
+    },
+    "rating": 4.3,
+    "reviews": 1167,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Californian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "Marmalade Cafe",
+        true,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Solstice Canyon": {
+    "place_name": "Solstice Canyon",
+    "geometry": {
+      "location": {
+        "lat": 34.038993,
+        "lng": -118.75515399999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1010,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "Solstice Canyon Loop",
+        true,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Greystone Mansion & Gardens: The Doheny Estate": {
+    "place_name": "Greystone Mansion & Gardens: The Doheny Estate",
+    "geometry": {
+      "location": {
+        "lat": 34.0921783,
+        "lng": -118.4012868
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2600,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "tourist_attraction",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Event venue",
+      "Park",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "石阶",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "洛杉矶星光大道": {
+    "place_name": "洛杉矶星光大道",
+    "geometry": {
+      "location": {
+        "lat": 34.1015539,
+        "lng": -118.33871909999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 40,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "几条岔路",
+        false,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Solstice Canyon Education Shelter": {
+    "place_name": "Solstice Canyon Education Shelter",
+    "geometry": {
+      "location": {
+        "lat": 34.0375058,
+        "lng": -118.7475199
+      }
+    },
+    "rating": 4.7,
+    "reviews": 28,
+    "note": [
+      "64309426000000002701338a"
+    ],
+    "types": [
+      "Wandelroutes"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64309426000000002701338a": [
+        "Solstice Canyon Education Shelter",
+        true,
+        "洛杉矶Hiking⛰️Solstice看海边层层叠叠的山",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "24420 Vanowen St": {
+    "place_name": "24420 Vanowen St",
+    "geometry": {
+      "location": {
+        "lat": 34.1950456,
+        "lng": -118.6579903
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "652e9ef1000000001f00442a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652e9ef1000000001f00442a": [
+        "24420 Vanowen St, West Hills, CA 91307",
+        true,
+        "LA周边｜Cave of Munits 爬山 远足 攀岩",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LALA'S Downtown Los Angeles": {
+    "place_name": "LALA'S Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0418713,
+        "lng": -118.255055
+      }
+    },
+    "rating": 4.4,
+    "reviews": 425,
+    "note": [
+      "654da4b50000000033001323"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "snack",
+      "Argentinian restaurant",
+      "Steak house"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654da4b50000000033001323": [
+        "LA Downtown",
+        true,
+        "🍂沿溪踏秋好去处｜洛杉矶LA Hiking",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Burbank Peak": {
+    "place_name": "Burbank Peak",
+    "geometry": {
+      "location": {
+        "lat": 34.135955599999996,
+        "lng": -118.33208499999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 26,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Burbank Peak Trail",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Innsdale Dr": {
+    "place_name": "Innsdale Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.1300449,
+        "lng": -118.326759
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Innsdale Drive",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sara Wan Trailhead at Corral Canyon": {
+    "place_name": "Sara Wan Trailhead at Corral Canyon",
+    "geometry": {
+      "location": {
+        "lat": 34.0337765,
+        "lng": -118.7347331
+      }
+    },
+    "rating": 4.5,
+    "reviews": 109,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "natural_feature",
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Event venue",
+      "Hiking area",
+      "Parking lot",
+      "Scenic spot",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "The Sara Wan Trailhead at Corral Canyon",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hummingbird Trail": {
+    "place_name": "Hummingbird Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.282042,
+        "lng": -118.660311
+      }
+    },
+    "rating": 4.7,
+    "reviews": 230,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Hummingbird Trail",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Topanga Lookout Trailhead": {
+    "place_name": "Topanga Lookout Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.0811995,
+        "lng": -118.6458614
+      }
+    },
+    "rating": 4.8,
+    "reviews": 404,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Topanga Lookout",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollyridge Trl": {
+    "place_name": "Hollyridge Trl",
+    "geometry": {
+      "location": {
+        "lat": 34.1305706,
+        "lng": -118.31365729999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Hollyridge Trail",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Sign": {
+    "place_name": "Hollywood Sign",
+    "geometry": {
+      "location": {
+        "lat": 34.134115099999995,
+        "lng": -118.3215482
+      }
+    },
+    "rating": 4.6,
+    "reviews": 9611,
+    "note": [
+      "64405abf000000001301207f"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64405abf000000001301207f": [
+        "Hollywood Sign",
+        true,
+        "⛰️洛杉矶徒步路线｜为了这些风景累也值了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "丁胖子广场": {
+    "place_name": "丁胖子广场",
+    "geometry": {
+      "location": {
+        "lat": 34.063119799999996,
+        "lng": -118.12183599999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 124,
+    "note": [
+      "642a5c4600000000130095e8"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642a5c4600000000130095e8": [
+        "小土坡上的长椅",
+        false,
+        "洛杉矶Hiking⛰️坐在山头长椅看海➕Cafe 27",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La Tuna Canyon Trail": {
+    "place_name": "La Tuna Canyon Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.2281464,
+        "lng": -118.307023
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "642a5c4600000000130095e8"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642a5c4600000000130095e8": [
+        "Tuna Canyon Trail",
+        true,
+        "洛杉矶Hiking⛰️坐在山头长椅看海➕Cafe 27",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Cafe on 27": {
+    "place_name": "Cafe on 27",
+    "geometry": {
+      "location": {
+        "lat": 34.1199438,
+        "lng": -118.5921951
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1121,
+    "note": [
+      "642a5c4600000000130095e8"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "American restaurant",
+      "Cafe",
+      "Coffee shop",
+      "Diner",
+      "Organic restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642a5c4600000000130095e8": [
+        "Cafe on 27早餐",
+        true,
+        "洛杉矶Hiking⛰️坐在山头长椅看海➕Cafe 27",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tuna Canyon Trail Head": {
+    "place_name": "Tuna Canyon Trail Head",
+    "geometry": {
+      "location": {
+        "lat": 34.0597682,
+        "lng": -118.6169875
+      }
+    },
+    "rating": 4.8,
+    "reviews": 120,
+    "note": [
+      "642a5c4600000000130095e8"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "642a5c4600000000130095e8": [
+        "Tuna Canyon Trail Head",
+        true,
+        "洛杉矶Hiking⛰️坐在山头长椅看海➕Cafe 27",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Leones Canyon": {
+    "place_name": "Los Leones Canyon",
+    "geometry": {
+      "location": {
+        "lat": 34.047355599999996,
+        "lng": -118.560069
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1028,
+    "note": [
+      "64fa30e2000000001d01454c"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fa30e2000000001d01454c": [
+        "Los Leones Canyon",
+        true,
+        "🇺🇸LA周末｜360度看海hiking trail‼️太美啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "510 Los Liones Dr": {
+    "place_name": "510 Los Liones Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.045836099999995,
+        "lng": -118.5595809
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64fa30e2000000001d01454c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64fa30e2000000001d01454c": [
+        "510 Los LIONS Dr, Pacific Palisades, CA 90272",
+        true,
+        "🇺🇸LA周末｜360度看海hiking trail‼️太美啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wayfarers Chapel": {
+    "place_name": "Wayfarers Chapel",
+    "geometry": {
+      "location": {
+        "lat": 33.7440107,
+        "lng": -118.3778475
+      }
+    },
+    "rating": 4.8,
+    "reviews": 651,
+    "note": [
+      "65134e38000000001f03c495"
+    ],
+    "types": [
+      "Christian church",
+      "Church",
+      "Wedding chapel",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65134e38000000001f03c495": [
+        "附近步行几分钟还有个玻璃教堂超美（下篇更新）",
+        false,
+        "洛杉矶周末徒步好去处｜沿海hiking🧗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Abalone Cove Shoreline Park": {
+    "place_name": "Abalone Cove Shoreline Park",
+    "geometry": {
+      "location": {
+        "lat": 33.743853099999995,
+        "lng": -118.3814081
+      }
+    },
+    "rating": 4.7,
+    "reviews": 7,
+    "note": [
+      "65134e38000000001f03c495"
+    ],
+    "types": [
+      "park",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65134e38000000001f03c495": [
+        "Ranchos Palos Verdes • Abalone Cove Shoreline Park",
+        true,
+        "洛杉矶周末徒步好去处｜沿海hiking🧗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Point Lobos State Natural Reserve": {
+    "place_name": "Point Lobos State Natural Reserve",
+    "geometry": {
+      "location": {
+        "lat": 36.515912799999995,
+        "lng": -121.93823979999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 8744,
+    "note": [
+      "65134e38000000001f03c495"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "State park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65134e38000000001f03c495": [
+        "沿海hiking",
+        false,
+        "洛杉矶周末徒步好去处｜沿海hiking🧗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Red 8": {
+    "place_name": "Red 8",
+    "geometry": {
+      "location": {
+        "lat": 36.1258473,
+        "lng": -115.1655428
+      }
+    },
+    "rating": 4.2,
+    "reviews": 598,
+    "note": [
+      "65134e38000000001f03c495"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Asian restaurant",
+      "Chinese restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65134e38000000001f03c495": [
+        "我们现在去已经没有啦",
+        false,
+        "洛杉矶周末徒步好去处｜沿海hiking🧗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Escondido Falls": {
+    "place_name": "Escondido Falls",
+    "geometry": {
+      "location": {
+        "lat": 34.043180299999996,
+        "lng": -118.77948239999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 673,
+    "note": [
+      "6468330b0000000027011a02",
+      "652f0151000000001e03154b",
+      "652b66bc000000001e028516"
+    ],
+    "types": [
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652b66bc000000001e028516": [
+        "Escondido Falls 🧗",
+        true,
+        "洛杉矶一起徒步｜每周一山Escondido Falls",
+        -1
+      ],
+      "6468330b0000000027011a02": [
+        "Escondido Canyon and Falls",
+        "google_search_matched",
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ],
+      "652f0151000000001e03154b": [
+        "Malibu Escondido Falls Trail",
+        true,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Leo Carrillo State Park": {
+    "place_name": "Leo Carrillo State Park",
+    "geometry": {
+      "location": {
+        "lat": 34.062198099999996,
+        "lng": -118.9279067
+      }
+    },
+    "rating": 4.7,
+    "reviews": 3217,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "State park",
+      "Public beach",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Leo Carrillo",
+        true,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rock pool trailhead": {
+    "place_name": "Rock pool trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.0963405,
+        "lng": -118.7170785
+      }
+    },
+    "rating": 5,
+    "reviews": 3,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "Wandelroutes"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Rock Pool via Crags Road Loop",
+        false,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Backbone Trail": {
+    "place_name": "Backbone Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.079598,
+        "lng": -118.77791939999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Malibu Backbone Trail",
+        true,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Point Dume": {
+    "place_name": "Point Dume",
+    "geometry": {
+      "location": {
+        "lat": 34.001201,
+        "lng": -118.80644199999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6730,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "natural_feature",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "natural_feature",
+      "tourist_attraction",
+      "Tourist attraction",
+      "Hiking area",
+      "Park",
+      "Public beach",
+      "Scenic spot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Point Dume",
+        true,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Leo Carrillo State Beach": {
+    "place_name": "Leo Carrillo State Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0436171,
+        "lng": -118.9358055
+      }
+    },
+    "rating": 4.7,
+    "reviews": 745,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "natural_feature",
+      "Beach"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Leo Carrillo Dog Beach",
+        "google_search_matched",
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu Creek Rock Pools": {
+    "place_name": "Malibu Creek Rock Pools",
+    "geometry": {
+      "location": {
+        "lat": 34.0963269,
+        "lng": -118.7298331
+      }
+    },
+    "rating": 4.7,
+    "reviews": 547,
+    "note": [
+      "652f0151000000001e03154b"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "652f0151000000001e03154b": [
+        "Rock Pool and Century Lake Trails",
+        false,
+        "洛杉矶Malibu户外好去处小结",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bronson Canyon": {
+    "place_name": "Bronson Canyon",
+    "geometry": {
+      "location": {
+        "lat": 34.1213309,
+        "lng": -118.31433709999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 421,
+    "note": [
+      "6468330b0000000027011a02"
+    ],
+    "types": [
+      "Toeristische attractie",
+      "Wandelroutes"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Bronson Canyon",
+        true,
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fern Dell Nature Trail": {
+    "place_name": "Fern Dell Nature Trail",
+    "geometry": {
+      "location": {
+        "lat": 34.1093847,
+        "lng": -118.3076918
+      }
+    },
+    "rating": 4.8,
+    "reviews": 1420,
+    "note": [
+      "6468330b0000000027011a02"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park",
+      "Toeristische attractie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6468330b0000000027011a02": [
+        "Fern Dell Picnic area",
+        "google_search_matched",
+        "拒绝都市焦虑❌洛杉矶周边Hiking胜地🚶",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mt Wilson/Pinecrest Gate": {
+    "place_name": "Mt Wilson/Pinecrest Gate",
+    "geometry": {
+      "location": {
+        "lat": 34.191758799999995,
+        "lng": -118.1055463
+      }
+    },
+    "rating": 4.7,
+    "reviews": 596,
+    "note": [
+      "63eecdc70000000012030f02"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63eecdc70000000012030f02": [
+        "Mt Wilson/Pinecrest Gate （Mt Wilson Toll Rd, Altadena, CA 91001）",
+        true,
+        "最爱的短徒步线路Pasadena",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bridalveil Fall": {
+    "place_name": "Bridalveil Fall",
+    "geometry": {
+      "location": {
+        "lat": 37.716668999999996,
+        "lng": -119.6463888
+      }
+    },
+    "rating": 4.7,
+    "reviews": 213,
+    "note": [
+      "63eecdc70000000012030f02"
+    ],
+    "types": [
+      "Waterfall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63eecdc70000000012030f02": [
+        "瀑布",
+        false,
+        "最爱的短徒步线路Pasadena",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1750 N Altadena Dr": {
+    "place_name": "1750 N Altadena Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.1770924,
+        "lng": -118.0970038
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63eecdc70000000012030f02"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63eecdc70000000012030f02": [
+        "1750 North Altadena Drive, Pasadena, CA",
+        "google_search_matched",
+        "最爱的短徒步线路Pasadena",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

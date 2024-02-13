@@ -1,0 +1,3495 @@
+{
+  "Grand Central Market": {
+    "place_name": "Grand Central Market",
+    "geometry": {
+      "location": {
+        "lat": 34.050872,
+        "lng": -118.2490552
+      }
+    },
+    "rating": 4.5,
+    "reviews": 30461,
+    "note": [
+      "64929f520000000013011b86",
+      "64cd63af000000001201bbf9",
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Food court",
+      "Market",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "大中央市场（Grand Central Market)",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "Grand Central Market",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "Grand Central Market 大中央市场",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Paul Smith Pink Wall": {
+    "place_name": "The Paul Smith Pink Wall",
+    "geometry": {
+      "location": {
+        "lat": 34.0838445,
+        "lng": -118.3689048
+      }
+    },
+    "rating": 4,
+    "reviews": 681,
+    "note": [
+      "64b8d659000000000a01bb4b",
+      "646fcb040000000012032782",
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b8d659000000000a01bb4b": [
+        "洛杉矶粉红墙",
+        "google_search_matched",
+        "来洛杉矶一生总要去一次的地方",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "the pink wall粉红墙",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "网红Paul smith粉红墙",
+        false,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Warner Bros. Studio Tour Hollywood": {
+    "place_name": "Warner Bros. Studio Tour Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.151323,
+        "lng": -118.33625789999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 3395,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction",
+      "Movie studio"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "Warner Bro Studio",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Universal Studios Hollywood": {
+    "place_name": "Universal Studios Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1381168,
+        "lng": -118.35337829999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 147511,
+    "note": [
+      "64f14c7a000000001f039c68",
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Amusement park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "Universal Studios Hollywood",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "Universal Studio Hollywood",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Walk of the Stars Palm Springs": {
+    "place_name": "Walk of the Stars Palm Springs",
+    "geometry": {
+      "location": {
+        "lat": 33.823160699999995,
+        "lng": -116.54671099999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 765,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "S Palm Drive 棕榈大道",
+        false,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Colette Miller GlobalAngelWingsProject": {
+    "place_name": "Colette Miller GlobalAngelWingsProject",
+    "geometry": {
+      "location": {
+        "lat": 34.041950199999995,
+        "lng": -118.2364037
+      }
+    },
+    "rating": 4.3,
+    "reviews": 53,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "Scenic spot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "Colette Miller的天使翅膀",
+        false,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Beverly Hilton": {
+    "place_name": "The Beverly Hilton",
+    "geometry": {
+      "location": {
+        "lat": 34.0664073,
+        "lng": -118.4126525
+      }
+    },
+    "rating": 4.4,
+    "reviews": 3062,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "Beverly Hills Hotel绿墙",
+        false,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Public Art \"Urban Light\"": {
+    "place_name": "Public Art \"Urban Light\"",
+    "geometry": {
+      "location": {
+        "lat": 34.0630235,
+        "lng": -118.35923729999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 10282,
+    "note": [
+      "646fcb040000000012032782",
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Cultural landmark",
+      "Sculpture"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Public Art \"Urban Light\"灯柱",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "LACMA 打卡Urban Light网红灯柱",
+        false,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Elysian Park": {
+    "place_name": "Elysian Park",
+    "geometry": {
+      "location": {
+        "lat": 34.0810356,
+        "lng": -118.23488139999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 156,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "Elysian Park秋千",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles City Hall": {
+    "place_name": "Los Angeles City Hall",
+    "geometry": {
+      "location": {
+        "lat": 34.0537136,
+        "lng": -118.2426533
+      }
+    },
+    "rating": 4.4,
+    "reviews": 600,
+    "note": [
+      "65106e2d000000001303f94b",
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "City Hall",
+      "City government office",
+      "Government office",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65106e2d000000001303f94b": [
+        "P4 City Hall",
+        true,
+        "LA比弗利山庄📷",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "Los Angeles City Hall市政厅",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Sign": {
+    "place_name": "Hollywood Sign",
+    "geometry": {
+      "location": {
+        "lat": 34.134115099999995,
+        "lng": -118.3215482
+      }
+    },
+    "rating": 4.6,
+    "reviews": 9615,
+    "note": [
+      "64b8d659000000000a01bb4b",
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b8d659000000000a01bb4b": [
+        "好莱坞标志",
+        "google_search_matched",
+        "来洛杉矶一生总要去一次的地方",
+        -1
+      ],
+      "64cd63af000000001201bbf9": [
+        "Hollywood Sign",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "In-N-Out Burger": {
+    "place_name": "In-N-Out Burger",
+    "geometry": {
+      "location": {
+        "lat": 34.0982287,
+        "lng": -118.3416747
+      }
+    },
+    "rating": 4.5,
+    "reviews": 17014,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Hamburger restaurant",
+      "American restaurant",
+      "Diner",
+      "Fast food restaurant",
+      "Lunch restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "In-N-Out",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beverly Hills Sign": {
+    "place_name": "Beverly Hills Sign",
+    "geometry": {
+      "location": {
+        "lat": 34.0811399,
+        "lng": -118.3900956
+      }
+    },
+    "rating": 4.5,
+    "reviews": 121,
+    "note": [
+      "64cd63af000000001201bbf9"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cd63af000000001201bbf9": [
+        "Beverly Hills Sign",
+        true,
+        "洛杉矶｜拍照攻略｜这座让我一秒就爱上的城市",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Flamingo Estate": {
+    "place_name": "Flamingo Estate",
+    "geometry": {
+      "location": {
+        "lat": 34.1093149,
+        "lng": -118.1927937
+      }
+    },
+    "rating": 4.3,
+    "reviews": 12,
+    "note": [
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "tourist_attraction",
+      "Boutique"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "643628e0000000000703a485": [
+        "Flamingo Estate",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SRF Lake Shrine (Reservation required)": {
+    "place_name": "SRF Lake Shrine (Reservation required)",
+    "geometry": {
+      "location": {
+        "lat": 34.0434754,
+        "lng": -118.5528976
+      }
+    },
+    "rating": 4.9,
+    "reviews": 1028,
+    "note": [
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "Meditation center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "643628e0000000000703a485": [
+        "Self Realization Fellowship Lake Shrine",
+        false,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Norton Simon Museum": {
+    "place_name": "Norton Simon Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.1463464,
+        "lng": -118.1592625
+      }
+    },
+    "rating": 4.8,
+    "reviews": 2756,
+    "note": [
+      "65345c040000000025015c8d",
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "Simon Norton Museum",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ],
+      "643628e0000000000703a485": [
+        "Norton Simone museum",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Arlington Garden in Pasadena": {
+    "place_name": "Arlington Garden in Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.128625,
+        "lng": -118.15565559999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1101,
+    "note": [
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "643628e0000000000703a485": [
+        "Arlington Garden",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Huntington Library, Art Museum, and Botanical Gardens": {
+    "place_name": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.1290452,
+        "lng": -118.11452419999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6600,
+    "note": [
+      "65345c040000000025015c8d",
+      "64cbe4ef0000000010033c9f",
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "museum",
+      [
+        "museum"
+      ],
+      "park",
+      "Tourist attraction",
+      "Art gallery",
+      "Art museum",
+      "Botanical garden",
+      "Non-profit organization"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "Huntington Library",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ],
+      "64cbe4ef0000000010033c9f": [
+        "Huntington Library",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ],
+      "643628e0000000000703a485": [
+        "The Hungtington Botanical Gardens",
+        "google_search_matched",
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Richard Nixon Library & Museum": {
+    "place_name": "The Richard Nixon Library & Museum",
+    "geometry": {
+      "location": {
+        "lat": 33.889508899999996,
+        "lng": -117.8193503
+      }
+    },
+    "rating": 4.8,
+    "reviews": 704,
+    "note": [
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Museum",
+      "Library",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "643628e0000000000703a485": [
+        "The Richard Nixon Library & Museum",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Exposition Park Rose Garden": {
+    "place_name": "Exposition Park Rose Garden",
+    "geometry": {
+      "location": {
+        "lat": 34.017350799999996,
+        "lng": -118.2859244
+      }
+    },
+    "rating": 4.7,
+    "reviews": 2216,
+    "note": [
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "643628e0000000000703a485": [
+        "Exposition Park Rose Garden",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Greystone Mansion & Gardens: The Doheny Estate": {
+    "place_name": "Greystone Mansion & Gardens: The Doheny Estate",
+    "geometry": {
+      "location": {
+        "lat": 34.0921783,
+        "lng": -118.4012868
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2591,
+    "note": [
+      "64cbe4ef0000000010033c9f",
+      "643628e0000000000703a485"
+    ],
+    "types": [
+      "tourist_attraction",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Event venue",
+      "Park",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cbe4ef0000000010033c9f": [
+        "Greystone mansion",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ],
+      "643628e0000000000703a485": [
+        "Greystone Mansion and Gardens",
+        true,
+        "洛杉矶周末💐8个神级出片的公主后花园",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beverly Hills City Hall": {
+    "place_name": "Beverly Hills City Hall",
+    "geometry": {
+      "location": {
+        "lat": 34.0728923,
+        "lng": -118.4004045
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64c1f13e0000000012019878",
+      "654b6a0500000000320335c7"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64c1f13e0000000012019878": [
+        "455 N Rexford Dr, Beverly Hills, CA 90210",
+        "google_search_matched",
+        "洛杉矶LA丨比弗利蒂芙尼蓝的极简建筑",
+        -1
+      ],
+      "654b6a0500000000320335c7": [
+        "Beverly Hills City Hall",
+        true,
+        "天冷往热的地方走🌴 留得住的是LA的夏天",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tiffany & Co.": {
+    "place_name": "Tiffany & Co.",
+    "geometry": {
+      "location": {
+        "lat": 34.067304,
+        "lng": -118.40082299999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 220,
+    "note": [
+      "654b6a0500000000320335c7"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Jewelry store",
+      "Gift shop",
+      "Jewelry designer",
+      "Jewelry engraver",
+      "Watch store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654b6a0500000000320335c7": [
+        "Tiffany blue经典机位 - 比弗利山庄市政厅Beverly Hills City Hall",
+        false,
+        "天冷往热的地方走🌴 留得住的是LA的夏天",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu Beach": {
+    "place_name": "Malibu Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0385257,
+        "lng": -118.6569421
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1454,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "natural_feature",
+      "Beach"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Malibu海边yyds",
+        "google_search_matched",
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ascot Hills Park": {
+    "place_name": "Ascot Hills Park",
+    "geometry": {
+      "location": {
+        "lat": 34.070597899999996,
+        "lng": -118.1889221
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1184,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Ascot Hills Park天使之门",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mulholland Scenic Overlook": {
+    "place_name": "Mulholland Scenic Overlook",
+    "geometry": {
+      "location": {
+        "lat": 34.1235133,
+        "lng": -118.3875099
+      }
+    },
+    "rating": 4.7,
+    "reviews": 426,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Scenic spot",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Mulholland Scenic Overlook电影穆赫兰道同款",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "BAPS Shri Swaminarayan Mandir, Chino Hills": {
+    "place_name": "BAPS Shri Swaminarayan Mandir, Chino Hills",
+    "geometry": {
+      "location": {
+        "lat": 33.976414999999996,
+        "lng": -117.69554919999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4240,
+    "note": [
+      "646fcb040000000012032782",
+      "6422f52a000000001300e36b",
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "worship",
+      "worship",
+      [
+        "temple",
+        "worship"
+      ],
+      "Hindu temple",
+      "Cultural center",
+      "Place of worship"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6422f52a000000001300e36b": [
+        "印度神庙BAPS Shri Swaminarayan Mandir",
+        true,
+        "洛杉矶周边值得打卡的景点（分享篇）",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "Chino Hills的印度神庙",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "BAPS Shri Swaminarayan Mandir, Chino Hills印度神庙",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hsi Lai Temple": {
+    "place_name": "Hsi Lai Temple",
+    "geometry": {
+      "location": {
+        "lat": 33.9756882,
+        "lng": -117.9677071
+      }
+    },
+    "rating": 4.7,
+    "reviews": 2305,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "worship",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Buddhist temple",
+      "Religious organization",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Hsi Lai Temple西来寺",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Laguna Beach": {
+    "place_name": "Laguna Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.5427189,
+        "lng": -117.78535679999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64cdda5d0000000010032ede",
+      "646fcb040000000012032782",
+      "63143821000000000900db9b"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cdda5d0000000010032ede": [
+        "Laguna Beach",
+        true,
+        "洛杉矶🌴💚棕榈爱不完💚🌴",
+        -1
+      ],
+      "63143821000000000900db9b": [
+        "Laguna Beach",
+        true,
+        "洛杉矶🌄在“爱乐之城”的取景地看一场日落",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "laguna beach爱心树",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Getty": {
+    "place_name": "The Getty",
+    "geometry": {
+      "location": {
+        "lat": 34.078035799999995,
+        "lng": -118.4740954
+      }
+    },
+    "rating": 4.8,
+    "reviews": 28951,
+    "note": [
+      "64929f520000000013011b86",
+      "6531bc7e000000001f004c82",
+      "646fcb040000000012032782",
+      "6498f989000000001301442c",
+      "64f14c7a000000001f039c68",
+      "649b98770000000007038e63"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Modern art museum",
+      "Museum",
+      "Non-profit organization",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "The Getty",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ],
+      "649b98770000000007038e63": [
+        "Getty Center",
+        "google_search_matched",
+        "在雾天🌫️的Getty拍出了天堂阶梯的感觉",
+        -1
+      ],
+      "64929f520000000013011b86": [
+        "美国盖提艺术中心（The Getty）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ],
+      "6531bc7e000000001f004c82": [
+        "The Getty Center",
+        true,
+        "OOTD｜🇺🇸洛杉矶拍照",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "The Getty Center",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "Getty center",
+        "google_search_matched",
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Broad": {
+    "place_name": "The Broad",
+    "geometry": {
+      "location": {
+        "lat": 34.0545021,
+        "lng": -118.25018019999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 13826,
+    "note": [
+      "646fcb040000000012032782",
+      "64929f520000000013011b86",
+      "64cbe4ef0000000010033c9f",
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Modern art museum",
+      "Art gallery",
+      "Art museum",
+      "Arts organization",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "布洛德博物馆（The Broad）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ],
+      "64cbe4ef0000000010033c9f": [
+        "The Broad",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "The Broad",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "LA：broad museum",
+        "google_search_matched",
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Dana Point Harbor": {
+    "place_name": "Dana Point Harbor",
+    "geometry": {
+      "location": {
+        "lat": 33.461339599999995,
+        "lng": -117.6967971
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "dana point看日落绝美",
+        "google_search_matched",
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Egyptian Building": {
+    "place_name": "Egyptian Building",
+    "geometry": {
+      "location": {
+        "lat": 33.981104,
+        "lng": -117.70526679999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 93,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Egyptian Building埃及金字塔墙",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Grove": {
+    "place_name": "The Grove",
+    "geometry": {
+      "location": {
+        "lat": 34.0719407,
+        "lng": -118.3575164
+      }
+    },
+    "rating": 4.6,
+    "reviews": 23924,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shopping mall",
+      "Event venue",
+      "Fashion accessories store",
+      "Live music venue",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "the grove商场 圣诞等节日圣地",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pasadena City Hall": {
+    "place_name": "Pasadena City Hall",
+    "geometry": {
+      "location": {
+        "lat": 34.147598599999995,
+        "lng": -118.1438373
+      }
+    },
+    "rating": 4.7,
+    "reviews": 597,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "City Hall",
+      "Federal government office",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "Pasadena：City hall市政厅",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "San Clemente Pier": {
+    "place_name": "San Clemente Pier",
+    "geometry": {
+      "location": {
+        "lat": 33.4187667,
+        "lng": -117.62162749999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6535,
+    "note": [
+      "6462e595000000001203e568",
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "natural_feature",
+      "Public beach"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6462e595000000001203e568": [
+        "San Clemente Pier：加州“小镰仓”",
+        true,
+        "洛杉矶｜这些地方太适合520和男友一起打卡",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "san clement beach小镰仓",
+        "google_search_matched",
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Wayfarers Chapel": {
+    "place_name": "Wayfarers Chapel",
+    "geometry": {
+      "location": {
+        "lat": 33.7440107,
+        "lng": -118.3778475
+      }
+    },
+    "rating": 4.8,
+    "reviews": 649,
+    "note": [
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "Christian church",
+      "Church",
+      "Wedding chapel",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646fcb040000000012032782": [
+        "海边：wayfarers chapel海边最美玻璃教堂",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Griffith Observatory": {
+    "place_name": "Griffith Observatory",
+    "geometry": {
+      "location": {
+        "lat": 34.1184341,
+        "lng": -118.3003935
+      }
+    },
+    "rating": 4.7,
+    "reviews": 11945,
+    "note": [
+      "64929f520000000013011b86",
+      "63143821000000000900db9b",
+      "6317c0f3000000001103c58b",
+      "6498f989000000001301442c",
+      "64b8d659000000000a01bb4b",
+      "646fcb040000000012032782"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Observatory",
+      "Planetarium",
+      "Science museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63143821000000000900db9b": [
+        "格里菲斯天文台",
+        "google_search_matched",
+        "洛杉矶🌄在“爱乐之城”的取景地看一场日落",
+        -1
+      ],
+      "64929f520000000013011b86": [
+        "格里菲斯天文台（Griffith Observatory）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ],
+      "64b8d659000000000a01bb4b": [
+        "Griffith Observatory",
+        true,
+        "来洛杉矶一生总要去一次的地方",
+        -1
+      ],
+      "6317c0f3000000001103c58b": [
+        "Griffith Observatory",
+        true,
+        "洛杉矶City of Stars✨那些城市里的坠落星光",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "Griffith Observatory",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ],
+      "646fcb040000000012032782": [
+        "Griffith Observatory天文台",
+        true,
+        "LA/Irvine周边免费景点打卡合集供参考",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "La Sierra Drive Trailhead": {
+    "place_name": "La Sierra Drive Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.007773799999995,
+        "lng": -117.75997079999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 161,
+    "note": [
+      "640647660000000027029ca2"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640647660000000027029ca2": [
+        "La Sierra Dr Trailhead, Chino Hills",
+        true,
+        "传说中的加州小瑞士🇨🇭可能不仅是传说",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Apple Tower Theatre": {
+    "place_name": "Apple Tower Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.0435058,
+        "lng": -118.2545171
+      }
+    },
+    "rating": 4.3,
+    "reviews": 658,
+    "note": [
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Electronics store",
+      "Computer repair service",
+      "Mobile phone repair shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6498f989000000001301442c": [
+        "Apple Tower Theater",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica Pier": {
+    "place_name": "Santa Monica Pier",
+    "geometry": {
+      "location": {
+        "lat": 34.008282099999995,
+        "lng": -118.4987585
+      }
+    },
+    "rating": 4.6,
+    "reviews": 110332,
+    "note": [
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Fishing pier",
+      "Historical landmark",
+      "Tourist attraction",
+      "Visitor center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6498f989000000001301442c": [
+        "Santa Monica Pier",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Los Angeles County Museum of Art": {
+    "place_name": "Los Angeles County Museum of Art",
+    "geometry": {
+      "location": {
+        "lat": 34.0639323,
+        "lng": -118.3592293
+      }
+    },
+    "rating": 4.6,
+    "reviews": 17902,
+    "note": [
+      "64929f520000000013011b86",
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Art center",
+      "Art gallery",
+      "History museum",
+      "Performing arts group",
+      "Performing arts theater",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "洛杉矶艺术博物馆（LACMA）",
+        "google_search_matched",
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "LACMA 洛杉矶艺术博物馆",
+        "google_search_matched",
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Downtown LA Proper Hotel": {
+    "place_name": "Downtown LA Proper Hotel",
+    "geometry": {
+      "location": {
+        "lat": 34.0393757,
+        "lng": -118.2589819
+      }
+    },
+    "rating": 4.5,
+    "reviews": 345,
+    "note": [
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6498f989000000001301442c": [
+        "Proper Hotel",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Last Bookstore": {
+    "place_name": "The Last Bookstore",
+    "geometry": {
+      "location": {
+        "lat": 34.0476964,
+        "lng": -118.2498964
+      }
+    },
+    "rating": 4.7,
+    "reviews": 11852,
+    "note": [
+      "64f14c7a000000001f039c68",
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Book store",
+      "Record store",
+      "Used book store",
+      "Wholesaler"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "The last bookstore",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ],
+      "6498f989000000001301442c": [
+        "The Last Book Store",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Venice": {
+    "place_name": "Venice",
+    "geometry": {
+      "location": {
+        "lat": 33.9850469,
+        "lng": -118.4694832
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6498f989000000001301442c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6498f989000000001301442c": [
+        "Venice Beach",
+        true,
+        "洛杉矶旅游✈️想打卡的景点先收藏一个🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kenneth Hahn State Recreation Area": {
+    "place_name": "Kenneth Hahn State Recreation Area",
+    "geometry": {
+      "location": {
+        "lat": 34.012322,
+        "lng": -118.3717552
+      }
+    },
+    "rating": 4.7,
+    "reviews": 6418,
+    "note": [
+      "63e1af94000000001d01f4a3"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e1af94000000001d01f4a3": [
+        "Kenneth Hahn State Recreation Area",
+        true,
+        "终于打卡了LA这个机位📷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beverly Hills": {
+    "place_name": "Beverly Hills",
+    "geometry": {
+      "location": {
+        "lat": 34.073620399999996,
+        "lng": -118.4003563
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64b8d659000000000a01bb4b",
+      "64f14c7a000000001f039c68",
+      "64ba26a8000000001201de76",
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b8d659000000000a01bb4b": [
+        "比弗利山庄棕榈树大道",
+        "google_search_matched",
+        "来洛杉矶一生总要去一次的地方",
+        -1
+      ],
+      "64f14c7a000000001f039c68": [
+        "Beverly Hills",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ],
+      "64ba26a8000000001201de76": [
+        "Beverly Hills",
+        true,
+        "洛杉矶比弗利山庄棕榈树大道拍照姿势",
+        -1
+      ],
+      "6504f183000000001f036c82": [
+        "Beverly Hills",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "S Palm Dr": {
+    "place_name": "S Palm Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0622162,
+        "lng": -118.39180429999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64cdda5d0000000010032ede",
+      "64ba26a8000000001201de76",
+      "651d08fa000000001e00eb22",
+      "651f2b3f000000002301a408"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651f2b3f000000002301a408": [
+        "S Palm Dr, Beverly Hills, CA 90212",
+        true,
+        "洛杉矶｜比弗利山庄拍照攻略",
+        -1
+      ],
+      "64cdda5d0000000010032ede": [
+        "South Palm Dr",
+        true,
+        "洛杉矶🌴💚棕榈爱不完💚🌴",
+        -1
+      ],
+      "651d08fa000000001e00eb22": [
+        "South Palm Drive",
+        true,
+        "洛杉矶🌴总算和棕榈树合影了！好爱好爱💚",
+        -1
+      ],
+      "64ba26a8000000001201de76": [
+        "s palm dr",
+        true,
+        "洛杉矶比弗利山庄棕榈树大道拍照姿势",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "ROW DTLA": {
+    "place_name": "ROW DTLA",
+    "geometry": {
+      "location": {
+        "lat": 34.0341528,
+        "lng": -118.24073949999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 743,
+    "note": [
+      "64cbe4ef0000000010033c9f",
+      "640a9950000000001300046d",
+      "64da84080000000010033d04"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shopping mall",
+      "Leasing service",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64da84080000000010033d04": [
+        "ROW DTLA",
+        true,
+        "LIVE周末｜拍了无数次ROW DTLA我终于出镜了",
+        -1
+      ],
+      "64cbe4ef0000000010033c9f": [
+        "Row DTLA",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ],
+      "640a9950000000001300046d": [
+        "Row Downtown LA🌟",
+        "google_search_matched",
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Baldwin Hills Scenic Overlook": {
+    "place_name": "Baldwin Hills Scenic Overlook",
+    "geometry": {
+      "location": {
+        "lat": 34.0182,
+        "lng": -118.3819125
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4574,
+    "note": [
+      "640a9950000000001300046d"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640a9950000000001300046d": [
+        "Baldwin Hills🌟鲍德温山",
+        "google_search_matched",
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bluff Cove Trailhead": {
+    "place_name": "Bluff Cove Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 33.797666299999996,
+        "lng": -118.40652139999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "640a9950000000001300046d"
+    ],
+    "types": [
+      "行山徑"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640a9950000000001300046d": [
+        "Bluff Cove🌟",
+        true,
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Spire 73": {
+    "place_name": "Spire 73",
+    "geometry": {
+      "location": {
+        "lat": 34.050511,
+        "lng": -118.26025109999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 899,
+    "note": [
+      "640a9950000000001300046d"
+    ],
+    "types": [
+      "酒吧"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640a9950000000001300046d": [
+        "Spire 73🌟",
+        true,
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Yamashiro Hollywood": {
+    "place_name": "Yamashiro Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1057604,
+        "lng": -118.3420926
+      }
+    },
+    "rating": 4.3,
+    "reviews": 4031,
+    "note": [
+      "640a9950000000001300046d"
+    ],
+    "types": [
+      "亞洲  Fusion 菜餐廳",
+      "亞洲菜餐廳",
+      "酒吧",
+      "加州餐廳",
+      "日本餐廳",
+      "餐廳",
+      "海鮮餐廳",
+      "壽司店",
+      "婚禮場地"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640a9950000000001300046d": [
+        "Yamashiro Hollywood🌟",
+        true,
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "6300 Hetzler Rd": {
+    "place_name": "6300 Hetzler Rd",
+    "geometry": {
+      "location": {
+        "lat": 34.0175802,
+        "lng": -118.3840398
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "640a9950000000001300046d"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "640a9950000000001300046d": [
+        "6300 Hetzler Rd. in Culver City off Jefferson Blvd.",
+        true,
+        "融雪春天｜洛杉矶最“网感”打卡拍照地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Google Venice": {
+    "place_name": "Google Venice",
+    "geometry": {
+      "location": {
+        "lat": 33.9954817,
+        "lng": -118.47640539999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 618,
+    "note": [
+      "6531bc7e000000001f004c82"
+    ],
+    "types": [
+      "Corporate office"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6531bc7e000000001f004c82": [
+        "Google",
+        true,
+        "OOTD｜🇺🇸洛杉矶拍照",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Encore Jeans": {
+    "place_name": "Encore Jeans",
+    "geometry": {
+      "location": {
+        "lat": 34.035281499999996,
+        "lng": -118.2510891
+      }
+    },
+    "rating": 5,
+    "reviews": 4,
+    "note": [
+      "6531bc7e000000001f004c82"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Wholesaler",
+      "Clothing store",
+      "Manufacturer",
+      "Women's clothing store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6531bc7e000000001f004c82": [
+        "黑色半裙👗: Aritzia",
+        false,
+        "OOTD｜🇺🇸洛杉矶拍照",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "California": {
+    "place_name": "California",
+    "geometry": {
+      "location": {
+        "lat": 36.778261,
+        "lng": -119.4179324
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "651d08fa000000001e00eb22"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651d08fa000000001e00eb22": [
+        "California",
+        true,
+        "洛杉矶🌴总算和棕榈树合影了！好爱好爱💚",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "South Coast Botanic Garden": {
+    "place_name": "South Coast Botanic Garden",
+    "geometry": {
+      "location": {
+        "lat": 33.7832241,
+        "lng": -118.3489436
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1922,
+    "note": [
+      "63e9c4820000000013004487"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Picnic ground",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e9c4820000000013004487": [
+        "South Coast Botanic Garden",
+        true,
+        "快去打卡‼️洛杉矶灯展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Astra Lumina Los Angeles": {
+    "place_name": "Astra Lumina Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 33.7832886,
+        "lng": -118.3489864
+      }
+    },
+    "rating": 4.6,
+    "reviews": 488,
+    "note": [
+      "63e9c4820000000013004487"
+    ],
+    "types": [
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63e9c4820000000013004487": [
+        "Astra Lumina 灯光展",
+        true,
+        "快去打卡‼️洛杉矶灯展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rodeo Dr": {
+    "place_name": "Rodeo Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0677829,
+        "lng": -118.4016273
+      }
+    },
+    "rating": 4.6,
+    "reviews": 866,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "罗迪欧大道（Rodeo Drive）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Echo Park Swan Boats by Wheel Fun Rentals": {
+    "place_name": "Echo Park Swan Boats by Wheel Fun Rentals",
+    "geometry": {
+      "location": {
+        "lat": 34.0732251,
+        "lng": -118.2599929
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2033,
+    "note": [
+      "6462e595000000001203e568"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Boat rental service",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6462e595000000001203e568": [
+        "Echo Park Lake：浪漫夜划天鹅船",
+        false,
+        "洛杉矶｜这些地方太适合520和男友一起打卡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "IPIC Theaters": {
+    "place_name": "IPIC Theaters",
+    "geometry": {
+      "location": {
+        "lat": 34.0591493,
+        "lng": -118.44123929999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1064,
+    "note": [
+      "6462e595000000001203e568"
+    ],
+    "types": [
+      "Movie theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6462e595000000001203e568": [
+        "IPIC Theaters：电影院中的爱马仕",
+        true,
+        "洛杉矶｜这些地方太适合520和男友一起打卡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "El Matador State Beach": {
+    "place_name": "El Matador State Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0380426,
+        "lng": -118.874663
+      }
+    },
+    "rating": 4.7,
+    "reviews": 5114,
+    "note": [
+      "6462e595000000001203e568"
+    ],
+    "types": [
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Public beach",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6462e595000000001203e568": [
+        "El Matador Beach：日落海滩",
+        "google_search_matched",
+        "洛杉矶｜这些地方太适合520和男友一起打卡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Descanso Gardens": {
+    "place_name": "Descanso Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.200950899999995,
+        "lng": -118.2118943
+      }
+    },
+    "rating": 4.7,
+    "reviews": 8393,
+    "note": [
+      "6462e595000000001203e568",
+      "639d761e000000001c005b80"
+    ],
+    "types": [
+      "park",
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "639d761e000000001c005b80": [
+        "Descanso Gardens",
+        true,
+        "洛杉矶|千万不能错过的灯光秀",
+        -1
+      ],
+      "6462e595000000001203e568": [
+        "Descanso Gardens：超美日式庭院",
+        true,
+        "洛杉矶｜这些地方太适合520和男友一起打卡",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "P6": {
+    "place_name": "P6",
+    "geometry": {
+      "location": {
+        "lat": 33.9434471,
+        "lng": -118.40371119999999
+      }
+    },
+    "rating": 3.6,
+    "reviews": 34,
+    "note": [
+      "65106e2d000000001303f94b"
+    ],
+    "types": [
+      "park",
+      "Parking garage"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "65106e2d000000001303f94b": [
+        "P5-P6",
+        true,
+        "LA比弗利山庄📷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "P3": {
+    "place_name": "P3",
+    "geometry": {
+      "location": {
+        "lat": 33.944224399999996,
+        "lng": -118.4072058
+      }
+    },
+    "rating": 3.6,
+    "reviews": 53,
+    "note": [
+      "65106e2d000000001303f94b"
+    ],
+    "types": [
+      "park",
+      "Parking garage"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65106e2d000000001303f94b": [
+        "P1-P3",
+        true,
+        "LA比弗利山庄📷",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica": {
+    "place_name": "Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.0194543,
+        "lng": -118.49119119999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "646c3b6e0000000014027b23"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "646c3b6e0000000014027b23": [
+        "Santa Monica",
+        true,
+        "为了这组照片，我特意去了一趟洛杉矶 📸",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "City of Stars Collision Center Inc": {
+    "place_name": "City of Stars Collision Center Inc",
+    "geometry": {
+      "location": {
+        "lat": 34.0910387,
+        "lng": -118.2930818
+      }
+    },
+    "rating": 3.9,
+    "reviews": 83,
+    "note": [
+      "6317c0f3000000001103c58b"
+    ],
+    "types": [
+      "Auto glass shop",
+      "Auto body shop",
+      "Auto dent removal service",
+      "Auto repair shop",
+      "Car detailing service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6317c0f3000000001103c58b": [
+        "City of Stars",
+        true,
+        "洛杉矶City of Stars✨那些城市里的坠落星光",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Greek Theatre": {
+    "place_name": "The Greek Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.1195315,
+        "lng": -118.2962896
+      }
+    },
+    "rating": 4.7,
+    "reviews": 5543,
+    "note": [
+      "6317c0f3000000001103c58b"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Amphitheater",
+      "Concert hall",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6317c0f3000000001103c58b": [
+        "Greek Theatre",
+        true,
+        "洛杉矶City of Stars✨那些城市里的坠落星光",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica State Beach": {
+    "place_name": "Santa Monica State Beach",
+    "geometry": {
+      "location": {
+        "lat": 34.0129033,
+        "lng": -118.5017237
+      }
+    },
+    "rating": 4.6,
+    "reviews": 935,
+    "note": [
+      "64f14c7a000000001f039c68",
+      "64cbe4ef0000000010033c9f"
+    ],
+    "types": [
+      "natural_feature",
+      "Beach"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "Santa Monica海滩",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ],
+      "64cbe4ef0000000010033c9f": [
+        "Santa Monica Beach",
+        "google_search_matched",
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Manhattan Beach": {
+    "place_name": "Manhattan Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.8847361,
+        "lng": -118.4109089
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64cbe4ef0000000010033c9f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cbe4ef0000000010033c9f": [
+        "Manhattan Beach",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Malibu": {
+    "place_name": "Malibu",
+    "geometry": {
+      "location": {
+        "lat": 34.0380585,
+        "lng": -118.69234379999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64cbe4ef0000000010033c9f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cbe4ef0000000010033c9f": [
+        "Malibu Beach",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Lake Hollywood Park": {
+    "place_name": "Lake Hollywood Park",
+    "geometry": {
+      "location": {
+        "lat": 34.1269448,
+        "lng": -118.3261053
+      }
+    },
+    "rating": 4.7,
+    "reviews": 6197,
+    "note": [
+      "64cbe4ef0000000010033c9f"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cbe4ef0000000010033c9f": [
+        "Lake Hollywood Park",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Getty Villa": {
+    "place_name": "The Getty Villa",
+    "geometry": {
+      "location": {
+        "lat": 34.0458857,
+        "lng": -118.56486079999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 9434,
+    "note": [
+      "65345c040000000025015c8d",
+      "64cbe4ef0000000010033c9f"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "Getty Villa",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ],
+      "64cbe4ef0000000010033c9f": [
+        "Getty Villa",
+        true,
+        "洛杉矶｜12个绝美拍照地合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "多多仓库": {
+    "place_name": "多多仓库",
+    "geometry": {
+      "location": {
+        "lat": 34.063204899999995,
+        "lng": -117.7805379
+      }
+    },
+    "rating": 3.3,
+    "reviews": 18,
+    "note": [
+      "64b8d659000000000a01bb4b"
+    ],
+    "types": [
+      "Chinese supermarket"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64b8d659000000000a01bb4b": [
+        "多多仓库网红路牌",
+        true,
+        "来洛杉矶一生总要去一次的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Walk of Fame": {
+    "place_name": "Hollywood Walk of Fame",
+    "geometry": {
+      "location": {
+        "lat": 34.1017052,
+        "lng": -118.340257
+      }
+    },
+    "rating": 4.2,
+    "reviews": 7952,
+    "note": [
+      "6281c905000000002103ac07"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6281c905000000002103ac07": [
+        "停车场顶楼",
+        false,
+        "LA无人知晓的停车场顶楼view | ROW DTLA",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Topanga": {
+    "place_name": "Topanga",
+    "geometry": {
+      "location": {
+        "lat": 34.0919452,
+        "lng": -118.60213209999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "630b0b0c000000001b01b3cf"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "630b0b0c000000001b01b3cf": [
+        "Topanga",
+        true,
+        "洛杉矶▫我终于找到了梦中的完美民宿💕",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "S Windsor Blvd": {
+    "place_name": "S Windsor Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0591863,
+        "lng": -118.32284609999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64cdda5d0000000010032ede"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64cdda5d0000000010032ede": [
+        "South Windsor Blvd and 6th St交界处",
+        true,
+        "洛杉矶🌴💚棕榈爱不完💚🌴",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fossil Falls": {
+    "place_name": "Fossil Falls",
+    "geometry": {
+      "location": {
+        "lat": 35.969946,
+        "lng": -117.9089637
+      }
+    },
+    "rating": 4.8,
+    "reviews": 127,
+    "note": [
+      "6422f52a000000001300e36b"
+    ],
+    "types": [
+      "Waterfall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6422f52a000000001300e36b": [
+        "Fossil Falls",
+        true,
+        "洛杉矶周边值得打卡的景点（分享篇）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bristol Lake": {
+    "place_name": "Bristol Lake",
+    "geometry": {
+      "location": {
+        "lat": 34.4622192,
+        "lng": -115.6738827
+      }
+    },
+    "rating": 2.3,
+    "reviews": 6,
+    "note": [
+      "6422f52a000000001300e36b"
+    ],
+    "types": [
+      "Lake"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6422f52a000000001300e36b": [
+        "Bristol Lake翡翠盐湖",
+        true,
+        "洛杉矶周边值得打卡的景点（分享篇）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Joshua Tree National Park": {
+    "place_name": "Joshua Tree National Park",
+    "geometry": {
+      "location": {
+        "lat": 33.873415,
+        "lng": -115.9009923
+      }
+    },
+    "rating": 4.8,
+    "reviews": 18723,
+    "note": [
+      "65345c040000000025015c8d",
+      "6422f52a000000001300e36b"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "National park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "Joshua Tree",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ],
+      "6422f52a000000001300e36b": [
+        "Joshua Tree National Park约书亚树国家公园",
+        true,
+        "洛杉矶周边值得打卡的景点（分享篇）",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "La Cañada Flintridge": {
+    "place_name": "La Cañada Flintridge",
+    "geometry": {
+      "location": {
+        "lat": 34.2068182,
+        "lng": -118.20002769999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "639d761e000000001c005b80"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "639d761e000000001c005b80": [
+        "La Cañada Flintridge",
+        true,
+        "洛杉矶|千万不能错过的灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Matte Black Coffee": {
+    "place_name": "Matte Black Coffee",
+    "geometry": {
+      "location": {
+        "lat": 34.093772,
+        "lng": -118.37692679999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 114,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "Cafe"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "Matte black coffee",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Last Line": {
+    "place_name": "The Last Line",
+    "geometry": {
+      "location": {
+        "lat": 34.069565,
+        "lng": -118.4010988
+      }
+    },
+    "rating": 2.8,
+    "reviews": 13,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Jewelry store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "The last line",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fred Segal": {
+    "place_name": "Fred Segal",
+    "geometry": {
+      "location": {
+        "lat": 34.094015999999996,
+        "lng": -118.376509
+      }
+    },
+    "rating": 4.4,
+    "reviews": 201,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "Clothing store",
+      "Baby store",
+      "Children's clothing store",
+      "Florist",
+      "Gift shop",
+      "Men's clothing store",
+      "Used book store",
+      "Vintage clothing store",
+      "Women's clothing store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "Fred Segal",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "KAWS BFF Statue": {
+    "place_name": "KAWS BFF Statue",
+    "geometry": {
+      "location": {
+        "lat": 33.9786973,
+        "lng": -118.4058125
+      }
+    },
+    "rating": 4.7,
+    "reviews": 67,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "KAWS BFF Statue",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8523 Melrose Ave": {
+    "place_name": "8523 Melrose Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0820688,
+        "lng": -118.3772872
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "8523 Melrose Ave, West Hollywood, CA 90069",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8507 Melrose Ave": {
+    "place_name": "8507 Melrose Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0820697,
+        "lng": -118.37700079999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "8507 Melrose Ave, West Hollywood, CA 90069",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Smorgasburg (Los Angeles)": {
+    "place_name": "Smorgasburg (Los Angeles)",
+    "geometry": {
+      "location": {
+        "lat": 34.0351184,
+        "lng": -118.24172399999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 3295,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Hawker stall",
+      "Market",
+      "Night market",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "Smorgasburg",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "777 S Alameda St": {
+    "place_name": "777 S Alameda St",
+    "geometry": {
+      "location": {
+        "lat": 34.0337349,
+        "lng": -118.24099
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "777 S Alameda St, Los Angeles, CA 90021",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Our Place": {
+    "place_name": "Our Place",
+    "geometry": {
+      "location": {
+        "lat": 34.0820697,
+        "lng": -118.37700079999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 11,
+    "note": [
+      "6504f183000000001f036c82"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Home goods store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504f183000000001f036c82": [
+        "Our Place",
+        true,
+        "洛杉矶｜新晋网红拍照地合集📷嘎嘎出片🌟",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Virtuality - Virtual Reality Gaming Center": {
+    "place_name": "Los Virtuality - Virtual Reality Gaming Center",
+    "geometry": {
+      "location": {
+        "lat": 34.042186799999996,
+        "lng": -118.46090989999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 306,
+    "note": [
+      "65345c040000000025015c8d"
+    ],
+    "types": [
+      "Video arcade",
+      "Amusement center",
+      "Children's party service",
+      "Corporate entertainment service",
+      "Escape room center",
+      "Event venue",
+      "Laser tag center",
+      "Party equipment rental service",
+      "Party planner",
+      "Video game rental service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "电玩城",
+        false,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Rooftop by JG": {
+    "place_name": "The Rooftop by JG",
+    "geometry": {
+      "location": {
+        "lat": 34.0667288,
+        "lng": -118.41130179999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 705,
+    "note": [
+      "65345c040000000025015c8d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "The Rooftop by JG",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Intercrew": {
+    "place_name": "Intercrew",
+    "geometry": {
+      "location": {
+        "lat": 34.0616237,
+        "lng": -118.2952219
+      }
+    },
+    "rating": 4.4,
+    "reviews": 182,
+    "note": [
+      "65345c040000000025015c8d"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Restaurant",
+      "Lounge"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "InterCrew",
+        true,
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Highland Park Bowl": {
+    "place_name": "Highland Park Bowl",
+    "geometry": {
+      "location": {
+        "lat": 34.109396499999995,
+        "lng": -118.1935786
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1204,
+    "note": [
+      "65345c040000000025015c8d"
+    ],
+    "types": [
+      "Bowling alley"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65345c040000000025015c8d": [
+        "保龄球馆",
+        "google_search_matched",
+        "洛杉矶｜8个辣女甜妹拍照小众出片点合集（上）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood": {
+    "place_name": "Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.0928092,
+        "lng": -118.3286614
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63143821000000000900db9b"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63143821000000000900db9b": [
+        "Hollywood",
+        true,
+        "洛杉矶🌄在“爱乐之城”的取景地看一场日落",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Los Angeles": {
+    "place_name": "Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0487969,
+        "lng": -118.2517828
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64da84080000000010033d04"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64da84080000000010033d04": [
+        "DTLA",
+        "google_search_matched",
+        "LIVE周末｜拍了无数次ROW DTLA我终于出镜了",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Disneyland Park": {
+    "place_name": "Disneyland Park",
+    "geometry": {
+      "location": {
+        "lat": 33.8120918,
+        "lng": -117.9189742
+      }
+    },
+    "rating": 4.6,
+    "reviews": 113806,
+    "note": [
+      "64f14c7a000000001f039c68"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Amusement park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "Disneyland",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Dolby Theatre": {
+    "place_name": "Dolby Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.102691899999996,
+        "lng": -118.3404156
+      }
+    },
+    "rating": 4.6,
+    "reviews": 3719,
+    "note": [
+      "64f14c7a000000001f039c68"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Performing arts theater",
+      "Auditorium",
+      "Culture",
+      "Entertainment and recreation",
+      "Movie theater",
+      "Performing arts",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "Dolby Theatre",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Long Beach": {
+    "place_name": "Long Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.770050399999995,
+        "lng": -118.19373949999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64f14c7a000000001f039c68"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64f14c7a000000001f039c68": [
+        "Longbeach",
+        true,
+        "美国洛杉矶一定要来一次的地方！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

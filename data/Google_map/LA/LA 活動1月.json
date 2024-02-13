@@ -1,0 +1,3589 @@
+{
+  "橘郡": {
+    "place_name": "橘郡",
+    "geometry": {
+      "location": {
+        "lat": 33.7174708,
+        "lng": -117.8311428
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657cd2ef0000000038024d30"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657cd2ef0000000038024d30": [
+        "橙县冬季嘉年华",
+        false,
+        "冲🦆！LA冬季嘉年华Winter Fest OC！",
+        -1
+      ],
+      "656c3f570000000038022c5f": [
+        "橙县冬日嘉年华",
+        false,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Costa Mesa": {
+    "place_name": "Costa Mesa",
+    "geometry": {
+      "location": {
+        "lat": 33.663843899999996,
+        "lng": -117.90474289999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657cd2ef0000000038024d30"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657cd2ef0000000038024d30": [
+        "Costa Mesa",
+        true,
+        "冲🦆！LA冬季嘉年华Winter Fest OC！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "OC Fair & Event Center": {
+    "place_name": "OC Fair & Event Center",
+    "geometry": {
+      "location": {
+        "lat": 33.6660788,
+        "lng": -117.9052274
+      }
+    },
+    "rating": 4.4,
+    "reviews": 11629,
+    "note": [
+      "657cd2ef0000000038024d30"
+    ],
+    "types": [
+      "Event venue",
+      "Fairground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657cd2ef0000000038024d30": [
+        "OC Fair",
+        true,
+        "冲🦆！LA冬季嘉年华Winter Fest OC！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "68187 Club Cir Dr": {
+    "place_name": "68187 Club Cir Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.955093399999996,
+        "lng": -116.4717373
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "複合大樓"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "68187 Club Cir Dr , Desert Hot Springs",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "28535 Old Town Front St": {
+    "place_name": "28535 Old Town Front St",
+    "geometry": {
+      "location": {
+        "lat": 33.4945161,
+        "lng": -117.15053329999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "28535 Old Town Front St, Temecula",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Two Bunch Palms": {
+    "place_name": "Two Bunch Palms",
+    "geometry": {
+      "location": {
+        "lat": 33.948405,
+        "lng": -116.4882603
+      }
+    },
+    "rating": 4.3,
+    "reviews": 607,
+    "note": [
+      "653335750000000025017f8a",
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Resort hotel",
+      "Wellness hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653335750000000025017f8a": [
+        "Two Bunch Palms： 67425 Two Bunch Palms Trail, Desert Hot Springs, CA, 92240",
+        true,
+        "LA周边｜温泉+热气球的周末旅行 热气球日食",
+        -1
+      ],
+      "63c60c0d000000001f027b31": [
+        "Two Brunch Plams Spa Resort",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "California Dreamin": {
+    "place_name": "California Dreamin",
+    "geometry": {
+      "location": {
+        "lat": 34.024933499999996,
+        "lng": -118.3732031
+      }
+    },
+    "rating": 5,
+    "reviews": 10,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Painting"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "California Dreamin‘",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1059 S Broadway": {
+    "place_name": "1059 S Broadway",
+    "geometry": {
+      "location": {
+        "lat": 34.039971699999995,
+        "lng": -118.25885219999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "1059A S Broadway, Los Angeles, CA90015",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "10625 Palm Dr": {
+    "place_name": "10625 Palm Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.9718254,
+        "lng": -116.5022741
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "10625 Palm Dr, Desert Hot Springs",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Miracle Springs Resort & Spa": {
+    "place_name": "Miracle Springs Resort & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.97165,
+        "lng": -116.50204719999999
+      }
+    },
+    "rating": 4,
+    "reviews": 2683,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Resort hotel",
+      "Hotel",
+      "Massage spa",
+      "Spa"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "Miracle Springs Resort & Spa",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "14500 Palm Dr": {
+    "place_name": "14500 Palm Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.942636799999995,
+        "lng": -116.50070699999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "14500 Palm Dr, Desert Hot Springs",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Tuscan Springs Hotel & Spa": {
+    "place_name": "Tuscan Springs Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.955073,
+        "lng": -116.47160799999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 170,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "park",
+      "Hotel",
+      "Massage spa",
+      "Resort hotel",
+      "Spa",
+      "Spa garden"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "Tuscan Springs Hotel & Spa",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "34450 Rancho California Rd": {
+    "place_name": "34450 Rancho California Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.5330969,
+        "lng": -117.0587671
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "34450 Rancho California Rd, Temecula",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Small Barn Old Town": {
+    "place_name": "Small Barn Old Town",
+    "geometry": {
+      "location": {
+        "lat": 33.4945263,
+        "lng": -117.1505347
+      }
+    },
+    "rating": 4.4,
+    "reviews": 337,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "餐廳"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "Small Barn Old Town",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Carter Estate Winery and Resort": {
+    "place_name": "Carter Estate Winery and Resort",
+    "geometry": {
+      "location": {
+        "lat": 33.5331465,
+        "lng": -117.0587065
+      }
+    },
+    "rating": 4.3,
+    "reviews": 291,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "酒店",
+      "渡假村",
+      "餐廳",
+      "釀酒廠"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "Carter Estate Winery & Resort",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "67425 Two Bunch Palms Trail": {
+    "place_name": "67425 Two Bunch Palms Trail",
+    "geometry": {
+      "location": {
+        "lat": 33.9477602,
+        "lng": -116.4871099
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14",
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "67425 Two Bunch Palms Trail, Desert Hot Springs",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ],
+      "63c60c0d000000001f027b31": [
+        "67425 Two Bunch Palms Trail, Desert Hot Springs",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Aqua Soleil Hotel & Mineral Water Spa": {
+    "place_name": "Aqua Soleil Hotel & Mineral Water Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.9426536,
+        "lng": -116.50102229999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 1195,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Spa"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "Aqua Soleil Hotel & Mineral Water Spa",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "E.N Jewelry Studio": {
+    "place_name": "E.N Jewelry Studio",
+    "geometry": {
+      "location": {
+        "lat": 34.039971699999995,
+        "lng": -118.25885219999999
+      }
+    },
+    "rating": 5,
+    "reviews": 30,
+    "note": [
+      "63c60c0d000000001f027b31"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Jewelry store",
+      "Wood working class"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63c60c0d000000001f027b31": [
+        "EN Jewelry Studio",
+        true,
+        "LA情人节｜最暖心约会必备体验合集",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "308 Oxford Ave": {
+    "place_name": "308 Oxford Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0766123,
+        "lng": -118.30761129999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "308 N Oxford Ave, Los Angeles",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "55137 CA-120": {
+    "place_name": "55137 CA-120",
+    "geometry": {
+      "location": {
+        "lat": 37.8009157,
+        "lng": -118.5281327
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "55137 CA-120, Benton",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1215 Avila Beach Dr": {
+    "place_name": "1215 Avila Beach Dr",
+    "geometry": {
+      "location": {
+        "lat": 35.185952,
+        "lng": -120.7127434
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "1215 Avila Beach Dr, San Luis Obispo",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "62804 Huntington Lake Rd": {
+    "place_name": "62804 Huntington Lake Rd",
+    "geometry": {
+      "location": {
+        "lat": 37.2521461,
+        "lng": -119.1741254
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "62804 Huntington Lake Rd, Lakeshore",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "670 Spectrum Center Dr": {
+    "place_name": "670 Spectrum Center Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.6499644,
+        "lng": -117.7436901
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "670 Spectrum Center Dr",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pershing Square": {
+    "place_name": "Pershing Square",
+    "geometry": {
+      "location": {
+        "lat": 34.048569,
+        "lng": -118.25289169999999
+      }
+    },
+    "rating": 4.2,
+    "reviews": 6420,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Recreation center",
+      "City park",
+      "Park"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Pershing Square Park",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "21080 CA-1": {
+    "place_name": "21080 CA-1",
+    "geometry": {
+      "location": {
+        "lat": 33.6540089,
+        "lng": -117.9958044
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "21080 CA-1",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles, CA 90013": {
+    "place_name": "Los Angeles, CA 90013",
+    "geometry": {
+      "location": {
+        "lat": 34.0445905,
+        "lng": -118.2405557
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "90013",
+        false,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Holiday Ice Rink": {
+    "place_name": "Holiday Ice Rink",
+    "geometry": {
+      "location": {
+        "lat": 34.048550899999995,
+        "lng": -118.2531554
+      }
+    },
+    "rating": 4.4,
+    "reviews": 272,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Ice skating rink",
+      "Event venue",
+      "Recreation center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Holiday Ice Rink Pershing Square",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica": {
+    "place_name": "Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.0194543,
+        "lng": -118.49119119999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Santa Monica",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SkyPark at Santa's Village": {
+    "place_name": "SkyPark at Santa's Village",
+    "geometry": {
+      "location": {
+        "lat": 34.2328287,
+        "lng": -117.16965669999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1846,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Archery range",
+      "Bicycle rental service",
+      "Outdoor sports store",
+      "Restaurant",
+      "Rock climbing",
+      "Shopping mall",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "SkyPark at Santa’s Village",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Paséa Hotel & Spa": {
+    "place_name": "Paséa Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.654083199999995,
+        "lng": -117.9958343
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2132,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Paséa Hotel & Spa",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Irvine, CA 92618": {
+    "place_name": "Irvine, CA 92618",
+    "geometry": {
+      "location": {
+        "lat": 33.665242,
+        "lng": -117.7490656
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "92618",
+        false,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Irvine": {
+    "place_name": "Irvine",
+    "geometry": {
+      "location": {
+        "lat": 33.6845673,
+        "lng": -117.82650489999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Irvine",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "532 S Olive St": {
+    "place_name": "532 S Olive St",
+    "geometry": {
+      "location": {
+        "lat": 34.048558199999995,
+        "lng": -118.2532873
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "532 S Olive St",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "28950 CA-18": {
+    "place_name": "28950 CA-18",
+    "geometry": {
+      "location": {
+        "lat": 34.2310849,
+        "lng": -117.1696588
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "28950 CA-18",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ice at Santa Monica": {
+    "place_name": "Ice at Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.017976,
+        "lng": -118.495662
+      }
+    },
+    "rating": 4.3,
+    "reviews": 376,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Ice skating rink",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Ice at Santa Monica",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1324 5th St": {
+    "place_name": "1324 5th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0181075,
+        "lng": -118.4955629
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "1324 5th St",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Queen Mary": {
+    "place_name": "The Queen Mary",
+    "geometry": {
+      "location": {
+        "lat": 33.7526356,
+        "lng": -118.19032349999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 23591,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "tourist_attraction",
+      "hotel",
+      [
+        "hotel"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Hotel",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "The Ice Rink at Paséa Hotel & Spa",
+        false,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "LA Kings Holiday Ice at L.A. LIVE": {
+    "place_name": "LA Kings Holiday Ice at L.A. LIVE",
+    "geometry": {
+      "location": {
+        "lat": 34.0441553,
+        "lng": -118.26599139999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 89,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Ice skating rink"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "L.A. Kings Holiday Ice",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Huntington Beach": {
+    "place_name": "Huntington Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.6594835,
+        "lng": -117.99880259999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Huntington Beach",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Skyforest": {
+    "place_name": "Skyforest",
+    "geometry": {
+      "location": {
+        "lat": 34.2355334,
+        "lng": -117.1794163
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "Skyforest",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica, CA 90401": {
+    "place_name": "Santa Monica, CA 90401",
+    "geometry": {
+      "location": {
+        "lat": 34.0126379,
+        "lng": -118.495155
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "90401",
+        false,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "92385": {
+    "place_name": "92385",
+    "geometry": {
+      "location": {
+        "lat": 34.2353739,
+        "lng": -117.1794216
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c5f2b000000001b037460"
+    ],
+    "types": [
+      "郵遞區號"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c5f2b000000001b037460": [
+        "92385",
+        true,
+        "LA六家溜冰场‼️全攻略必看，玩的好开心😆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "South Coast Botanic Garden": {
+    "place_name": "South Coast Botanic Garden",
+    "geometry": {
+      "location": {
+        "lat": 33.7832241,
+        "lng": -118.3489436
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1930,
+    "note": [
+      "63be1ce50000000019022406",
+      "6570da71000000003802415f",
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Picnic ground",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "South Coast Botanic Garden, 26300 Crenshaw Blvd",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ],
+      "63be1ce50000000019022406": [
+        "South Coast Botanic Garden",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "South Coast Botanic Garden",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Descanso Gardens": {
+    "place_name": "Descanso Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.200950899999995,
+        "lng": -118.2118943
+      }
+    },
+    "rating": 4.7,
+    "reviews": 8411,
+    "note": [
+      "6570da71000000003802415f",
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Descanso Gardens, 1418 Descanso Dr",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "Descanso Gardens",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Los Angeles County Arboretum": {
+    "place_name": "Los Angeles County Arboretum",
+    "geometry": {
+      "location": {
+        "lat": 34.1425236,
+        "lng": -118.05341179999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4794,
+    "note": [
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "park",
+      "Arboretum",
+      "Garden",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6574e7890000000039030271": [
+        "LA Arboretum",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles Zoo": {
+    "place_name": "Los Angeles Zoo",
+    "geometry": {
+      "location": {
+        "lat": 34.1482153,
+        "lng": -118.28826009999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 18266,
+    "note": [
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Zoo",
+      "Botanical garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6574e7890000000039030271": [
+        "Los Angeles Zoo",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "1601 E 6th St": {
+    "place_name": "1601 E 6th St",
+    "geometry": {
+      "location": {
+        "lat": 34.03899,
+        "lng": -118.22552999999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65864f22000000003801631a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65864f22000000003801631a": [
+        "1601 E 6th St, Los Angeles, CA 90023",
+        true,
+        "时隔35年！艺术家游乐园终于在LA重新开放",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Elim Hot Springs": {
+    "place_name": "Elim Hot Springs",
+    "geometry": {
+      "location": {
+        "lat": 33.4919368,
+        "lng": -116.81815479999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 161,
+    "note": [
+      "655ef9e5000000001b00d846"
+    ],
+    "types": [
+      "靈修中心",
+      "渡假村"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655ef9e5000000001b00d846": [
+        "Elim Hot Springs",
+        true,
+        "Very Nice的洛杉矶周边韩式硫磺温泉小木屋",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "48480 Foolish Pleasure Rd": {
+    "place_name": "48480 Foolish Pleasure Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.491877599999995,
+        "lng": -116.8182109
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655ef9e5000000001b00d846"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655ef9e5000000001b00d846": [
+        "48480 Foolish Pleasure Rd, Aguanga, CA 92536",
+        true,
+        "Very Nice的洛杉矶周边韩式硫磺温泉小木屋",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sierra Madre Blvd": {
+    "place_name": "Sierra Madre Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.1616383,
+        "lng": -118.06804059999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "658c780c000000000f03054a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "658c780c000000000f03054a": [
+        "Sierra Madre Blvd",
+        true,
+        "洛杉矶Pasadena新年花车游行 1/1/2024 八点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Pasadena": {
+    "place_name": "Pasadena",
+    "geometry": {
+      "location": {
+        "lat": 34.1477849,
+        "lng": -118.1445155
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "658c780c000000000f03054a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "658c780c000000000f03054a": [
+        "帕萨迪纳市",
+        false,
+        "洛杉矶Pasadena新年花车游行 1/1/2024 八点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rose Bowl Stadium": {
+    "place_name": "Rose Bowl Stadium",
+    "geometry": {
+      "location": {
+        "lat": 34.161328399999995,
+        "lng": -118.1676462
+      }
+    },
+    "rating": 4.4,
+    "reviews": 7742,
+    "note": [
+      "658c780c000000000f03054a"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Stadium",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "658c780c000000000f03054a": [
+        "玫瑰碗赛",
+        "google_search_matched",
+        "洛杉矶Pasadena新年花车游行 1/1/2024 八点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Colorado Street Bridge": {
+    "place_name": "Colorado Street Bridge",
+    "geometry": {
+      "location": {
+        "lat": 34.144553,
+        "lng": -118.1645887
+      }
+    },
+    "rating": 4.6,
+    "reviews": 561,
+    "note": [
+      "658c780c000000000f03054a"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Bridge",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "658c780c000000000f03054a": [
+        "科罗拉多大道",
+        false,
+        "洛杉矶Pasadena新年花车游行 1/1/2024 八点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Honda Of Downtown Los Angeles": {
+    "place_name": "Honda Of Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.010860699999995,
+        "lng": -118.28660199999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 6565,
+    "note": [
+      "658c780c000000000f03054a"
+    ],
+    "types": [
+      "Honda dealer",
+      "Car dealer",
+      "Used car dealer",
+      "Used truck dealer"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "658c780c000000000f03054a": [
+        "本田",
+        false,
+        "洛杉矶Pasadena新年花车游行 1/1/2024 八点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Universal City Overlook": {
+    "place_name": "Universal City Overlook",
+    "geometry": {
+      "location": {
+        "lat": 34.1288848,
+        "lng": -118.3651417
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1214,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "tourist_attraction",
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Scenic spot",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Overlook Park",
+        false,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Quang Thien Temple": {
+    "place_name": "Quang Thien Temple",
+    "geometry": {
+      "location": {
+        "lat": 34.067971799999995,
+        "lng": -117.64119919999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 27,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "worship",
+      "Buddhist temple"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Quang Thien Temple",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rodeo X Public Market": {
+    "place_name": "Rodeo X Public Market",
+    "geometry": {
+      "location": {
+        "lat": 33.999493799999996,
+        "lng": -117.5781573
+      }
+    },
+    "rating": 4.6,
+    "reviews": 105,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "Food court"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Rodeo X",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "農夫市場": {
+    "place_name": "農夫市場",
+    "geometry": {
+      "location": {
+        "lat": 34.072011499999995,
+        "lng": -118.3603699
+      }
+    },
+    "rating": 4.6,
+    "reviews": 14661,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "農產品市場",
+      "雜貨店",
+      "雪糕店",
+      "市場",
+      "餐廳"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Farmer's Market Saturdays",
+        false,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Encore Boba Studio": {
+    "place_name": "Encore Boba Studio",
+    "geometry": {
+      "location": {
+        "lat": 33.9991616,
+        "lng": -117.5786062
+      }
+    },
+    "rating": 4.3,
+    "reviews": 12,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "珍珠奶茶店"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Encore Boba Studio",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Trapped! Escape Room": {
+    "place_name": "Trapped! Escape Room",
+    "geometry": {
+      "location": {
+        "lat": 34.108989,
+        "lng": -117.82203399999999
+      }
+    },
+    "rating": 5,
+    "reviews": 605,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "娛樂中心"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Trapped! Escape Room",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Center Ice Skating Arena": {
+    "place_name": "Center Ice Skating Arena",
+    "geometry": {
+      "location": {
+        "lat": 34.062265,
+        "lng": -117.6473958
+      }
+    },
+    "rating": 4.4,
+    "reviews": 402,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "Ice skating rink"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Center Ice Skating Arena",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bridge to Nowhere - Trailhead": {
+    "place_name": "Bridge to Nowhere - Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.2370999,
+        "lng": -117.764899
+      }
+    },
+    "rating": 4.7,
+    "reviews": 552,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Bridge to Nowhere",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Treasures & Junk Antique Mall": {
+    "place_name": "Treasures & Junk Antique Mall",
+    "geometry": {
+      "location": {
+        "lat": 34.061788899999996,
+        "lng": -117.6602145
+      }
+    },
+    "rating": 4.6,
+    "reviews": 450,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Antique store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Treasures N Junk",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Cat Cafe Rescue non profit": {
+    "place_name": "Cat Cafe Rescue non profit",
+    "geometry": {
+      "location": {
+        "lat": 33.9839359,
+        "lng": -117.71567359999999
+      }
+    },
+    "rating": 3.3,
+    "reviews": 29,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "Cattery",
+      "Animal rescue service",
+      "Pet adoption service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Cat Cafe Rescue",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Claremont Forum Bookshop": {
+    "place_name": "Claremont Forum Bookshop",
+    "geometry": {
+      "location": {
+        "lat": 34.094236599999995,
+        "lng": -117.7216976
+      }
+    },
+    "rating": 4.7,
+    "reviews": 52,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Used book store",
+      "Farmers' market",
+      "Non-profit organization"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Claremont Forum",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "A Lot of Good": {
+    "place_name": "A Lot of Good",
+    "geometry": {
+      "location": {
+        "lat": 34.1063401,
+        "lng": -117.68926569999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 189,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "Thrift store"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "A Lot of Good Thrift",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Maclin Open Air Market": {
+    "place_name": "Maclin Open Air Market",
+    "geometry": {
+      "location": {
+        "lat": 34.017773999999996,
+        "lng": -117.642575
+      }
+    },
+    "rating": 4.4,
+    "reviews": 2656,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "Market"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Maclin Open Air Market",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sierra Vista Park": {
+    "place_name": "Sierra Vista Park",
+    "geometry": {
+      "location": {
+        "lat": 34.065940999999995,
+        "lng": -118.114257
+      }
+    },
+    "rating": 4.2,
+    "reviews": 160,
+    "note": [
+      "6587ab6500000000390325a1"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6587ab6500000000390325a1": [
+        "Sierra Vista Park",
+        true,
+        "洛杉矶Ontario约会指南💋打卡18件浪漫小事",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Temecula": {
+    "place_name": "Temecula",
+    "geometry": {
+      "location": {
+        "lat": 33.4934243,
+        "lng": -117.14881559999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655f0e8d000000001701d3d2",
+      "653335750000000025017f8a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "Temecula",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ],
+      "653335750000000025017f8a": [
+        "Temecula",
+        true,
+        "LA周边｜温泉+热气球的周末旅行 热气球日食",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mendocino Farms": {
+    "place_name": "Mendocino Farms",
+    "geometry": {
+      "location": {
+        "lat": 34.0487793,
+        "lng": -118.26077079999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 323,
+    "note": [
+      "6560578b000000000f02af8a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Sandwich shop",
+      "Caterer",
+      "Restaurant",
+      "Salad shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6560578b000000000f02af8a": [
+        "Mendocino",
+        true,
+        "🎄一定要在加州童话小镇过一次浪漫圣诞!!",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Big Bear Lake": {
+    "place_name": "Big Bear Lake",
+    "geometry": {
+      "location": {
+        "lat": 34.243896299999996,
+        "lng": -116.91142149999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6560578b000000000f02af8a",
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6560578b000000000f02af8a": [
+        "Big Bear Lake",
+        true,
+        "🎄一定要在加州童话小镇过一次浪漫圣诞!!",
+        -1
+      ],
+      "655f0e8d000000001701d3d2": [
+        "Big Bear Lake",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mammoth Lakes": {
+    "place_name": "Mammoth Lakes",
+    "geometry": {
+      "location": {
+        "lat": 37.648545999999996,
+        "lng": -118.972079
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6560578b000000000f02af8a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6560578b000000000f02af8a": [
+        "Mammoth Lakes",
+        true,
+        "🎄一定要在加州童话小镇过一次浪漫圣诞!!",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "San Diego": {
+    "place_name": "San Diego",
+    "geometry": {
+      "location": {
+        "lat": 32.715738,
+        "lng": -117.1610838
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6560578b000000000f02af8a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6560578b000000000f02af8a": [
+        "San Diego",
+        true,
+        "🎄一定要在加州童话小镇过一次浪漫圣诞!!",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fresno": {
+    "place_name": "Fresno",
+    "geometry": {
+      "location": {
+        "lat": 36.7377981,
+        "lng": -119.78712469999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6560578b000000000f02af8a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6560578b000000000f02af8a": [
+        "Fresno",
+        true,
+        "🎄一定要在加州童话小镇过一次浪漫圣诞!!",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "210 N Grand Ave": {
+    "place_name": "210 N Grand Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0571225,
+        "lng": -118.24762899999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Grand Park, 210 W Temple St",
+        false,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Heritage Square Museum": {
+    "place_name": "Heritage Square Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.0882497,
+        "lng": -118.2079756
+      }
+    },
+    "rating": 4.7,
+    "reviews": 652,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Heritage museum",
+      "History museum",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Heritage Square Museum, 3800 Homer St",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Television City": {
+    "place_name": "Television City",
+    "geometry": {
+      "location": {
+        "lat": 34.0750356,
+        "lng": -118.3600953
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1130,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "Television station"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Television City, 7800 Beverly Blvd",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Badwater Basin": {
+    "place_name": "Badwater Basin",
+    "geometry": {
+      "location": {
+        "lat": 36.2299795,
+        "lng": -116.7677775
+      }
+    },
+    "rating": 4.8,
+    "reviews": 3656,
+    "note": [
+      "654a622e000000002500bf63"
+    ],
+    "types": [
+      "旅遊景點",
+      "公園"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654a622e000000002500bf63": [
+        "Badwater Basin",
+        true,
+        "不用去玻利维亚了！加州出现限时版天空之镜！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "死亡谷國家公園": {
+    "place_name": "死亡谷國家公園",
+    "geometry": {
+      "location": {
+        "lat": 36.505389099999995,
+        "lng": -117.0794078
+      }
+    },
+    "rating": 4.7,
+    "reviews": 16936,
+    "note": [
+      "654a622e000000002500bf63"
+    ],
+    "types": [
+      "國家公園",
+      "旅遊景點"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654a622e000000002500bf63": [
+        "死亡谷国家公园",
+        true,
+        "不用去玻利维亚了！加州出现限时版天空之镜！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Riverside Convention Center": {
+    "place_name": "Riverside Convention Center",
+    "geometry": {
+      "location": {
+        "lat": 33.9850512,
+        "lng": -117.3715869
+      }
+    },
+    "rating": 4.5,
+    "reviews": 886,
+    "note": [
+      "65960bec000000001d0293cb"
+    ],
+    "types": [
+      "Convention center",
+      "Banquet hall",
+      "Event venue",
+      "Wedding chapel",
+      "Wedding service",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65960bec000000001d0293cb": [
+        "Riverside Convention Center",
+        true,
+        "LA｜2024新年“漫步指南”✨最美灯展即将截止！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Mission Inn Hotel & Spa": {
+    "place_name": "The Mission Inn Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.9833724,
+        "lng": -117.373307
+      }
+    },
+    "rating": 4.5,
+    "reviews": 9862,
+    "note": [
+      "65960bec000000001d0293cb"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Business to business service",
+      "Spa",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65960bec000000001d0293cb": [
+        "Mission Inn",
+        true,
+        "LA｜2024新年“漫步指南”✨最美灯展即将截止！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Fratello’s Ristorante & Pizzeria": {
+    "place_name": "Fratello’s Ristorante & Pizzeria",
+    "geometry": {
+      "location": {
+        "lat": 33.7444491,
+        "lng": -116.71401039999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 753,
+    "note": [
+      "656d779b000000000801dbe1"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Italian restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656d779b000000000801dbe1": [
+        "Fratello‘s Ristorante & Pizzeria",
+        true,
+        "冷门小镇｜加州Idyllwild特种兵一日游",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "26300 Crenshaw Blvd": {
+    "place_name": "26300 Crenshaw Blvd",
+    "geometry": {
+      "location": {
+        "lat": 33.782939899999995,
+        "lng": -118.34546429999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63be1ce50000000019022406"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63be1ce50000000019022406": [
+        "26300 Crenshaw Blvd., Palos Verdes Peninsula 90274",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2705 Fairplex Dr": {
+    "place_name": "2705 Fairplex Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0833538,
+        "lng": -117.7740166
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63be1ce50000000019022406"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63be1ce50000000019022406": [
+        "2705 Fairplex Dr, Pomona, CA, 91768",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Balboa Island": {
+    "place_name": "Balboa Island",
+    "geometry": {
+      "location": {
+        "lat": 33.6072954,
+        "lng": -117.897071
+      }
+    },
+    "rating": 4.8,
+    "reviews": 700,
+    "note": [
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "Island"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "Balboa Island",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Coronado": {
+    "place_name": "Coronado",
+    "geometry": {
+      "location": {
+        "lat": 32.685885299999995,
+        "lng": -117.18308909999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "Coronado",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ojai": {
+    "place_name": "Ojai",
+    "geometry": {
+      "location": {
+        "lat": 34.448049499999996,
+        "lng": -119.24288899999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "ojai",
+        "google_search_matched",
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Solana Beach": {
+    "place_name": "Solana Beach",
+    "geometry": {
+      "location": {
+        "lat": 32.991155,
+        "lng": -117.27114809999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "Solana Beach",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Oak Glen": {
+    "place_name": "Oak Glen",
+    "geometry": {
+      "location": {
+        "lat": 34.0494574,
+        "lng": -116.94780449999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655f0e8d000000001701d3d2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655f0e8d000000001701d3d2": [
+        "Oak Glen",
+        true,
+        "LA周末｜十个小众绝美周边小镇‼️值得去",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles County Museum of Art": {
+    "place_name": "Los Angeles County Museum of Art",
+    "geometry": {
+      "location": {
+        "lat": 34.0639323,
+        "lng": -118.3592293
+      }
+    },
+    "rating": 4.6,
+    "reviews": 17902,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Art center",
+      "Art gallery",
+      "History museum",
+      "Performing arts group",
+      "Performing arts theater",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "洛杉矶艺术博物馆（LACMA）",
+        "google_search_matched",
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Broad": {
+    "place_name": "The Broad",
+    "geometry": {
+      "location": {
+        "lat": 34.0545021,
+        "lng": -118.25018019999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 13826,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Modern art museum",
+      "Art gallery",
+      "Art museum",
+      "Arts organization",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "布洛德博物馆（The Broad）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Grand Central Market": {
+    "place_name": "Grand Central Market",
+    "geometry": {
+      "location": {
+        "lat": 34.050872,
+        "lng": -118.2490552
+      }
+    },
+    "rating": 4.5,
+    "reviews": 30461,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Food court",
+      "Market",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "大中央市场（Grand Central Market)",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Griffith Observatory": {
+    "place_name": "Griffith Observatory",
+    "geometry": {
+      "location": {
+        "lat": 34.118407,
+        "lng": -118.30042189999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "格里菲斯天文台（Griffith Observatory）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Getty": {
+    "place_name": "The Getty",
+    "geometry": {
+      "location": {
+        "lat": 34.078035799999995,
+        "lng": -118.4740954
+      }
+    },
+    "rating": 4.8,
+    "reviews": 28948,
+    "note": [
+      "659102d900000000120037be",
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Modern art museum",
+      "Museum",
+      "Non-profit organization",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "659102d900000000120037be": [
+        "The Getty Center",
+        true,
+        "🇺🇸洛杉矶周末｜圣诞月🎄",
+        -1
+      ],
+      "64929f520000000013011b86": [
+        "美国盖提艺术中心（The Getty）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Rodeo Dr": {
+    "place_name": "Rodeo Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0677829,
+        "lng": -118.4016273
+      }
+    },
+    "rating": 4.6,
+    "reviews": 866,
+    "note": [
+      "64929f520000000013011b86"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64929f520000000013011b86": [
+        "罗迪欧大道（Rodeo Drive）",
+        true,
+        "📌6年加州人｜ 总结洛杉矶必去打卡景点推荐",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Crystal Lake Cafe": {
+    "place_name": "Crystal Lake Cafe",
+    "geometry": {
+      "location": {
+        "lat": 34.3241598,
+        "lng": -117.83556779999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 590,
+    "note": [
+      "63cf7685000000002202b18a"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Cafe",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63cf7685000000002202b18a": [
+        "Crystal Lake Cafe",
+        true,
+        "洛杉矶仅一小时车程的雪山咖啡厅你喝了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1541 N Cahuenga Blvd": {
+    "place_name": "1541 N Cahuenga Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.099353199999996,
+        "lng": -118.3299656
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "1541 N Cahuenga Blvd, Los Angeles, CA",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Orange County": {
+    "place_name": "Orange County",
+    "geometry": {
+      "location": {
+        "lat": 33.7174708,
+        "lng": -117.8311428
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "橙县冬日嘉年华",
+        false,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eggslut": {
+    "place_name": "Eggslut",
+    "geometry": {
+      "location": {
+        "lat": 34.050588499999996,
+        "lng": -118.2486089
+      }
+    },
+    "rating": 4.4,
+    "reviews": 3796,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Breakfast restaurant",
+      "American restaurant",
+      "Brunch restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "连锁快餐店美食节",
+        false,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8 Fair Dr": {
+    "place_name": "8 Fair Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.6630451,
+        "lng": -117.8971127
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "8 Fair Dr, Costa Mesa, CA 92626",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "10899 Wilshire Blvd": {
+    "place_name": "10899 Wilshire Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0594059,
+        "lng": -118.4435848
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "10899 Wilshire Blvd, Los Angeles, CA 90024",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Newport Beach, CA 92661": {
+    "place_name": "Newport Beach, CA 92661",
+    "geometry": {
+      "location": {
+        "lat": 33.602788,
+        "lng": -117.91025379999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "Newport Beach, CA 92661",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles Convention Center": {
+    "place_name": "Los Angeles Convention Center",
+    "geometry": {
+      "location": {
+        "lat": 34.040320699999995,
+        "lng": -118.2695624
+      }
+    },
+    "rating": 4.5,
+    "reviews": 10976,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Conferentiecentrum",
+      "Congrescentrum",
+      "Evenementenlocatie"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "Los Angeles Convention Center",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Vermont Hollywood": {
+    "place_name": "The Vermont Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.0903938,
+        "lng": -118.2914773
+      }
+    },
+    "rating": 4.5,
+    "reviews": 207,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Live music venue",
+      "Bar",
+      "Dance club",
+      "Event venue",
+      "Recording studio"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "The Vermont Hollywood",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Gilchrist Farm": {
+    "place_name": "Gilchrist Farm",
+    "geometry": {
+      "location": {
+        "lat": 34.486142,
+        "lng": -118.463269
+      }
+    },
+    "rating": 4.6,
+    "reviews": 518,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "農場",
+      "聖誕市集",
+      "表演場地",
+      "小馬騎乘服務",
+      "南瓜園",
+      "夏令營"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "Gilchrist Farms",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Gentle Barn": {
+    "place_name": "The Gentle Barn",
+    "geometry": {
+      "location": {
+        "lat": 34.4636892,
+        "lng": -118.41221189999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 494,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "動物保護組織",
+      "動物救援服務",
+      "動物收容所",
+      "非牟利組織",
+      "旅遊景點"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "The Gentle Barn",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Canzelle Alpacas": {
+    "place_name": "Canzelle Alpacas",
+    "geometry": {
+      "location": {
+        "lat": 34.4215673,
+        "lng": -119.5340621
+      }
+    },
+    "rating": 4.9,
+    "reviews": 133,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "大牧場",
+      "農場",
+      "旅遊景點"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "Canzelle Alpacas",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Kfar Saba Urban Farm": {
+    "place_name": "Kfar Saba Urban Farm",
+    "geometry": {
+      "location": {
+        "lat": 34.2233656,
+        "lng": -118.57370309999999
+      }
+    },
+    "rating": 5,
+    "reviews": 8,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "Animal rescue service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "Kfar Saba Urban Farm",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Montebello Barnyard Zoo": {
+    "place_name": "Montebello Barnyard Zoo",
+    "geometry": {
+      "location": {
+        "lat": 34.0163969,
+        "lng": -118.09008469999999
+      }
+    },
+    "rating": 4.1,
+    "reviews": 1180,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "Zoo",
+      "Children's party service",
+      "Party planner",
+      "Pony ride service"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "Montebello Barnyard Zoo",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "4036 Foothill Rd": {
+    "place_name": "4036 Foothill Rd",
+    "geometry": {
+      "location": {
+        "lat": 34.417441499999995,
+        "lng": -119.5347991
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "64be9062000000001700dd88"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "64be9062000000001700dd88": [
+        "4036 Foothill Rd, Carpinteria",
+        true,
+        "LA宠物农场 | 🥰和小动物亲密接触",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eaton Saddle Trailhead": {
+    "place_name": "Eaton Saddle Trailhead",
+    "geometry": {
+      "location": {
+        "lat": 34.239377399999995,
+        "lng": -118.0933634
+      }
+    },
+    "rating": 4.8,
+    "reviews": 161,
+    "note": [
+      "65349a50000000001e0202a6"
+    ],
+    "types": [
+      "natural_feature",
+      "Hiking area"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65349a50000000001e0202a6": [
+        "Eaton saddle trailhead parking lot.",
+        true,
+        "Pasadena的天然氧吧 | Mt. Lowe Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "6WQ4+PMF": {
+    "place_name": "6WQ4+PMF",
+    "geometry": {
+      "location": {
+        "lat": 34.2393125,
+        "lng": -118.0933281
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65349a50000000001e0202a6"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65349a50000000001e0202a6": [
+        "6WQ4+PMF Mt Wilson, California.",
+        true,
+        "Pasadena的天然氧吧 | Mt. Lowe Trail",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2201 Laguna St": {
+    "place_name": "2201 Laguna St",
+    "geometry": {
+      "location": {
+        "lat": 34.4385963,
+        "lng": -119.7135186
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "2201 Laguna Street, Santa Barbara",
+        true,
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "721 E Cabrillo Blvd": {
+    "place_name": "721 E Cabrillo Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.4163152,
+        "lng": -119.67505469999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "721 E Cabrillo Blvd, Santa Barbara",
+        true,
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Barbara Chromatic Gate": {
+    "place_name": "Santa Barbara Chromatic Gate",
+    "geometry": {
+      "location": {
+        "lat": 34.4163545,
+        "lng": -119.6751213
+      }
+    },
+    "rating": 4.6,
+    "reviews": 30,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "𝐇𝐞𝐫𝐛𝐞𝐫𝐭 𝐁𝐚𝐲𝐞𝐫’𝐬 𝐂𝐡𝐫𝐨𝐦𝐚𝐭𝐢𝐜 𝐆𝐚𝐭𝐞",
+        false,
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Old Mission Santa Barbara 1786": {
+    "place_name": "Old Mission Santa Barbara 1786",
+    "geometry": {
+      "location": {
+        "lat": 34.4383262,
+        "lng": -119.7140678
+      }
+    },
+    "rating": 4.6,
+    "reviews": 4178,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "tourist_attraction",
+      "museum",
+      [
+        "museum"
+      ],
+      "Mission",
+      "Historical landmark",
+      "Museum"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "𝐎𝐥𝐝 𝐌𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐚𝐧𝐭𝐚 𝐁𝐚𝐫𝐛𝐚𝐫𝐚",
+        "google_search_matched",
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sensorio": {
+    "place_name": "Sensorio",
+    "geometry": {
+      "location": {
+        "lat": 35.6523768,
+        "lng": -120.6212434
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2195,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "Art center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "𝐁𝐫𝐮𝐜𝐞 𝐌𝐮𝐧𝐫𝐨: 𝐋𝐢𝐠𝐡𝐭 𝐚𝐭 𝐒𝐞𝐧­𝐬𝐨­𝐫𝐢𝐨",
+        "google_search_matched",
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "4380 CA-46": {
+    "place_name": "4380 CA-46",
+    "geometry": {
+      "location": {
+        "lat": 35.652284699999996,
+        "lng": -120.6209974
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6504a9e0000000001303cbfb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6504a9e0000000001303cbfb": [
+        "4380 Highway 46 East, Paso Robles",
+        "google_search_matched",
+        "南加州｜從洛杉磯回灣區的沿途景點打卡攻略✨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

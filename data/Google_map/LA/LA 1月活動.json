@@ -1,0 +1,5079 @@
+{
+  "Nya Studios Inc": {
+    "place_name": "Nya Studios Inc",
+    "geometry": {
+      "location": {
+        "lat": 34.0993948,
+        "lng": -118.33012169999999
+      }
+    },
+    "rating": 4.9,
+    "reviews": 20,
+    "note": [
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "Movie studio",
+      "Banquet hall",
+      "Event venue",
+      "Film production company",
+      "Live music venue",
+      "Photography studio",
+      "Stage",
+      "Stage lighting equipment supplier",
+      "Video production service",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653fbb4e000000001e02ea45": [
+        "Nya Studios, 1541 N Cahuenga Blvd",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Bowl": {
+    "place_name": "Hollywood Bowl",
+    "geometry": {
+      "location": {
+        "lat": 34.112224,
+        "lng": -118.3391279
+      }
+    },
+    "rating": 4.7,
+    "reviews": 16104,
+    "note": [
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Concert hall",
+      "Amphitheater",
+      "Live music venue",
+      "Non-profit organization",
+      "Performing arts",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653fbb4e000000001e02ea45": [
+        "Hollywood Bowl, 2301 N Highland Ave",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Descanso Gardens": {
+    "place_name": "Descanso Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.200950899999995,
+        "lng": -118.2118943
+      }
+    },
+    "rating": 4.7,
+    "reviews": 8484,
+    "note": [
+      "654f4a19000000003103de11",
+      "656c0ba7000000003801ff38",
+      "654c5edf000000000f02b05c",
+      "655e54280000000032027cf2",
+      "6574e7890000000039030271",
+      "655d400d00000000170364cb",
+      "6567af580000000032030b53",
+      "6570da71000000003802415f",
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "park",
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Descanso花园",
+        true,
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ],
+      "655e54280000000032027cf2": [
+        "Enchanted: Forest Of Light at Descanso Gardens 魔法：德斯坎索花园的光之森林",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ],
+      "6567af580000000032030b53": [
+        "魔法：德斯康索花园的光之森林",
+        "google_search_matched",
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ],
+      "654f4a19000000003103de11": [
+        "Descanso Gardens",
+        true,
+        "精彩的月份开跑了，免费、收费的都有。",
+        -1
+      ],
+      "656c0ba7000000003801ff38": [
+        "Descanso Gardens",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "Descanso Gardens",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ],
+      "655d400d00000000170364cb": [
+        "Descanso Gardens",
+        true,
+        "植物园 节日期间有灯展",
+        -1
+      ],
+      "6570da71000000003802415f": [
+        "Descanso Gardens, 1418 Descanso Dr",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ],
+      "653fbb4e000000001e02ea45": [
+        "Descanso Gardens, 1418 Descanso Dr",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "South Coast Botanic Garden": {
+    "place_name": "South Coast Botanic Garden",
+    "geometry": {
+      "location": {
+        "lat": 33.7832241,
+        "lng": -118.3489436
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1930,
+    "note": [
+      "63be1ce50000000019022406",
+      "6570da71000000003802415f",
+      "653fbb4e000000001e02ea45",
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Botanical garden",
+      "Picnic ground",
+      "Tourist attraction",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "South Coast Botanic Garden, 26300 Crenshaw Blvd",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ],
+      "63be1ce50000000019022406": [
+        "South Coast Botanic Garden",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ],
+      "653fbb4e000000001e02ea45": [
+        "South Coast Botanic Garden",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "South Coast Botanic Garden",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1000 Vin Scully Ave": {
+    "place_name": "1000 Vin Scully Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0735795,
+        "lng": -118.24046709999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "653fbb4e000000001e02ea45": [
+        "Dodger Stadium,1000 Vin Scully Ave",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hollywood Pantages Theatre": {
+    "place_name": "Hollywood Pantages Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.102009599999995,
+        "lng": -118.32578889999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6944,
+    "note": [
+      "656c0ba7000000003801ff38",
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "Performing arts theater",
+      "Event venue",
+      "Live music venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Pantages Theatre",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "653fbb4e000000001e02ea45": [
+        "Pantages Theatre, 6233 Hollywood Boulevard",
+        "google_search_matched",
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles Zoo": {
+    "place_name": "Los Angeles Zoo",
+    "geometry": {
+      "location": {
+        "lat": 34.1482153,
+        "lng": -118.28826009999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 18395,
+    "note": [
+      "65723a60000000003801dfa5",
+      "6574e7890000000039030271",
+      "656ae2e4000000003802f15b",
+      "655eac3f000000001100e12c",
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Zoo",
+      "Botanical garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656ae2e4000000003802f15b": [
+        "LA Zoo洛杉矶动物园",
+        "google_search_matched",
+        "不去后悔🎄洛杉矶12月圣诞灯光秀5大打卡地",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "L.A. Zoo",
+        "google_search_matched",
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ],
+      "655eac3f000000001100e12c": [
+        "LA Zoo",
+        "google_search_matched",
+        "20个南加州假期好去处（下）",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "Los Angeles Zoo",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ],
+      "653fbb4e000000001e02ea45": [
+        "Los Angeles Zoo, 5333 Zoo Dr",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Los Angeles Convention Center": {
+    "place_name": "Los Angeles Convention Center",
+    "geometry": {
+      "location": {
+        "lat": 34.040320699999995,
+        "lng": -118.2695624
+      }
+    },
+    "rating": 4.5,
+    "reviews": 10961,
+    "note": [
+      "654c5edf000000000f02b05c",
+      "656c3f570000000038022c5f",
+      "65723a60000000003801dfa5",
+      "653fbb4e000000001e02ea45"
+    ],
+    "types": [
+      "Convention center",
+      "Conference center",
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Convention Center",
+        true,
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Los Angeles Convention Center",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ],
+      "656c3f570000000038022c5f": [
+        "Los Angeles Convention Center",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ],
+      "653fbb4e000000001e02ea45": [
+        "Los Angeles Convention Center",
+        true,
+        "洛杉矶好去处｜11月的吃喝玩乐都总结在这啦",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Mission Inn Hotel & Spa": {
+    "place_name": "The Mission Inn Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.9833724,
+        "lng": -117.373307
+      }
+    },
+    "rating": 4.5,
+    "reviews": 9862,
+    "note": [
+      "654f4a19000000003103de11",
+      "656c0ba7000000003801ff38",
+      "65796e250000000038035c2b",
+      "655e54280000000032027cf2",
+      "6576d72d00000000090206e5"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Business to business service",
+      "Spa",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6576d72d00000000090206e5": [
+        "Mission Inn Hotel",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ],
+      "655e54280000000032027cf2": [
+        "Mission Inn Hotel & Spa（3649 Mission Inn Avenue, Riverside）",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ],
+      "654f4a19000000003103de11": [
+        "Mission Inn",
+        true,
+        "精彩的月份开跑了，免费、收费的都有。",
+        -1
+      ],
+      "65796e250000000038035c2b": [
+        "Mission Inn",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ],
+      "656c0ba7000000003801ff38": [
+        "Mission Inn",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Marina Del Rey": {
+    "place_name": "Marina Del Rey",
+    "geometry": {
+      "location": {
+        "lat": 33.980289299999995,
+        "lng": -118.4517449
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6575decf0000000038014f2e",
+      "656613f4000000003300a5af",
+      "65723a60000000003801dfa5",
+      "657bc19e0000000009025215",
+      "656efd2400000000380328f4",
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "Marina Del Rey",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ],
+      "656efd2400000000380328f4": [
+        "玛丽安德尔湾",
+        "google_search_matched",
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "657bc19e0000000009025215": [
+        "Marina del Rey",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Marina del Rey",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ],
+      "656de7830000000038028394": [
+        "Marina del Rey Boat Parade",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ],
+      "656613f4000000003300a5af": [
+        "Marina Del Rey Boat Parade",
+        true,
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "The Grove": {
+    "place_name": "The Grove",
+    "geometry": {
+      "location": {
+        "lat": 34.0719407,
+        "lng": -118.3575164
+      }
+    },
+    "rating": 4.6,
+    "reviews": 24114,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "656613f4000000003300a5af",
+      "65796e250000000038035c2b",
+      "6576d72d00000000090206e5",
+      "656ae2e4000000003802f15b"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shopping mall",
+      "Event venue",
+      "Fashion accessories store",
+      "Live music venue",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656ae2e4000000003802f15b": [
+        "The Grove葛洛夫中心",
+        true,
+        "不去后悔🎄洛杉矶12月圣诞灯光秀5大打卡地",
+        -1
+      ],
+      "65796e250000000038035c2b": [
+        "The Grove格罗夫购物中心",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ],
+      "6577ffcd00000000090208f7": [
+        "The Grove",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "6576d72d00000000090206e5": [
+        "The Grove",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ],
+      "656613f4000000003300a5af": [
+        "The Grove",
+        true,
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Los Angeles County Arboretum": {
+    "place_name": "Los Angeles County Arboretum",
+    "geometry": {
+      "location": {
+        "lat": 34.1425236,
+        "lng": -118.05341179999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 4794,
+    "note": [
+      "655d400d00000000170364cb",
+      "655e54280000000032027cf2",
+      "656613f4000000003300a5af",
+      "6574e7890000000039030271"
+    ],
+    "types": [
+      "park",
+      "park",
+      "Arboretum",
+      "Garden",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "Lightscape-The Arboretum 洛杉矶县植物园灯光秀",
+        "google_search_matched",
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ],
+      "655d400d00000000170364cb": [
+        "洛杉矶植物园",
+        "google_search_matched",
+        "植物园 节日期间有灯展",
+        -1
+      ],
+      "6574e7890000000039030271": [
+        "LA Arboretum",
+        true,
+        "🇺🇸梦幻圣诞灯关秀汇总💫大人宝宝都震撼🎆",
+        -1
+      ],
+      "656613f4000000003300a5af": [
+        "Lightscape",
+        "google_search_matched",
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Holiday Road": {
+    "place_name": "Holiday Road",
+    "geometry": {
+      "location": {
+        "lat": 34.1046666,
+        "lng": -118.7091183
+      }
+    },
+    "rating": 4,
+    "reviews": 26,
+    "note": [
+      "656613f4000000003300a5af"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Festival",
+      "Amusement park",
+      "Children's amusement center",
+      "Fairground",
+      "Nature preserve"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656613f4000000003300a5af": [
+        "Los Angeles Holiday Road",
+        true,
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Christmas Tree Lane": {
+    "place_name": "Christmas Tree Lane",
+    "geometry": {
+      "location": {
+        "lat": 34.1890004,
+        "lng": -118.1364804
+      }
+    },
+    "rating": 4.4,
+    "reviews": 146,
+    "note": [
+      "656c0ba7000000003801ff38",
+      "656613f4000000003300a5af"
+    ],
+    "types": [
+      "Christmas market",
+      "Christmas tree farm"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Christmas Tree Lane Santa Rosa Ave，Altadena",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "656613f4000000003300a5af": [
+        "Christmas Tree Lane",
+        true,
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Griffith Park & Southern Railroad": {
+    "place_name": "Griffith Park & Southern Railroad",
+    "geometry": {
+      "location": {
+        "lat": 34.1218827,
+        "lng": -118.2734728
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1062,
+    "note": [
+      "656613f4000000003300a5af"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Amusement park",
+      "Amusement center",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656613f4000000003300a5af": [
+        "Holiday Lights Train Ride",
+        "google_search_matched",
+        "🎄南加几个热门的节日灯展已经开始啦~",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LA Kings Holiday Ice at L.A. LIVE": {
+    "place_name": "LA Kings Holiday Ice at L.A. LIVE",
+    "geometry": {
+      "location": {
+        "lat": 34.0441553,
+        "lng": -118.26599139999999
+      }
+    },
+    "rating": 4.3,
+    "reviews": 89,
+    "note": [
+      "655c7159000000003202757b"
+    ],
+    "types": [
+      "Ice skating rink"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c7159000000003202757b": [
+        "L.A. Kings Holiday Ice",
+        true,
+        "滑冰月已陆续开启了，你准备好了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Holiday Ice Rink": {
+    "place_name": "Holiday Ice Rink",
+    "geometry": {
+      "location": {
+        "lat": 34.048550899999995,
+        "lng": -118.2531554
+      }
+    },
+    "rating": 4.4,
+    "reviews": 275,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "655c7159000000003202757b",
+      "656be6910000000039031270"
+    ],
+    "types": [
+      "Ice skating rink",
+      "Event venue",
+      "Recreation center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656be6910000000039031270": [
+        "Pershing Square Holiday Ice Rink",
+        true,
+        "⛸️洛杉矶5个滑冰场｜冬季节日灯光下浪漫滑冰",
+        -1
+      ],
+      "6577ffcd00000000090208f7": [
+        "Holiday Ice Rink Pershing Square",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "655c7159000000003202757b": [
+        "Holiday Ice Rink Pershing Square",
+        true,
+        "滑冰月已陆续开启了，你准备好了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "41902 Main St": {
+    "place_name": "41902 Main St",
+    "geometry": {
+      "location": {
+        "lat": 33.4939385,
+        "lng": -117.1476759
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655c7159000000003202757b"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c7159000000003202757b": [
+        "Temecula 的 41902 Main St.",
+        true,
+        "滑冰月已陆续开启了，你准备好了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "3rd Street Promenade": {
+    "place_name": "3rd Street Promenade",
+    "geometry": {
+      "location": {
+        "lat": 34.0164013,
+        "lng": -118.4968895
+      }
+    },
+    "rating": 4.4,
+    "reviews": 113,
+    "note": [
+      "655c7159000000003202757b"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655c7159000000003202757b": [
+        "Santa Monica 的 3rd Street Promenade",
+        true,
+        "滑冰月已陆续开启了，你准备好了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Irvine Spectrum Center": {
+    "place_name": "Irvine Spectrum Center",
+    "geometry": {
+      "location": {
+        "lat": 33.6499804,
+        "lng": -117.7437226
+      }
+    },
+    "rating": 4.6,
+    "reviews": 15772,
+    "note": [
+      "655c7159000000003202757b",
+      "656be6910000000039031270"
+    ],
+    "types": [
+      "Shopping mall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656be6910000000039031270": [
+        "Irvine Spectrum Center",
+        true,
+        "⛸️洛杉矶5个滑冰场｜冬季节日灯光下浪漫滑冰",
+        -1
+      ],
+      "655c7159000000003202757b": [
+        "Irvine Spectrum Center 的 Skating Under the Stars",
+        true,
+        "滑冰月已陆续开启了，你准备好了吗？",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sparkle": {
+    "place_name": "Sparkle",
+    "geometry": {
+      "location": {
+        "lat": 34.0332601,
+        "lng": -118.2528217
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6546b6d6000000001e03fc2a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6546b6d6000000001e03fc2a": [
+        "Sparkle DTLA",
+        true,
+        "洛杉矶|神奇的节日灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "750 W 7th St": {
+    "place_name": "750 W 7th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0477529,
+        "lng": -118.25866669999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6546b6d6000000001e03fc2a"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6546b6d6000000001e03fc2a": [
+        "750 W 7th St，Los Angeles, CA 90017",
+        true,
+        "洛杉矶|神奇的节日灯光秀",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1215 Tropical Ave": {
+    "place_name": "1215 Tropical Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0866227,
+        "lng": -118.4234517
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "1215 Tropical Ave.",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Venice Canals": {
+    "place_name": "Venice Canals",
+    "geometry": {
+      "location": {
+        "lat": 33.9833393,
+        "lng": -118.46758279999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 10838,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Venice Canals Holiday Boat Parade",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "W Oxnard St & Lubao Ave": {
+    "place_name": "W Oxnard St & Lubao Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.1797136,
+        "lng": -118.56703499999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "Intersection"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Lubao Ave and Oxnard St (Woodland Hills)",
+        "google_search_matched",
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa Monica": {
+    "place_name": "Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.0194543,
+        "lng": -118.49119119999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6576d72d00000000090206e5",
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6576d72d00000000090206e5": [
+        "Winterlit Santa Monica",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ],
+      "656de7830000000038028394": [
+        "Winterlit Santa Monica",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Disneyland Park": {
+    "place_name": "Disneyland Park",
+    "geometry": {
+      "location": {
+        "lat": 33.8120918,
+        "lng": -117.9189742
+      }
+    },
+    "rating": 4.6,
+    "reviews": 113806,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "6575decf0000000038014f2e",
+      "65723a60000000003801dfa5",
+      "657bc19e0000000009025215",
+      "656efd2400000000380328f4",
+      "6567af580000000032030b53",
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Amusement park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "LA disneyland",
+        "google_search_matched",
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "657bc19e0000000009025215": [
+        "Disneyland",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "656efd2400000000380328f4": [
+        "Disneyland",
+        true,
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "6575decf0000000038014f2e": [
+        "Disneyland",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Disneyland",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ],
+      "6567af580000000032030b53": [
+        "迪士尼圣诞奇幻大游行",
+        false,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ],
+      "656de7830000000038028394": [
+        "Holiday Time at Disneyland",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Harbeck Lights Christmas Show": {
+    "place_name": "Harbeck Lights Christmas Show",
+    "geometry": {
+      "location": {
+        "lat": 34.1671805,
+        "lng": -118.06948829999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 97,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Harbeck Christmas Light Show",
+        "google_search_matched",
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Torrance Candy Cane Lane": {
+    "place_name": "Torrance Candy Cane Lane",
+    "geometry": {
+      "location": {
+        "lat": 33.8181098,
+        "lng": -118.3697066
+      }
+    },
+    "rating": 4.5,
+    "reviews": 81,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Candy Cane Lane",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dell Ave": {
+    "place_name": "Dell Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.9839808,
+        "lng": -118.4660784
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Dell Ave, Venice",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Santa Monica": {
+    "place_name": "Downtown Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.0160639,
+        "lng": -118.49622719999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 38955,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "Shopping mall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "Third Street Promenade",
+        "google_search_matched",
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "13737 Fiji Way": {
+    "place_name": "13737 Fiji Way",
+    "geometry": {
+      "location": {
+        "lat": 33.9725019,
+        "lng": -118.4462698
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656de7830000000038028394"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656de7830000000038028394": [
+        "13737 Fiji Way",
+        true,
+        "LA圣诞季｜假日看敲美🎄灯光展好去处",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1541 N Cahuenga Blvd": {
+    "place_name": "1541 N Cahuenga Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.099353199999996,
+        "lng": -118.3299656
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "1541 N Cahuenga Blvd, Los Angeles, CA",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Orange County": {
+    "place_name": "Orange County",
+    "geometry": {
+      "location": {
+        "lat": 33.7174708,
+        "lng": -117.8311428
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657928e8000000003802552b",
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657928e8000000003802552b": [
+        "橙县",
+        "google_search_matched",
+        "🇺🇸南加州最大的冬季节日活动❄️从现在起到明年1月7日，橙县的小伙伴们不可错过的Winter Fest OC，它让我们如梦似幻般置身于冬日奇景之中😍\n\t\n🎄想象一下，超过一百万盏灯光在夜空中闪烁，大型节日装饰和令人激动的活动环绕四周，这里就像一个冬日仙境。\n🎢 冒险爱好者？别错过令人兴奋的150英尺冰管滑梯和全新的雪地游乐区！我尝试了一次，绝对是刺激和快乐的极致体验！⛄\n🍲 美食爱好者，节日美食绝对不会让你失望。从热腾腾的冬季美味到各式各样的假日小吃，每一口都是对味蕾的盛宴。🍔\n👫 最重要的是，和所爱的人",
+        -1
+      ],
+      "656c3f570000000038022c5f": [
+        "橙县冬日嘉年华",
+        false,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Eggslut": {
+    "place_name": "Eggslut",
+    "geometry": {
+      "location": {
+        "lat": 34.050588499999996,
+        "lng": -118.2486089
+      }
+    },
+    "rating": 4.4,
+    "reviews": 3796,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Breakfast restaurant",
+      "American restaurant",
+      "Brunch restaurant",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "连锁快餐店美食节",
+        false,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8 Fair Dr": {
+    "place_name": "8 Fair Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.6630451,
+        "lng": -117.8971127
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "8 Fair Dr, Costa Mesa, CA 92626",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "10899 Wilshire Blvd": {
+    "place_name": "10899 Wilshire Blvd",
+    "geometry": {
+      "location": {
+        "lat": 34.0594059,
+        "lng": -118.4435848
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "10899 Wilshire Blvd, Los Angeles, CA 90024",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Newport Beach, CA 92661": {
+    "place_name": "Newport Beach, CA 92661",
+    "geometry": {
+      "location": {
+        "lat": 33.602788,
+        "lng": -117.91025379999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c3f570000000038022c5f": [
+        "Newport Beach, CA 92661",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Vermont Hollywood": {
+    "place_name": "The Vermont Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.0903938,
+        "lng": -118.2914773
+      }
+    },
+    "rating": 4.5,
+    "reviews": 207,
+    "note": [
+      "656c0ba7000000003801ff38",
+      "656c3f570000000038022c5f"
+    ],
+    "types": [
+      "Live music venue",
+      "Bar",
+      "Dance club",
+      "Event venue",
+      "Recording studio"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "The Vermont Hollywood",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "656c3f570000000038022c5f": [
+        "The Vermont Hollywood",
+        true,
+        "LA周末活动合集来啦！看这里！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "2705 Fairplex Dr": {
+    "place_name": "2705 Fairplex Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0833538,
+        "lng": -117.7740166
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655447a20000000032039603",
+      "63be1ce50000000019022406"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63be1ce50000000019022406": [
+        "2705 Fairplex Dr, Pomona, CA, 91768",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ],
+      "655447a20000000032039603": [
+        "2705 Fairplex Dr., Pomona, CA 91768",
+        true,
+        "洛杉矶活动｜期待已久的华人春季庙会来咯🏮",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "5333 Zoo Dr": {
+    "place_name": "5333 Zoo Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.148470599999996,
+        "lng": -118.2840777
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63a287f8000000001f002871",
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "5333 Zoo Drive Los Angeles",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ],
+      "63a287f8000000001f002871": [
+        "5333 Zoo Dr, Los Angeles, CA 90027",
+        true,
+        "洛杉矶🦁｜超好玩动物园🐘超酷动物灯展🤹",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Exposition Park Rose Garden": {
+    "place_name": "Exposition Park Rose Garden",
+    "geometry": {
+      "location": {
+        "lat": 34.017350799999996,
+        "lng": -118.2859244
+      }
+    },
+    "rating": 4.7,
+    "reviews": 2226,
+    "note": [
+      "655d400d00000000170364cb"
+    ],
+    "types": [
+      "park",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Garden",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655d400d00000000170364cb": [
+        "玫瑰园",
+        false,
+        "植物园 节日期间有灯展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "La Cañada Flintridge": {
+    "place_name": "La Cañada Flintridge",
+    "geometry": {
+      "location": {
+        "lat": 34.2068182,
+        "lng": -118.20002769999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655d400d00000000170364cb",
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655d400d00000000170364cb": [
+        "La Cañada Flintridge",
+        true,
+        "植物园 节日期间有灯展",
+        -1
+      ],
+      "6567af580000000032030b53": [
+        "La Cañada Flintridge",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "LA CANADA FLT, CA 91011": {
+    "place_name": "LA CANADA FLT, CA 91011",
+    "geometry": {
+      "location": {
+        "lat": 34.2133926,
+        "lng": -118.19417849999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655d400d00000000170364cb"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655d400d00000000170364cb": [
+        "CA 91011",
+        true,
+        "植物园 节日期间有灯展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1418 Descanso Dr": {
+    "place_name": "1418 Descanso Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.2014262,
+        "lng": -118.211153
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655d400d00000000170364cb"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655d400d00000000170364cb": [
+        "1418 Descanso Drive",
+        true,
+        "植物园 节日期间有灯展",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Once Upon An Island": {
+    "place_name": "Once Upon An Island",
+    "geometry": {
+      "location": {
+        "lat": 33.6060592,
+        "lng": -117.8976993
+      }
+    },
+    "rating": 4.7,
+    "reviews": 69,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Once Upon an Island at Balboa Island (Once Upon a Christmas: A North Pole Adventure)",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Corona Del Mar": {
+    "place_name": "Corona Del Mar",
+    "geometry": {
+      "location": {
+        "lat": 33.5978595,
+        "lng": -117.8730142
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Corona Del Mar",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Santa's Workshop": {
+    "place_name": "Santa's Workshop",
+    "geometry": {
+      "location": {
+        "lat": 34.2324929,
+        "lng": -117.16883329999999
+      }
+    },
+    "rating": 5,
+    "reviews": 2,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "Gift shop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Christmas at Santa’s Village 箭头湖外圣诞老人村的圣诞节",
+        false,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Roger's Gardens": {
+    "place_name": "Roger's Gardens",
+    "geometry": {
+      "location": {
+        "lat": 33.612451199999995,
+        "lng": -117.8662433
+      }
+    },
+    "rating": 4.6,
+    "reviews": 824,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "park",
+      "store",
+      [
+        "store"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Plant nursery",
+      "Art gallery",
+      "Christmas tree farm",
+      "Collectibles store",
+      "Garden center",
+      "Gift shop",
+      "Outdoor furniture store",
+      "Seasonal goods store",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "“Bright & Beautiful” Christmas Boutique at Roger’s Gardens",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "118 Agate Ave": {
+    "place_name": "118 Agate Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.6060762,
+        "lng": -117.89768319999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "118 Agate Ave, Newport Beach",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Newport Beach": {
+    "place_name": "Newport Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.618882899999996,
+        "lng": -117.9298493
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Newport Beach",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "SkyPark at Santa's Village": {
+    "place_name": "SkyPark at Santa's Village",
+    "geometry": {
+      "location": {
+        "lat": 34.2328287,
+        "lng": -117.16965669999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1846,
+    "note": [
+      "6567af580000000032030b53",
+      "656be6910000000039031270"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Archery range",
+      "Bicycle rental service",
+      "Outdoor sports store",
+      "Restaurant",
+      "Rock climbing",
+      "Shopping mall",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656be6910000000039031270": [
+        "SkyPark At Santa’s Village",
+        true,
+        "⛸️洛杉矶5个滑冰场｜冬季节日灯光下浪漫滑冰",
+        -1
+      ],
+      "6567af580000000032030b53": [
+        "SkyPark at Santa’s Village （28950 CA-18, Skyforest）",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Balboa Peninsula": {
+    "place_name": "Balboa Peninsula",
+    "geometry": {
+      "location": {
+        "lat": 33.607794999999996,
+        "lng": -117.92413099999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "New港海滩巴尔博亚岛的童话岛（从前的圣诞节：北极探险活动）",
+        false,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "123 Farm": {
+    "place_name": "123 Farm",
+    "geometry": {
+      "location": {
+        "lat": 33.967666799999996,
+        "lng": -116.941603
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1008,
+    "note": [
+      "6567af580000000032030b53",
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "Farm"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "123 Farm Christmas Nights 123农场的圣诞夜",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ],
+      "6567af580000000032030b53": [
+        "123 Farm Christmas Nights",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Southern California Railway Museum": {
+    "place_name": "Southern California Railway Museum",
+    "geometry": {
+      "location": {
+        "lat": 33.7602507,
+        "lng": -117.2317027
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1773,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Rail museum",
+      "Museum",
+      "Non-profit organization",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Southern California Railway Museum(2201 S A St, Perris)",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Polar Express Train Ride": {
+    "place_name": "The Polar Express Train Ride",
+    "geometry": {
+      "location": {
+        "lat": 33.7621937,
+        "lng": -117.2339571
+      }
+    },
+    "rating": 4.5,
+    "reviews": 182,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "Children's museum"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "The Polar Express at Southern California Railway Museum",
+        "google_search_matched",
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Perris": {
+    "place_name": "Perris",
+    "geometry": {
+      "location": {
+        "lat": 33.7825194,
+        "lng": -117.22864779999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Perris",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Buena Park": {
+    "place_name": "Buena Park",
+    "geometry": {
+      "location": {
+        "lat": 33.8674044,
+        "lng": -117.9981387
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6567af580000000032030b53"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6567af580000000032030b53": [
+        "Buena Park",
+        true,
+        "🎄洛杉矶圣诞月活动：圣诞小镇逛起来",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "26300 Crenshaw Blvd": {
+    "place_name": "26300 Crenshaw Blvd",
+    "geometry": {
+      "location": {
+        "lat": 33.782939899999995,
+        "lng": -118.34546429999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "63be1ce50000000019022406"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "63be1ce50000000019022406": [
+        "26300 Crenshaw Blvd., Palos Verdes Peninsula 90274",
+        true,
+        "🐰洛杉矶1月必去活动合集(上) 周末冲冲冲",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Jerry Moss Plaza": {
+    "place_name": "Jerry Moss Plaza",
+    "geometry": {
+      "location": {
+        "lat": 34.0571984,
+        "lng": -118.248171
+      }
+    },
+    "rating": 4.5,
+    "reviews": 36,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "Jerry Moss Plaza at The Music Center",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Montalbán": {
+    "place_name": "The Montalbán",
+    "geometry": {
+      "location": {
+        "lat": 34.1002571,
+        "lng": -118.326911
+      }
+    },
+    "rating": 4.6,
+    "reviews": 756,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "Performing arts theater",
+      "Art gallery",
+      "Movie theater",
+      "Outdoor movie theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "The Montalbán Theatre",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "7th St SB & La Paz Dr": {
+    "place_name": "7th St SB & La Paz Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.517275999999995,
+        "lng": -117.312332
+      }
+    },
+    "rating": 4,
+    "reviews": 1,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "Bus stop"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "Seventh Street between La Paz and Forrest Drive",
+        false,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Union Station": {
+    "place_name": "Union Station",
+    "geometry": {
+      "location": {
+        "lat": 34.056219,
+        "lng": -118.2365021
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1599,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "Transit station",
+      "Bus station",
+      "Train station"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "Union Station",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "South Lake Avenue": {
+    "place_name": "South Lake Avenue",
+    "geometry": {
+      "location": {
+        "lat": 34.1393637,
+        "lng": -118.1311606
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "park",
+      "Parking lot"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "South Lake Avenue",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Newport Dunes Waterfront Resort & Marina": {
+    "place_name": "Newport Dunes Waterfront Resort & Marina",
+    "geometry": {
+      "location": {
+        "lat": 33.6153066,
+        "lng": -117.8918712
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1848,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Resort hotel",
+      "Event venue",
+      "Marina",
+      "Water park",
+      "Wedding venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "Newport Dunes Waterfront Resort",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "81800 51st Ave": {
+    "place_name": "81800 51st Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.6784573,
+        "lng": -116.2371957
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655eac3f000000001100e12c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655eac3f000000001100e12c": [
+        "81800 51st Ave., Indio",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "OC Fair & Event Center": {
+    "place_name": "OC Fair & Event Center",
+    "geometry": {
+      "location": {
+        "lat": 33.6660788,
+        "lng": -117.9052274
+      }
+    },
+    "rating": 4.4,
+    "reviews": 11629,
+    "note": [
+      "6562531d000000001100c02f",
+      "655eac3f000000001100e12c",
+      "655240c800000000330012a9"
+    ],
+    "types": [
+      "Event venue",
+      "Fairground"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6562531d000000001100c02f": [
+        "OC Fair and Event Center",
+        true,
+        "🇺🇸南加州最大的聖誕市集|摆摊預告",
+        -1
+      ],
+      "655240c800000000330012a9": [
+        "OC Fair",
+        true,
+        "洛杉矶好去处｜在LA也能看雪景❄️滑冰橇啦！！",
+        -1
+      ],
+      "655eac3f000000001100e12c": [
+        "OC Fair & Event Center",
+        true,
+        "20个南加州假期好去处（下）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dolby Theatre": {
+    "place_name": "Dolby Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.102691899999996,
+        "lng": -118.3404156
+      }
+    },
+    "rating": 4.6,
+    "reviews": 3736,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Performing arts theater",
+      "Auditorium",
+      "Culture",
+      "Entertainment and recreation",
+      "Movie theater",
+      "Performing arts",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "Dolby Theater",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Wende Museum": {
+    "place_name": "The Wende Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.0115303,
+        "lng": -118.40396439999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 287,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Museum",
+      "Archive",
+      "Art museum",
+      "Cultural center",
+      "History museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "Wende Museum",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dorothy Chandler Pavilion": {
+    "place_name": "Dorothy Chandler Pavilion",
+    "geometry": {
+      "location": {
+        "lat": 34.056606699999996,
+        "lng": -118.2489325
+      }
+    },
+    "rating": 4.7,
+    "reviews": 956,
+    "note": [
+      "657bbde6000000000703b1da",
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "Performing arts theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bbde6000000000703b1da": [
+        "Dorothy Chandler Pavilion",
+        true,
+        "LA圣诞季🎄氛围拉满过圣诞",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Dorothy Chandler Pavilion",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bram Goldsmith Theater": {
+    "place_name": "Bram Goldsmith Theater",
+    "geometry": {
+      "location": {
+        "lat": 34.0723731,
+        "lng": -118.4016118
+      }
+    },
+    "rating": 4.8,
+    "reviews": 8,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "Bram Goldsmith Theater",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Waterfront": {
+    "place_name": "Waterfront",
+    "geometry": {
+      "location": {
+        "lat": 33.7637426,
+        "lng": -118.1927161
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657bc19e0000000009025215",
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "Downtown Long Beach & The Waterfront",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Long Beach Waterfront",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Huntington Library, Art Museum, and Botanical Gardens": {
+    "place_name": "The Huntington Library, Art Museum, and Botanical Gardens",
+    "geometry": {
+      "location": {
+        "lat": 34.1290452,
+        "lng": -118.11452419999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 6731,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "museum",
+      [
+        "museum"
+      ],
+      "park",
+      "Tourist attraction",
+      "Art gallery",
+      "Art museum",
+      "Botanical garden",
+      "Non-profit organization"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "The Huntington Library",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Los Angeles County Museum of Art": {
+    "place_name": "Los Angeles County Museum of Art",
+    "geometry": {
+      "location": {
+        "lat": 34.0639323,
+        "lng": -118.3592293
+      }
+    },
+    "rating": 4.6,
+    "reviews": 17993,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Art museum",
+      "Art center",
+      "Art gallery",
+      "History museum",
+      "Performing arts group",
+      "Performing arts theater",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "LACMA",
+        "google_search_matched",
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Universal Studios Hollywood": {
+    "place_name": "Universal Studios Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.1381168,
+        "lng": -118.35337829999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 148272,
+    "note": [
+      "657bc19e0000000009025215",
+      "656efd2400000000380328f4",
+      "6575decf0000000038014f2e",
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Amusement park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656efd2400000000380328f4": [
+        "Universal Hollywood",
+        "google_search_matched",
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "657bc19e0000000009025215": [
+        "Universal Studios Hollywood",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "6575decf0000000038014f2e": [
+        "Universal Studios Hollywood",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ],
+      "65723a60000000003801dfa5": [
+        "Universal Studios Hollywood",
+        true,
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Arizona Ave & 5th St": {
+    "place_name": "Arizona Ave & 5th St",
+    "geometry": {
+      "location": {
+        "lat": 34.0185347,
+        "lng": -118.4957937
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65723a60000000003801dfa5"
+    ],
+    "types": [
+      "Intersection"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65723a60000000003801dfa5": [
+        "Downtown Santa Monica Arizona Avenue和Fifth Street",
+        "google_search_matched",
+        "🎡活动｜洛杉矶1⃣️2⃣️月活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Christmas Tree Ln": {
+    "place_name": "Christmas Tree Ln",
+    "geometry": {
+      "location": {
+        "lat": 34.1856812,
+        "lng": -118.1381112
+      }
+    },
+    "rating": 4.2,
+    "reviews": 27,
+    "note": [
+      "65796e250000000038035c2b"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65796e250000000038035c2b": [
+        "Christmas Tree Lane Altadena百年圣诞树道",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Long Beach": {
+    "place_name": "Long Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.770050399999995,
+        "lng": -118.19373949999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65796e250000000038035c2b",
+      "656efd2400000000380328f4"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656efd2400000000380328f4": [
+        "长滩海滨",
+        "google_search_matched",
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "65796e250000000038035c2b": [
+        "Long Beach",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Disney District": {
+    "place_name": "Downtown Disney District",
+    "geometry": {
+      "location": {
+        "lat": 33.8097925,
+        "lng": -117.9237869
+      }
+    },
+    "rating": 4.6,
+    "reviews": 32036,
+    "note": [
+      "65796e250000000038035c2b"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Shopping mall",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65796e250000000038035c2b": [
+        "Downtown Disney District Disneyland",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Rodeo Drive Beverly Hills": {
+    "place_name": "Rodeo Drive Beverly Hills",
+    "geometry": {
+      "location": {
+        "lat": 34.0677435,
+        "lng": -118.4008508
+      }
+    },
+    "rating": 4.6,
+    "reviews": 39,
+    "note": [
+      "65796e250000000038035c2b"
+    ],
+    "types": [
+      "Shopping mall"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65796e250000000038035c2b": [
+        "Rodeo Drive比佛利名品街",
+        "google_search_matched",
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beverly Hills": {
+    "place_name": "Beverly Hills",
+    "geometry": {
+      "location": {
+        "lat": 34.073620399999996,
+        "lng": -118.4003563
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "65796e250000000038035c2b",
+      "656efd2400000000380328f4"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656efd2400000000380328f4": [
+        "比弗利山庄",
+        "google_search_matched",
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "6577ffcd00000000090208f7": [
+        "Beverly Hills",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "65796e250000000038035c2b": [
+        "Beverly Hills",
+        true,
+        "LA周末｜🎄洛杉矶5个浓浓圣诞氛围打卡地点",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Winter Fest OC": {
+    "place_name": "Winter Fest OC",
+    "geometry": {
+      "location": {
+        "lat": 33.6656644,
+        "lng": -117.9013581
+      }
+    },
+    "rating": 3.3,
+    "reviews": 84,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "657928e8000000003802552b",
+      "655240c800000000330012a9",
+      "65738e9a000000003403df77"
+    ],
+    "types": [
+      "Festival"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Winter Fest OC橙郡冬季嘉年华",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "65738e9a000000003403df77": [
+        "Winter Fest OC橙郡冬季嘉年华",
+        true,
+        "2023🎄LA 最有气氛的圣诞集市嘉年华",
+        -1
+      ],
+      "657928e8000000003802552b": [
+        "Winter Fest OC",
+        true,
+        "🇺🇸南加州最大的冬季节日活动❄️从现在起到明年1月7日，橙县的小伙伴们不可错过的Winter Fest OC，它让我们如梦似幻般置身于冬日奇景之中😍\n\t\n🎄想象一下，超过一百万盏灯光在夜空中闪烁，大型节日装饰和令人激动的活动环绕四周，这里就像一个冬日仙境。\n🎢 冒险爱好者？别错过令人兴奋的150英尺冰管滑梯和全新的雪地游乐区！我尝试了一次，绝对是刺激和快乐的极致体验！⛄\n🍲 美食爱好者，节日美食绝对不会让你失望。从热腾腾的冬季美味到各式各样的假日小吃，每一口都是对味蕾的盛宴。🍔\n👫 最重要的是，和所爱的人",
+        -1
+      ],
+      "655240c800000000330012a9": [
+        "Winter Fest OC",
+        true,
+        "洛杉矶好去处｜在LA也能看雪景❄️滑冰橇啦！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Southern California": {
+    "place_name": "Southern California",
+    "geometry": {
+      "location": {
+        "lat": 34.9592083,
+        "lng": -116.419389
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657928e8000000003802552b",
+      "655240c800000000330012a9"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657928e8000000003802552b": [
+        "南加州",
+        "google_search_matched",
+        "🇺🇸南加州最大的冬季节日活动❄️从现在起到明年1月7日，橙县的小伙伴们不可错过的Winter Fest OC，它让我们如梦似幻般置身于冬日奇景之中😍\n\t\n🎄想象一下，超过一百万盏灯光在夜空中闪烁，大型节日装饰和令人激动的活动环绕四周，这里就像一个冬日仙境。\n🎢 冒险爱好者？别错过令人兴奋的150英尺冰管滑梯和全新的雪地游乐区！我尝试了一次，绝对是刺激和快乐的极致体验！⛄\n🍲 美食爱好者，节日美食绝对不会让你失望。从热腾腾的冬季美味到各式各样的假日小吃，每一口都是对味蕾的盛宴。🍔\n👫 最重要的是，和所爱的人",
+        -1
+      ],
+      "655240c800000000330012a9": [
+        "南加州",
+        "google_search_matched",
+        "洛杉矶好去处｜在LA也能看雪景❄️滑冰橇啦！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "935 Laguna Canyon Rd": {
+    "place_name": "935 Laguna Canyon Rd",
+    "geometry": {
+      "location": {
+        "lat": 33.5507914,
+        "lng": -117.77840599999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "935 Laguna Canyon Road，Laguna Beach",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "10600 Highland Springs Ave": {
+    "place_name": "10600 Highland Springs Ave",
+    "geometry": {
+      "location": {
+        "lat": 33.970067,
+        "lng": -116.94302669999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "10600 Highland Springs Ave, Beaumont",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mission Inn Hotel and Spa's Festival of Lights": {
+    "place_name": "Mission Inn Hotel and Spa's Festival of Lights",
+    "geometry": {
+      "location": {
+        "lat": 33.9827023,
+        "lng": -117.3731007
+      }
+    },
+    "rating": 4.6,
+    "reviews": 48,
+    "note": [
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "Festival"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "Festival of Lights at The Mission Inn Hotel in Riverside 河滨市使命酒店的灯光节",
+        "google_search_matched",
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "301 N Baldwin Ave": {
+    "place_name": "301 N Baldwin Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.143854,
+        "lng": -118.051627
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "301 N Baldwin Ave, Arcadia",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Knott's Berry Farm": {
+    "place_name": "Knott's Berry Farm",
+    "geometry": {
+      "location": {
+        "lat": 33.8443038,
+        "lng": -118.0002265
+      }
+    },
+    "rating": 4.6,
+    "reviews": 58960,
+    "note": [
+      "657bc19e0000000009025215",
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Theme park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "Knott’s Berry Farm",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "655e54280000000032027cf2": [
+        "Knott’s Merry Farm in Buena Park 橙县的诺氏乐园的圣诞活动",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Hotel del Coronado": {
+    "place_name": "Hotel del Coronado",
+    "geometry": {
+      "location": {
+        "lat": 32.6805447,
+        "lng": -117.178224
+      }
+    },
+    "rating": 4.5,
+    "reviews": 18494,
+    "note": [
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "655e54280000000032027cf2": [
+        "Skating by the Sea -Hotel del Coronado 海边滑冰 - 科罗纳多酒店",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "8039 Beach Blvd": {
+    "place_name": "8039 Beach Blvd",
+    "geometry": {
+      "location": {
+        "lat": 33.8427109,
+        "lng": -117.9976659
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657bc19e0000000009025215",
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "8039 Beach Blvd, Buena Park",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "655e54280000000032027cf2": [
+        "8039 Beach Blvd, Buena Park",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sawdust Art Festival": {
+    "place_name": "Sawdust Art Festival",
+    "geometry": {
+      "location": {
+        "lat": 33.5506119,
+        "lng": -117.7787891
+      }
+    },
+    "rating": 4.6,
+    "reviews": 2324,
+    "note": [
+      "6577ffcd00000000090208f7",
+      "656c0ba7000000003801ff38",
+      "655e54280000000032027cf2"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Arts organization",
+      "Art center",
+      "Artist",
+      "Non-profit organization",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Sawdust Art Festival",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ],
+      "656c0ba7000000003801ff38": [
+        "Sawdust Art Festival",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "655e54280000000032027cf2": [
+        "Winter Fantasy at the Sawdust Art Festival 锯木艺术节之冬季奇幻",
+        true,
+        "南加州🔥50个热门节日活动合集❗（1/3）",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Gateway To Nature Center & Museum": {
+    "place_name": "Gateway To Nature Center & Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.0560703,
+        "lng": -118.2390264
+      }
+    },
+    "rating": 4.4,
+    "reviews": 10,
+    "note": [
+      "657a53e4000000003c0129cd"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "Museum"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "657a53e4000000003c0129cd": [
+        "Gateway to Nature展览厅",
+        true,
+        "活动🔍｜洛杉矶近期活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Skirball Cultural Center": {
+    "place_name": "Skirball Cultural Center",
+    "geometry": {
+      "location": {
+        "lat": 34.124989299999996,
+        "lng": -118.4791719
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1856,
+    "note": [
+      "657a53e4000000003c0129cd"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Cultural center",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657a53e4000000003c0129cd": [
+        "Skirball Cultural Center",
+        true,
+        "活动🔍｜洛杉矶近期活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Anaheim Convention Center": {
+    "place_name": "Anaheim Convention Center",
+    "geometry": {
+      "location": {
+        "lat": 33.8008759,
+        "lng": -117.9209238
+      }
+    },
+    "rating": 4.5,
+    "reviews": 8996,
+    "note": [
+      "657a53e4000000003c0129cd"
+    ],
+    "types": [
+      "Convention center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657a53e4000000003c0129cd": [
+        "Anaheim Convention Center",
+        true,
+        "活动🔍｜洛杉矶近期活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Chinese American Museum": {
+    "place_name": "Chinese American Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.055839299999995,
+        "lng": -118.23908999999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 204,
+    "note": [
+      "657a53e4000000003c0129cd"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657a53e4000000003c0129cd": [
+        "华美博物馆",
+        "google_search_matched",
+        "活动🔍｜洛杉矶近期活动大合集！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Ice at Santa Monica": {
+    "place_name": "Ice at Santa Monica",
+    "geometry": {
+      "location": {
+        "lat": 34.017976,
+        "lng": -118.495662
+      }
+    },
+    "rating": 4.3,
+    "reviews": 376,
+    "note": [
+      "656be6910000000039031270"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Ice skating rink",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656be6910000000039031270": [
+        "Ice At Santa Monica",
+        true,
+        "⛸️洛杉矶5个滑冰场｜冬季节日灯光下浪漫滑冰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Paséa Hotel & Spa": {
+    "place_name": "Paséa Hotel & Spa",
+    "geometry": {
+      "location": {
+        "lat": 33.654083199999995,
+        "lng": -117.9958343
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2121,
+    "note": [
+      "656be6910000000039031270"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656be6910000000039031270": [
+        "Paséa Hotel’s Oceanfront Ice Rink",
+        "google_search_matched",
+        "⛸️洛杉矶5个滑冰场｜冬季节日灯光下浪漫滑冰",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "88 Fair Dr": {
+    "place_name": "88 Fair Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.665951,
+        "lng": -117.90257489999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "65738e9a000000003403df77"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65738e9a000000003403df77": [
+        "88Fair Drive，Costa Mesa，CA 92626",
+        true,
+        "2023🎄LA 最有气氛的圣诞集市嘉年华",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Beverly Hot Springs": {
+    "place_name": "Beverly Hot Springs",
+    "geometry": {
+      "location": {
+        "lat": 34.0765611,
+        "lng": -118.3077167
+      }
+    },
+    "rating": 4.1,
+    "reviews": 217,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "Day spa",
+      "Massage therapist"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Beverly Hot Springs",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "El Morocco Inn and Spa Resort": {
+    "place_name": "El Morocco Inn and Spa Resort",
+    "geometry": {
+      "location": {
+        "lat": 33.9655365,
+        "lng": -116.49593709999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 271,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Day spa",
+      "Resort hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "El Morocco Inn and Spa Resort",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Bear Mountain": {
+    "place_name": "Bear Mountain",
+    "geometry": {
+      "location": {
+        "lat": 34.2280484,
+        "lng": -116.86043079999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 3030,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "Ski resort"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Bear Mountain",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Melrose Rooftop Theatre": {
+    "place_name": "Melrose Rooftop Theatre",
+    "geometry": {
+      "location": {
+        "lat": 34.0821636,
+        "lng": -118.3767877
+      }
+    },
+    "rating": 4.5,
+    "reviews": 79,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "Movie theater"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Melrose Rooftop Theatre",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Two Bunch Palms": {
+    "place_name": "Two Bunch Palms",
+    "geometry": {
+      "location": {
+        "lat": 33.948405,
+        "lng": -116.4882603
+      }
+    },
+    "rating": 4.3,
+    "reviews": 612,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel",
+      "Resort hotel",
+      "Wellness hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Two Bunch Palms",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mammoth Mountain": {
+    "place_name": "Mammoth Mountain",
+    "geometry": {
+      "location": {
+        "lat": 37.630769199999996,
+        "lng": -119.03263419999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 796,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "Mountain peak"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Mammoth Mountain",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Big Bear Snow Play": {
+    "place_name": "Big Bear Snow Play",
+    "geometry": {
+      "location": {
+        "lat": 34.2587422,
+        "lng": -116.867615
+      }
+    },
+    "rating": 4,
+    "reviews": 1924,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Recreation center",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Big Bear Snow play",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Glen Ivy Hot Springs": {
+    "place_name": "Glen Ivy Hot Springs",
+    "geometry": {
+      "location": {
+        "lat": 33.7566975,
+        "lng": -117.4938688
+      }
+    },
+    "rating": 4.6,
+    "reviews": 4729,
+    "note": [
+      "6577ffcd00000000090208f7"
+    ],
+    "types": [
+      "Wellness center",
+      "Health resort",
+      "Massage spa",
+      "Spa"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6577ffcd00000000090208f7": [
+        "Glen Ivy Hot Spring",
+        true,
+        "真心建议🥰洛杉矶冬天一定要去打卡的地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Sensorio": {
+    "place_name": "Sensorio",
+    "geometry": {
+      "location": {
+        "lat": 35.6523768,
+        "lng": -120.6212434
+      }
+    },
+    "rating": 4.5,
+    "reviews": 2156,
+    "note": [
+      "651fac06000000001d01533c"
+    ],
+    "types": [
+      "Art center"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651fac06000000001d01533c": [
+        "Sensorio",
+        true,
+        "北加州爆火绝美灯光田园🔥装置艺术🎨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Mabel's Gone Fishing": {
+    "place_name": "Mabel's Gone Fishing",
+    "geometry": {
+      "location": {
+        "lat": 32.7467898,
+        "lng": -117.130235
+      }
+    },
+    "rating": 4.5,
+    "reviews": 186,
+    "note": [
+      "651fac06000000001d01533c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Seafood restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651fac06000000001d01533c": [
+        "Gone Fishing",
+        true,
+        "北加州爆火绝美灯光田园🔥装置艺术🎨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Paso Robles": {
+    "place_name": "Paso Robles",
+    "geometry": {
+      "location": {
+        "lat": 35.6368759,
+        "lng": -120.6545022
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "651fac06000000001d01533c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651fac06000000001d01533c": [
+        "Paso Robles, CA 93446",
+        true,
+        "北加州爆火绝美灯光田园🔥装置艺术🎨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Firefly": {
+    "place_name": "Firefly",
+    "geometry": {
+      "location": {
+        "lat": 34.1413361,
+        "lng": -118.3884472
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1369,
+    "note": [
+      "651fac06000000001d01533c"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "New American restaurant",
+      "American restaurant",
+      "Bar",
+      "Cocktail bar",
+      "Lounge",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "651fac06000000001d01533c": [
+        "Fireflies",
+        true,
+        "北加州爆火绝美灯光田园🔥装置艺术🎨",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hummingbird Nest Ranch": {
+    "place_name": "Hummingbird Nest Ranch",
+    "geometry": {
+      "location": {
+        "lat": 34.285097799999996,
+        "lng": -118.65498459999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 450,
+    "note": [
+      "654c5edf000000000f02b05c"
+    ],
+    "types": [
+      "Event venue",
+      "Ranch"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Hummingbird Nest Ranch",
+        true,
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hammer Museum": {
+    "place_name": "Hammer Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.0591217,
+        "lng": -118.4436674
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1774,
+    "note": [
+      "654c5edf000000000f02b05c"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "Art museum",
+      "Museum"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Hammer博物馆",
+        "google_search_matched",
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Queen Mary": {
+    "place_name": "The Queen Mary",
+    "geometry": {
+      "location": {
+        "lat": 33.7526356,
+        "lng": -118.19032349999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 23382,
+    "note": [
+      "654c5edf000000000f02b05c",
+      "656efd2400000000380328f4"
+    ],
+    "types": [
+      "tourist_attraction",
+      "hotel",
+      [
+        "hotel"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Hotel",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656efd2400000000380328f4": [
+        "Queen Mary",
+        true,
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ],
+      "654c5edf000000000f02b05c": [
+        "Queen Mary Waterfront",
+        "google_search_matched",
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Dodger Stadium": {
+    "place_name": "Dodger Stadium",
+    "geometry": {
+      "location": {
+        "lat": 34.073851,
+        "lng": -118.2399583
+      }
+    },
+    "rating": 4.7,
+    "reviews": 42704,
+    "note": [
+      "654c5edf000000000f02b05c"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Stadium",
+      "Baseball field",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Dodger体育馆",
+        "google_search_matched",
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Downtown Los Angeles": {
+    "place_name": "Downtown Los Angeles",
+    "geometry": {
+      "location": {
+        "lat": 34.0487969,
+        "lng": -118.2517828
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "654c5edf000000000f02b05c"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "654c5edf000000000f02b05c": [
+        "Downtown",
+        true,
+        "🔥11月在洛杉矶不容错过的10大活动🎉",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Gloria Molina Grand Park": {
+    "place_name": "Gloria Molina Grand Park",
+    "geometry": {
+      "location": {
+        "lat": 34.0563289,
+        "lng": -118.24677129999999
+      }
+    },
+    "rating": 4.5,
+    "reviews": 8486,
+    "note": [
+      "656efd2400000000380328f4",
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "Park",
+      "Event venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "Gloria Molina Grand Park",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ],
+      "656efd2400000000380328f4": [
+        "Grand Park",
+        true,
+        "2023洛杉矶6⃣个跨年烟花蕞佳好去处！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Griffith Park": {
+    "place_name": "Griffith Park",
+    "geometry": {
+      "location": {
+        "lat": 34.1365544,
+        "lng": -118.29419999999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 64875,
+    "note": [
+      "65416ce900000000200036a2"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Recreation center",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "65416ce900000000200036a2": [
+        "Griffith Park",
+        true,
+        "洛杉矶｜免费音乐节",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "Annual Sycuan Pow Wow": {
+    "place_name": "Annual Sycuan Pow Wow",
+    "geometry": {
+      "location": {
+        "lat": 32.7929045,
+        "lng": -116.829698
+      }
+    },
+    "rating": 4.4,
+    "reviews": 29,
+    "note": [
+      "65416ce900000000200036a2"
+    ],
+    "types": [
+      "Event venue"
+    ],
+    "valid": false,
+    "notes_to_keywords": {
+      "65416ce900000000200036a2": [
+        "Los Angeles POWWOW 2023",
+        false,
+        "洛杉矶｜免费音乐节",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Costa Mesa": {
+    "place_name": "Costa Mesa",
+    "geometry": {
+      "location": {
+        "lat": 33.663843899999996,
+        "lng": -117.90474289999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c0ba7000000003801ff38",
+      "655240c800000000330012a9"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Costa Mesa",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ],
+      "655240c800000000330012a9": [
+        "Costa Mesa",
+        true,
+        "洛杉矶好去处｜在LA也能看雪景❄️滑冰橇啦！！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "210 N Grand Ave": {
+    "place_name": "210 N Grand Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0571225,
+        "lng": -118.24762899999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Grand Park, 210 W Temple St",
+        false,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Heritage Square Museum": {
+    "place_name": "Heritage Square Museum",
+    "geometry": {
+      "location": {
+        "lat": 34.0882497,
+        "lng": -118.2079756
+      }
+    },
+    "rating": 4.7,
+    "reviews": 652,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "museum",
+      [
+        "museum"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Heritage museum",
+      "History museum",
+      "Museum",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Heritage Square Museum, 3800 Homer St",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Television City": {
+    "place_name": "Television City",
+    "geometry": {
+      "location": {
+        "lat": 34.0750356,
+        "lng": -118.3600953
+      }
+    },
+    "rating": 4.5,
+    "reviews": 1130,
+    "note": [
+      "6570da71000000003802415f"
+    ],
+    "types": [
+      "Television station"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6570da71000000003802415f": [
+        "Television City, 7800 Beverly Blvd",
+        true,
+        "洛杉矶🎊12月圣诞季5个好去处❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Hotel Bel-Air": {
+    "place_name": "Hotel Bel-Air",
+    "geometry": {
+      "location": {
+        "lat": 34.086597,
+        "lng": -118.44635099999999
+      }
+    },
+    "rating": 4.7,
+    "reviews": 2358,
+    "note": [
+      "656c0ba7000000003801ff38"
+    ],
+    "types": [
+      "hotel",
+      [
+        "hotel"
+      ],
+      "Hotel"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "洛杉矶贝艾尔酒店",
+        "google_search_matched",
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Laguna Beach": {
+    "place_name": "Laguna Beach",
+    "geometry": {
+      "location": {
+        "lat": 33.5427189,
+        "lng": -117.78535679999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c0ba7000000003801ff38"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Laguna Beach，CA",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Descanso Dr": {
+    "place_name": "Descanso Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.2013232,
+        "lng": -118.2067321
+      }
+    },
+    "rating": 4.7,
+    "reviews": 3,
+    "note": [
+      "656c0ba7000000003801ff38"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Descanso Dr La Cañada Flintridge 91011",
+        true,
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Riverside, CA 92501": {
+    "place_name": "Riverside, CA 92501",
+    "geometry": {
+      "location": {
+        "lat": 33.999677,
+        "lng": -117.36752329999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656c0ba7000000003801ff38"
+    ],
+    "types": [
+      "Postal code"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656c0ba7000000003801ff38": [
+        "Riverside 92501",
+        "google_search_matched",
+        "LA 12月限定活动大合集❄️六大活动等你打卡！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Shoreline Village": {
+    "place_name": "Shoreline Village",
+    "geometry": {
+      "location": {
+        "lat": 33.7606184,
+        "lng": -118.1903112
+      }
+    },
+    "rating": 4.6,
+    "reviews": 10287,
+    "note": [
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Shopping mall",
+      "Event venue",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "Shoreline Village",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Fisherman's Village": {
+    "place_name": "Fisherman's Village",
+    "geometry": {
+      "location": {
+        "lat": 33.9729002,
+        "lng": -118.4459588
+      }
+    },
+    "rating": 4.4,
+    "reviews": 1153,
+    "note": [
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Tourist attraction",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "Fishermen's Village",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Burton Chace Park": {
+    "place_name": "Burton Chace Park",
+    "geometry": {
+      "location": {
+        "lat": 33.9770876,
+        "lng": -118.4451447
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1596,
+    "note": [
+      "657bc19e0000000009025215",
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "Burton Chace Park, 13650 Mindanao Way",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ],
+      "6575decf0000000038014f2e": [
+        "Chace Burton Park",
+        "google_search_matched",
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "South Jetty Light": {
+    "place_name": "South Jetty Light",
+    "geometry": {
+      "location": {
+        "lat": 33.9605332,
+        "lng": -118.4602577
+      }
+    },
+    "rating": 4.8,
+    "reviews": 5,
+    "note": [
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "tourist_attraction",
+      "Historical landmark"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "South Jetty",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Downtown Long Beach Alliance": {
+    "place_name": "Downtown Long Beach Alliance",
+    "geometry": {
+      "location": {
+        "lat": 33.769059,
+        "lng": -118.193254
+      }
+    },
+    "rating": 4.3,
+    "reviews": 19,
+    "note": [
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "Non-profit organization"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "Downtown Long Beach Alliance",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "North Jetty Light": {
+    "place_name": "North Jetty Light",
+    "geometry": {
+      "location": {
+        "lat": 33.962812899999996,
+        "lng": -118.4618459
+      }
+    },
+    "rating": 4.7,
+    "reviews": 7,
+    "note": [
+      "6575decf0000000038014f2e"
+    ],
+    "types": [
+      "tourist_attraction",
+      "Historical landmark"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6575decf0000000038014f2e": [
+        "North Jetty",
+        true,
+        "定了❗2024洛杉矶跨年🎇就选这5⃣个地方",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Dana Point Harbor": {
+    "place_name": "Dana Point Harbor",
+    "geometry": {
+      "location": {
+        "lat": 33.4597501,
+        "lng": -117.69560729999999
+      }
+    },
+    "rating": 4.8,
+    "reviews": 291,
+    "note": [
+      "6576d72d00000000090206e5"
+    ],
+    "types": [
+      "Harbor"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6576d72d00000000090206e5": [
+        "Dana Point Harbor",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Bloc": {
+    "place_name": "The Bloc",
+    "geometry": {
+      "location": {
+        "lat": 34.0475959,
+        "lng": -118.25900259999999
+      }
+    },
+    "rating": 4.4,
+    "reviews": 6968,
+    "note": [
+      "6576d72d00000000090206e5"
+    ],
+    "types": [
+      "Shopping mall",
+      "Art gallery"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "6576d72d00000000090206e5": [
+        "Sparkle DTLA at The Bloc",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Rodeo Dr": {
+    "place_name": "Rodeo Dr",
+    "geometry": {
+      "location": {
+        "lat": 34.0677829,
+        "lng": -118.4016273
+      }
+    },
+    "rating": 4.6,
+    "reviews": 891,
+    "note": [
+      "6576d72d00000000090206e5",
+      "656ae2e4000000003802f15b"
+    ],
+    "types": [
+      "Notable street"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656ae2e4000000003802f15b": [
+        "Rodeo Drive罗迪欧大道",
+        true,
+        "不去后悔🎄洛杉矶12月圣诞灯光秀5大打卡地",
+        -1
+      ],
+      "6576d72d00000000090206e5": [
+        "Rodeo Drive",
+        true,
+        "LA洛杉矶🎄12月圣诞打卡好去处🔔氛围拉满！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "100 Universal City Plaza": {
+    "place_name": "100 Universal City Plaza",
+    "geometry": {
+      "location": {
+        "lat": 34.136193,
+        "lng": -118.3552237
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657bc19e0000000009025215"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "100 Universal City Plaza, Universal City",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Angels Point Rd": {
+    "place_name": "Angels Point Rd",
+    "geometry": {
+      "location": {
+        "lat": 34.0853168,
+        "lng": -118.2397074
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657bc19e0000000009025215"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "Angels Point Rd, Los Angeles",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Angels Point": {
+    "place_name": "Angels Point",
+    "geometry": {
+      "location": {
+        "lat": 34.0805806,
+        "lng": -118.2455021
+      }
+    },
+    "rating": 4.7,
+    "reviews": 1074,
+    "note": [
+      "657bc19e0000000009025215"
+    ],
+    "types": [
+      "park",
+      [
+        "park",
+        "garden"
+      ],
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Park",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "Angel’s Point",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1313 Disneyland Dr": {
+    "place_name": "1313 Disneyland Dr",
+    "geometry": {
+      "location": {
+        "lat": 33.8154998,
+        "lng": -117.9260259
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "657bc19e0000000009025215"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bc19e0000000009025215": [
+        "1313 Disneyland Dr, Anaheim",
+        true,
+        "洛杉矶6⃣️个跨年夜看烟花🎆地总结好啦！",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Segerstrom Center for the Arts": {
+    "place_name": "Segerstrom Center for the Arts",
+    "geometry": {
+      "location": {
+        "lat": 33.6927051,
+        "lng": -117.8821416
+      }
+    },
+    "rating": 4.8,
+    "reviews": 3090,
+    "note": [
+      "657bbde6000000000703b1da"
+    ],
+    "types": [
+      "Performing arts theater",
+      "Concert hall",
+      "Live music venue"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bbde6000000000703b1da": [
+        "Segerstrom Center for the Arts, Costa Mesa",
+        true,
+        "LA圣诞季🎄氛围拉满过圣诞",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Old Los Angeles Zoo": {
+    "place_name": "Old Los Angeles Zoo",
+    "geometry": {
+      "location": {
+        "lat": 34.1339393,
+        "lng": -118.28903779999999
+      }
+    },
+    "rating": 4.6,
+    "reviews": 1279,
+    "note": [
+      "657bbde6000000000703b1da"
+    ],
+    "types": [
+      "tourist_attraction",
+      "natural_feature",
+      "tourist_attraction",
+      "tourist_attraction",
+      "Historical landmark",
+      "Hiking area",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bbde6000000000703b1da": [
+        "Los Angeles Zoo, Griffith Park",
+        "google_search_matched",
+        "LA圣诞季🎄氛围拉满过圣诞",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Walt Disney Concert Hall": {
+    "place_name": "Walt Disney Concert Hall",
+    "geometry": {
+      "location": {
+        "lat": 34.0553454,
+        "lng": -118.249845
+      }
+    },
+    "rating": 4.7,
+    "reviews": 9395,
+    "note": [
+      "657bbde6000000000703b1da"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Concert hall",
+      "Auditorium",
+      "Live music venue",
+      "Performing arts",
+      "Performing arts theater",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "657bbde6000000000703b1da": [
+        "Walt Disney Concert Hall, Downtown",
+        true,
+        "LA圣诞季🎄氛围拉满过圣诞",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "The Original Farmers Market": {
+    "place_name": "The Original Farmers Market",
+    "geometry": {
+      "location": {
+        "lat": 34.072011499999995,
+        "lng": -118.3603699
+      }
+    },
+    "rating": 4.6,
+    "reviews": 14575,
+    "note": [
+      "656ae2e4000000003802f15b"
+    ],
+    "types": [
+      "store",
+      [
+        "store"
+      ],
+      "restaurant",
+      [
+        "restaurant",
+        "tea house"
+      ],
+      "Farmers' market",
+      "Grocery store",
+      "Ice cream shop",
+      "Market",
+      "Restaurant"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656ae2e4000000003802f15b": [
+        "The Grove葛洛夫中心+ 农夫市集 Farmers Market",
+        "google_search_matched",
+        "不去后悔🎄洛杉矶12月圣诞灯光秀5大打卡地",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "Universal CityWalk Hollywood": {
+    "place_name": "Universal CityWalk Hollywood",
+    "geometry": {
+      "location": {
+        "lat": 34.136169699999996,
+        "lng": -118.3537322
+      }
+    },
+    "rating": 4.6,
+    "reviews": 60811,
+    "note": [
+      "656ae2e4000000003802f15b"
+    ],
+    "types": [
+      "tourist_attraction",
+      "tourist_attraction",
+      "Shopping mall",
+      "Amusement center",
+      "Tourist attraction"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656ae2e4000000003802f15b": [
+        "Universal studio Citywalk环球影城环球大道",
+        "google_search_matched",
+        "不去后悔🎄洛杉矶12月圣诞灯光秀5大打卡地",
+        -1
+      ]
+    },
+    "top_ranked": true
+  },
+  "308 Oxford Ave": {
+    "place_name": "308 Oxford Ave",
+    "geometry": {
+      "location": {
+        "lat": 34.0766123,
+        "lng": -118.30761129999999
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "308 N Oxford Ave, Los Angeles",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "55137 CA-120": {
+    "place_name": "55137 CA-120",
+    "geometry": {
+      "location": {
+        "lat": 37.8009157,
+        "lng": -118.5281327
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "55137 CA-120, Benton",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "1215 Avila Beach Dr": {
+    "place_name": "1215 Avila Beach Dr",
+    "geometry": {
+      "location": {
+        "lat": 35.185952,
+        "lng": -120.7127434
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "1215 Avila Beach Dr, San Luis Obispo",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "62804 Huntington Lake Rd": {
+    "place_name": "62804 Huntington Lake Rd",
+    "geometry": {
+      "location": {
+        "lat": 37.2521461,
+        "lng": -119.1741254
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "point_of_interest"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "62804 Huntington Lake Rd, Lakeshore",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "67425 Two Bunch Palms Trail": {
+    "place_name": "67425 Two Bunch Palms Trail",
+    "geometry": {
+      "location": {
+        "lat": 33.9477602,
+        "lng": -116.4871099
+      }
+    },
+    "rating": null,
+    "reviews": null,
+    "note": [
+      "656e4645000000003c011b14"
+    ],
+    "types": [
+      "Building"
+    ],
+    "valid": true,
+    "notes_to_keywords": {
+      "656e4645000000003c011b14": [
+        "67425 Two Bunch Palms Trail, Desert Hot Springs",
+        true,
+        "加州🔥冬日泡汤放松指南来咯❗",
+        -1
+      ]
+    },
+    "top_ranked": false
+  },
+  "version_tag": "20240105"
+}

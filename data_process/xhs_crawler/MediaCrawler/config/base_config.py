@@ -1,0 +1,72 @@
+# 基础配置
+PLATFORM = "xhs"
+KEYWORDS = "python,golang"
+LOGIN_TYPE = "cookie"  # qrcode or phone or cookie
+COOKIES = ""
+
+LOGIN_TYPE = "cookie"  # qrcode or phone or cookie
+# COOKIES = "abRequestId=2f581917-f557-53bc-a5ba-5a8d2eaa89a2; a1=18aed64ff8fuauwr9vpeksv5t125ljolrc1ufcazj50000340800; webId=fbad9dd64829f32ccaa139ce99a63e57; gid=yY0dfK28jYFJyY0dfK4iiSS0Yi707EFjhUdTyuVMh29yJ72821Vl1i888q48Y888iDyyKqqY; web_session=040069b2e04638ccededcb44a2374b0c4d4a14; webBuild=3.23.2; unread={%22ub%22:%22659a03c8000000001d016051%22%2C%22ue%22:%226597c3a1000000001d031545%22%2C%22uc%22:29}; xsecappid=xhs-pc-web; websectiga=8886be45f388a1ee7bf611a69f3e174cae48f1ea02c0f8ec3256031b8be9c7ee; sec_poison_id=d4997572-dd93-4b65-ba20-9207f93ec69e"
+
+COOKIES = "abRequestId=2f581917-f557-53bc-a5ba-5a8d2eaa89a2; a1=18aed64ff8fuauwr9vpeksv5t125ljolrc1ufcazj50000340800; webId=fbad9dd64829f32ccaa139ce99a63e57; gid=yY0dfK28jYFJyY0dfK4iiSS0Yi707EFjhUdTyuVMh29yJ72821Vl1i888q48Y888iDyyKqqY; webBuild=4.1.6; websectiga=cf46039d1971c7b9a650d87269f31ac8fe3bf71d61ebf9d9a0a87efb414b816c; sec_poison_id=7dcd9eda-6261-4e68-9f44-f422c2f1d6ed; web_session=040069b45291b6fbf77d3f8e8f374b7cffb666; unread={%22ub%22:%2265ba0815000000002c02a9f2%22%2C%22ue%22:%2265b6f288000000000c004614%22%2C%22uc%22:29}; xsecappid=xhs-pc-web"
+
+
+
+CRAWLER_TYPE = "search"
+
+# 是否开启 IP 代理
+ENABLE_IP_PROXY = False
+
+# 代理IP池数量
+IP_PROXY_POOL_COUNT = 2
+
+# 重试时间
+RETRY_INTERVAL = 60 * 30  # 30 minutes
+
+# 无头浏览器的标识，True:开启 False 关闭（会打开一个浏览器）
+HEADLESS = True
+
+# 是否保存登录状态
+SAVE_LOGIN_STATE = True
+
+# 用户浏览器缓存的浏览器文件配置
+USER_DATA_DIR = "%s_user3_data_dir"  # %s will be replaced by platform name
+
+# 爬取视频/帖子的数量控制
+CRAWLER_MAX_NOTES_COUNT = 20
+
+# 并发爬虫数量控制
+MAX_CONCURRENCY_NUM = 10
+
+# 每个视频/帖子抓取评论最大条数 (为0则不限制)
+MAX_COMMENTS_PER_POST = 10
+
+# 评论关键词筛选(只会留下包含关键词的评论,为空不限制)
+COMMENT_KEYWORDS = [
+    "我"
+    # ........................
+]
+
+# 指定小红书需要爬虫的笔记ID列表
+XHS_SPECIFIED_ID_LIST = [
+    "6422c2750000000027000d88",
+    "64ca1b73000000000b028dd2",
+    "630d5b85000000001203ab41",
+    # ........................
+]
+
+# 指定抖音需要爬取的ID列表
+DY_SPECIFIED_ID_LIST = [
+    "7280854932641664319",
+    "7202432992642387233"
+    # ........................
+]
+
+# 指定快手平台需要爬取的ID列表
+KS_SPECIFIED_ID_LIST = []
+
+# 指定B站平台需要爬取的视频ID列表
+BILI_SPECIFIED_ID_LIST = [
+    "416252543",
+    "976148468"
+    # ........................
+]

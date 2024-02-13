@@ -1,0 +1,377 @@
+.navbar {
+  background-color: #555;
+  transform: scale();
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 800;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* Arrange items vertically in a column */
+  width: 100%;
+/*  height: 80px;*/
+  position: relative;
+  z-index: 100;
+}
+
+.nav-container::-webkit-scrollbar {
+  display: none; /* Hide the scrollbar for WebKit browsers (Chrome, Safari) */
+}
+
+.nav-logo {
+  color: #f5b921;
+  align-items: center;
+  margin-left: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 2rem;
+  flex-grow: 1;
+
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.nav-logo .icon {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  margin-left: 16px;
+}
+
+.nav-menu {
+  display: flex;
+  list-style: none;
+  text-align: center;
+  margin-right: 2rem;
+}
+
+.nav-links {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  height: 100%;
+  width: 80px;
+  position: relative;
+  border-bottom: 3px solid transparent;
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Arrange items vertically in a column */
+  align-items: center; /* Center items horizontally within the container */
+
+}
+
+.css-1fdsijx-ValueContainer {
+  display: none;
+}
+
+.nav-item {
+  line-height: 20px;
+  left: -0px;
+  margin-left:-15px;
+  width: 90px;
+  position: relative;
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Arrange items vertically in a column */
+  z-index: 10000;
+}
+
+.nav-item:after {
+  content: "";
+  display: block;
+  height: 3px;
+  background: transparent;
+  transition: width 2s ease, background-color 0.5s ease;
+  z-index: 10000;
+}
+
+.text-left {
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  position: relative; /* Position the line absolutely */
+  top: -12px;
+  color: #1a73e8;
+  flex-direction: column; /* Arrange items vertically in a column */
+  padding: 5px;
+  font-size: 22px;
+  z-index: 2000;
+  visibility: hidden; /* Initially, hide the element */
+  width: 65px;
+}
+
+.control-style {
+  width: 40px; /* Adjust the width as needed */
+}
+
+/* Define a class for the value container style */
+.value-container-style {
+  display: none;
+}
+
+/* Define a class for the menu style */
+.menu-style {
+  position: absolute;
+  width: 150px;
+}
+
+/* Define a class for the indicator separator style */
+.indicator-separator-style {
+  display: none;
+}
+
+/* Define a class for the container style */
+.container-style {
+  position: absolute;
+  transform: scale(0.8);
+  left: 10px;
+}
+
+.icon_nav-container:hover .text-left {
+  visibility: visible;
+  display: inline-block; /* Make the element expand horizontally */
+  white-space: nowrap; /* Prevent wrapping to the next line */
+  border: 2px solid #000; /* Add your desired border style */
+  border-radius: 11px; /* Adjust the value to control the roundness of the corners */
+  padding: 8px;
+  padding-left: 3px; /* Add left padding */
+  padding-right: 3px; /* Add right padding */
+  position: relative; /* Position the line absolutely */
+  flex-direction: column; /* Arrange items vertically in a column */
+  background: white;
+  left: -8px;
+  width: 100%; /* Set the width to 'auto' to fit the content size */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  transition: width 0.3s; /* Add a transition effect for width changes */
+}
+
+.icon_nav-container:hover .text-left2222::after {
+  content: ''; /* Add an empty content for the pseudo-element */
+  display: block;
+  background-color: #ffaa22; /* Set the color of the line to yellow */
+  margin-top: 3px;
+  height: 3px; /* Set the height of the line */
+  width: 90%; /* Make the line span the full width of the text */
+  left: 5%;
+  position: relative; /* Position the line absolutely */
+  flex-direction: column; /* Arrange items vertically in a column */
+  bottom: 0; /* Position it at the bottom of the text */
+}
+
+
+
+.nav-icon {
+  display: none;
+  color: #f5b921;
+}
+
+
+.nav-icon .icon {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+}
+
+.icon_nav{
+  left: -8px;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Arrange items vertically in a column */
+}
+
+
+.column-container {
+  margin-left: -10px;
+  margin-top: 30px; 
+  display: flex; /* Use flexbox layout */
+  flex-direction: column; /* Arrange items vertically in a column */
+  align-items: center; /* Center items horizontally within the container */
+  transform: scale(0.85);
+  z-index: 20000;
+}
+
+.centered-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column; /* Arrange items in a column */
+}
+
+
+.city-icon {
+  position: relative;
+  left: 50px;
+  width: 100px;
+  height: 100px;
+}
+
+
+.nav-menu-div {
+/*    line-height: 20px;*/
+  left: 200px;
+  height: 100px;
+  top: -22px;
+  position: relative;
+  display: flex; /* Use flexbox layout */
+  flex-direction: row; /* Arrange items vertically in a column */
+/*  overflow-x: auto; */
+  z-index: 1000;
+}
+
+/* Styles for smaller screens (e.g., max-width: 767px) */
+@media (max-width: 1400px) {
+  .responsive-image {
+    display: none; /* Hide the image on smaller screens */
+  }
+}
+
+
+@media screen and (max-width: 1400px) {
+  .nav-menu-div {
+    position: relative;
+    left: 200px;
+    height: 100px;
+    top: -25px;
+  }
+
+  .column-container {
+    margin-top: 32px;
+    margin-left: -20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transform: scale(0.8);
+    z-index: 200;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .nav-menu-div {
+    position: relative;
+    left: 200px;
+    height: 100px;
+    top: -28px;
+  }
+
+  .navbar {
+    background-color: #555;
+    transform: scale();
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+  }
+
+
+  .nav-container {
+    top: 20%;
+    height: 90px;
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+
+  .column-container {
+    margin-top: 27px;
+    margin-left: -25px;
+    transform: scale(0.7);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    top: 30%;
+    height: 90px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: relative;
+  }
+
+  .nav-menu-div {
+    position: absolute;
+    top: -30px;
+    left: 150px;
+  }
+
+
+  /* ... (other styles) ... */
+
+  .column-container {
+    margin-top: 15px;
+    margin-left: -30px;
+    transform: scale(0.7);
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  .nav-container {
+    top: 10%;
+    height: 90px;
+  }
+
+  .nav-menu-div {
+    top: -25px;
+    left: 150px;
+  }
+
+  .navbar {
+    height: 50px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -37px;
+    transform: scale(0.6);
+  }
+}
+
+@media screen and (max-width: 450px) {
+
+  .nav-container {
+    top: 0%;
+    height: 80px;
+  }
+
+  .nav-menu-div {
+    left: 100px;
+  }
+
+  .navbar {
+    height: 40px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -40px;
+    transform: scale(0.55);
+  }
+}
+
+@media screen and (max-width: 400px),
+       screen and (max-width: 300px) {
+
+  .navbar {
+    height: 40px;
+  }
+
+  .column-container {
+    margin-top: 24px;
+    margin-left: -40px;
+    transform: scale(0.55);
+  }
+}

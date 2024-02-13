@@ -1,0 +1,217 @@
+.ReactCollapse--collapse {
+  transition: height 500ms;
+}
+
+.independent-window {
+  position: fixed;
+  top: 50%; /* Adjust the top value to move it lower */
+  left: -23%;
+  width: 45%; /* Adjust the width as needed */
+  height: 0%;
+  background-color: rgba(255, 255, 255, 0); /* White background */
+  z-index: 1000; /* Adjust the z-index as needed */
+  display: flex;
+  flex-direction: column; /* To stack content vertically */
+  padding: 20px; /* Add padding to the window */
+/*  background: rgba(255, 255, 20, 0);*/
+  left: -450px;
+  top: 520px; /* Adjust the value to move it down */
+  width: 900px;
+  transform: rotate(270deg); /* Move left when not expanded */
+}
+
+
+.window-content {
+  background-color: #fff; /* White background for the window */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  max-width: 80%;
+  max-height: 80%;
+  overflow: auto;
+}
+
+.small-panel {
+/*  height: 20px;  Adjust the width as per your needs, e.g., 50% of the parent container's width */
+/*border: 1px solid black; */
+  /* You can also add more styling, such as padding, margin, etc., to customize the appearance of the panel */
+}
+
+
+.List {
+  .main {
+  }
+  .row {
+    position: relative;
+    margin: px;
+    border-radius: 4px;
+    font-size: 18px;
+    color: black;
+    max-height: 250px;
+    width: 410px;
+    padding: 0 8px;
+    line-height: 50px;
+    background: rgba(255, 255, 255, 0.7);
+  }
+  .delete {
+    position: absolute;
+    top: 14px;
+    right: 20px;
+    font-size: 20px;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    border: 0px;
+    background: rgba(255, 255, 255, 0);
+  }
+  .inputs {
+    margin-top: 10px;
+  }
+  input {
+    position: relative;
+    top: -1px;
+    height: 23px;
+  }
+  button {
+    margin-left: 10px;
+    background-color: #3789c7;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;
+  }
+}
+
+.inner_window {
+  position: relative;
+  left: 380px;
+  top: -10px;
+  width: 470px;
+  height: 460px;
+}
+
+.clear-button {
+  position: relative;
+  left: 200px;
+  top: 230px;
+  font-size: 18px;
+  margin: 20px;
+}
+
+
+.inner_window_container {
+  position: absolute;
+  width: 400px;
+  height: 500px;
+  left: 100px;
+  top: 100px;
+  max-height: 250px;
+  transform: rotate(90deg);
+  margin-left: -60px;
+}
+
+
+.scrollable-div {
+  height: 750px;
+  width: 450px;
+  overflow-y: auto;
+  margin-top: 20px;
+  text-align: left;
+  overflow-x: hidden;
+}
+
+/* Customize the scrollbar */
+.scrollable-div::-webkit-scrollbar {
+  width: 14px;
+}
+
+.scrollable-div::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.scrollable-div::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.text-container {
+  max-width: 370px; /* Adjust the width as needed */
+ line-height: 1.6;
+/*  overflow: hidden;*/
+/*  text-overflow: ellipsis;  Optional: add ellipsis for long texts */
+/*  white-space: nowrap;  Optional: prevent text from wrapping */
+}
+
+.button-container {
+  position: relative;
+  left: 450px;
+  top: 35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  transform: rotate(90deg);
+    border: 1px solid #3b9de9;
+}
+
+.aws-btn {
+  position: relative;
+  left: 200px;
+  top: 230px;
+  height: 400px;
+  width: 200px;
+  font-size: 200px;
+}
+
+.icon-container {
+  position: relative;
+  left: 190px;
+  top: 230px;
+  height: 30px;
+  width: 80px;
+  font-size: 55px;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  margin-left: 28px; /* Add a left margin of 10px */
+}
+
+.icon-container:hover .label {
+  opacity: 1; /* Show the text on hover */
+}
+
+.icon_nav {
+  position: relative;
+  margin-left: 15px;
+  font-size: 0.5rem; /* Adjust the font size as needed */
+  color: white;
+  top: 6px;
+  border: 1px solid white;
+  font-size: 35px;
+  border-radius: 30%; /* This creates a circular border */
+  padding: 12px; /* Adjust the padding as needed */
+  display: inline-block;
+}
+
+.icon_nav:hover {
+  background-color: rgba(169, 169, 169, 0.6);   /* Change the color to a darker shade on hover */
+}
+
+.label {
+  color: black;
+  text-align: center;
+  justify-content: center; /* Center vertically */
+  font-size: 18px;
+  width: 100px; /* Adjust the width as needed */
+  position: relative;
+  top: -3px;
+  left: -12%;
+  opacity: 1; /* Initially hide the text */
+  transition: opacity 0.5s; /* Add a smooth transition effect */
+  font-family: 'Arial'; /* Change the font family to Arial or any other font you prefer */
+}
+
